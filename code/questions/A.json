@@ -1,335 +1,401 @@
-[
-  { id: "A01", image: "images/examen/A01.png", alt: "Parking",
-    question: "Dans ce parking, le stationnement est :",
-    reponses: [
-      { texte: "gratuit", correcte: true },
-      { texte: "payant", correcte: false },
-      { texte: "à durée limitée", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A02", image: "images/examen/A02.png", alt: "SMS au volant",
-    question: "La lecture d'un SMS ou d'une notification en conduisant multiplie le risque d'accident par :",
-    reponses: [
-      { texte: "5", correcte: false },
-      { texte: "10", correcte: false },
-      { texte: "23", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A03", image: "images/examen/A03.png", alt: "Passage à niveau",
-    question: "La barrière du passage à niveau est endommagée, j'utilise ce téléphone :",
-    reponses: [
-      { texte: "OUI", correcte: true },
-      { texte: "NON", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A04", type: "oui-non", image: "images/examen/A04.png", alt: "Véhicule électrique",
-    question: "L'autonomie d'un véhicule électrique varie en fonction :",
-    affirmations: [
-      { texte: "du style de conduite", vrai: true },
-      { texte: "du niveau de charge de la batterie de traction", vrai: true }
-    ],
-    explication: "" },
-
-  { id: "A05", type: "oui-non", image: "images/examen/A05.png", alt: "Piéton",
-    question: "En dépassant, le conducteur de ce véhicule risque de ne pas détecter le piéton / Le piéton s'assure d'avoir été vu avant de s'engager :",
-    affirmations: [
-      { texte: "En dépassant, le conducteur risque de ne pas détecter le piéton", vrai: true },
-      { texte: "Le piéton s'assure d'avoir été vu avant de s'engager", vrai: true }
-    ],
-    explication: "" },
-
-  { id: "A06", image: "images/examen/A06.png", alt: "Dégivrage",
-    question: "Afin de dégivrer le pare-brise, il est préférable :",
-    reponses: [
-      { texte: "d'enclencher le désembuage et d'utiliser un grattoir", correcte: true },
-      { texte: "de verser de l'eau chaude", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A07", image: "images/examen/A07.png", alt: "Clignotant",
-    question: "Souhaitant s'engager dans la circulation, l'automobiliste a actionné son clignotant gauche au bon moment :",
-    reponses: [
-      { texte: "OUI", correcte: false },
-      { texte: "NON", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A08", image: "images/examen/A08.png", alt: "Feux de détresse",
-    question: "L'allumage de ce témoin m'impose l'arrêt. J'allume les feux de détresse :",
-    reponses: [
-      { texte: "immédiatement", correcte: false },
-      { texte: "après avoir ralenti", correcte: true },
-      { texte: "une fois sur la bande d'arrêt d'urgence", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A09", type: "oui-non", image: "images/examen/A09.png", alt: "Virage",
-    question: "Ce virage représente une zone de danger potentiel / Je peux y découvrir :",
-    affirmations: [
-      { texte: "Ce virage représente une zone de danger potentiel", vrai: true },
-      { texte: "Je peux y découvrir un usager vulnérable", vrai: true }
-    ],
-    explication: "" },
-
-  { id: "A10", type: "oui-non", image: "images/examen/A10.png", alt: "Voie covoiturage",
-    question: "Ce panneau indique une voie réservée / Si je covoiture, je peux emprunter cette voie :",
-    affirmations: [
-      { texte: "Ce panneau indique une voie réservée", vrai: true },
-      { texte: "Si je covoiture, je peux emprunter cette voie", vrai: false }
-    ],
-    explication: "" },
-
-  { id: "A11", image: "images/examen/A11.png", alt: "Étiquette énergie",
-    question: "À l'achat d'un véhicule neuf, une étiquette énergie m'informe :",
-    reponses: [
-      { texte: "de la consommation moyenne en énergie", correcte: true },
-      { texte: "du niveau des émissions de CO2", correcte: true },
-      { texte: "du prix du véhicule", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A12", type: "oui-non", image: "images/examen/A12.png", alt: "Post-permis",
-    question: "La formation complémentaire post permis permet :",
-    affirmations: [
-      { texte: "de récupérer des points perdus", vrai: false },
-      { texte: "de réduire la durée de la période probatoire", vrai: true }
-    ],
-    explication: "" },
-
-  { id: "A13", image: "images/examen/A13.png", alt: "Se garer",
-    question: "Le conducteur de ce véhicule désire se garer. Il a la priorité sur le motard :",
-    reponses: [
-      { texte: "OUI", correcte: false },
-      { texte: "NON", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A14", type: "oui-non", image: "images/examen/A14.png", alt: "Allure réduite",
-    question: "Une allure anormalement réduite / J'actionne les feux de détresse :",
-    affirmations: [
-      { texte: "peut surprendre les autres usagers", vrai: true },
-      { texte: "J'actionne les feux de détresse", vrai: true }
-    ],
-    explication: "" },
-
-  { id: "A15", image: "images/examen/A15.png", alt: "Tourner à gauche",
-    question: "Pour tourner à gauche à cette intersection, je passe :",
-    reponses: [
-      { texte: "avant ce véhicule", correcte: false },
-      { texte: "après ce véhicule", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A16", image: "images/examen/A16.png", alt: "Pneus neige",
-    question: "En période hivernale, si mon véhicule n'est pas équipé de 4 pneus neige, j'ai l'obligation d'avoir des chaînes à neige à bord :",
-    reponses: [
-      { texte: "OUI", correcte: true },
-      { texte: "NON", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A17", type: "oui-non", image: "images/examen/A17.png", alt: "ESP",
-    question: "L'ESP permet :",
-    affirmations: [
-      { texte: "de passer plus vite en virage", vrai: false },
-      { texte: "de réduire les distances de sécurité", vrai: false }
-    ],
-    explication: "" },
-
-  { id: "A18", type: "oui-non", image: "images/examen/A18.png", alt: "Allure adaptée",
-    question: "Mon allure est adaptée à la situation / Je me décale le plus à droite possible :",
-    affirmations: [
-      { texte: "Mon allure est adaptée à la situation", vrai: false },
-      { texte: "Je me décale le plus à droite possible", vrai: true }
-    ],
-    explication: "" },
-
-  { id: "A19", image: "images/examen/A19.png", alt: "Trappe à carburant",
-    question: "La trappe à carburant est toujours située à droite :",
-    reponses: [
-      { texte: "OUI", correcte: false },
-      { texte: "NON", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A20", image: "images/examen/A20.png", alt: "Temps de réaction",
-    question: "Pour évaluer la distance parcourue pendant le temps de réaction à 50 km/h, il faut multiplier 5 par :",
-    reponses: [
-      { texte: "3", correcte: true },
-      { texte: "5", correcte: false },
-      { texte: "6", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A21", image: "images/examen/A21.png", alt: "Signaux sonores",
-    question: "Selon la distance avec l'obstacle, les signaux sonores et visuels varient :",
-    reponses: [
-      { texte: "OUI", correcte: true },
-      { texte: "NON", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A22", image: "images/examen/A22.png", alt: "Tramway",
-    question: "Le tramway venant de passer, le conducteur de cette voiture :",
-    reponses: [
-      { texte: "peut s'engager même si le feu est toujours clignotant", correcte: false },
-      { texte: "doit attendre", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A23", image: "images/examen/A23.png", alt: "Klaxon",
-    question: "Klaxonner en ville est autorisé :",
-    reponses: [
-      { texte: "pour inciter un conducteur à démarrer plus vite", correcte: false },
-      { texte: "pour empêcher la traversée régulière d'un piéton", correcte: false },
-      { texte: "en cas de danger immédiat", correcte: true },
-      { texte: "avant de dépasser un cycliste", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A24", image: "images/examen/A24.png", alt: "Cyclistes",
-    question: "Les cyclistes peuvent tourner à droite :",
-    reponses: [
-      { texte: "uniquement lorsque le feu est vert", correcte: false },
-      { texte: "même lorsque le feu est rouge", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A25", image: "images/examen/A25.png", alt: "Danger",
-    question: "Le danger annoncé :",
-    reponses: [
-      { texte: "commence à 150 m", correcte: true },
-      { texte: "commence à 500 m", correcte: false },
-      { texte: "s'étend sur 150 m", correcte: false },
-      { texte: "s'étend sur 500 m", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A26", type: "oui-non", image: "images/examen/A26.png", alt: "Feux de recul",
-    question: "L'allumage des feux de recul est un indicateur du risque de manoeuvre de ce véhicule / Son conducteur voit très bien le motard arriver :",
-    affirmations: [
-      { texte: "L'allumage des feux de recul est un indicateur du risque de manoeuvre", vrai: true },
-      { texte: "Son conducteur voit très bien le motard arriver", vrai: false }
-    ],
-    explication: "" },
-
-  { id: "A27", type: "oui-non", image: "images/examen/A27.png", alt: "Aide au maintien",
-    question: "L'aide au maintien dans la voie / permet de conduire sans tenir le volant :",
-    affirmations: [
-      { texte: "fonctionne dans toutes les situations", vrai: false },
-      { texte: "permet de conduire sans tenir le volant", vrai: false }
-    ],
-    explication: "" },
-
-  { id: "A28", image: "images/examen/A28.png", alt: "Bien placé",
-    question: "Dans cette situation, ce véhicule est bien placé :",
-    reponses: [
-      { texte: "OUI", correcte: false },
-      { texte: "NON", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A29", type: "oui-non", image: "images/examen/A29.png", alt: "Trottinette",
-    question: "Utilisateur d'une trottinette non motorisée, cet enfant est assimilé à un piéton / Il doit circuler sur le trottoir :",
-    affirmations: [
-      { texte: "Utilisateur d'une trottinette non motorisée, cet enfant est assimilé à un piéton", vrai: true },
-      { texte: "Il doit circuler sur le trottoir", vrai: true }
-    ],
-    explication: "" },
-
-  { id: "A30", image: "images/examen/A30.png", alt: "Priorité à droite",
-    question: "Dans cette situation, le véhicule A cède le passage au véhicule B :",
-    reponses: [
-      { texte: "OUI", correcte: true },
-      { texte: "NON", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A31", image: "images/examen/A31.png", alt: "Disque de stationnement",
-    question: "Un disque de stationnement est obligatoire pour stationner sur l'emplacement :",
-    reponses: [
-      { texte: "A", correcte: false },
-      { texte: "B", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A32", image: "images/examen/A32.png", alt: "Appel téléphonique",
-    question: "Pour passer un appel, j'utilise de préférence :",
-    reponses: [
-      { texte: "la numérotation manuelle sur l'écran", correcte: false },
-      { texte: "la commande vocale", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A33", image: "images/examen/A33.png", alt: "Distance de sécurité",
-    question: "À 130 km/h, sur autoroute, un intervalle de sécurité de 2 secondes correspond à :",
-    reponses: [
-      { texte: "1 trait de la bande d'arrêt d'urgence", correcte: false },
-      { texte: "2 traits de la bande d'arrêt d'urgence", correcte: true },
-      { texte: "3 traits de la bande d'arrêt d'urgence", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A34", image: "images/examen/A34.png", alt: "Camion",
-    question: "Pour être vu du conducteur du camion je dois :",
-    reponses: [
-      { texte: "me rapprocher du poids lourd", correcte: false },
-      { texte: "m'éloigner du poids lourd", correcte: true },
-      { texte: "me décaler légèrement sur ma voie", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A35", image: "images/examen/A35.png", alt: "Transport de marchandises",
-    question: "Cette signalisation concerne les véhicules affectés au transport de marchandises :",
-    reponses: [
-      { texte: "de plus de 3,5 tonnes seulement", correcte: false },
-      { texte: "peu importe leur poids", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A36", image: "images/examen/A36.png", alt: "Liquide de refroidissement",
-    question: "Il est préférable que le niveau de liquide de refroidissement se situe :",
-    reponses: [
-      { texte: "légèrement en-dessous du repère maximum", correcte: true },
-      { texte: "légèrement en-dessous du repère minimum", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A37", image: "images/examen/A37.png", alt: "Panne sur autoroute",
-    question: "Sur autoroute, en cas de panne, j'emmène les passagers :",
-    reponses: [
-      { texte: "derrière la glissière de sécurité", correcte: true },
-      { texte: "devant le véhicule", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A38", image: "images/examen/A38.png", alt: "Fatigue",
-    question: "Lors d'un long trajet, je limite la fatigue :",
-    reponses: [
-      { texte: "en évitant de consommer un médicament comportant un pictogramme", correcte: true },
-      { texte: "en partant entre 2 h et 4 h du matin", correcte: false },
-      { texte: "en circulant au-dessus des limitations de vitesse", correcte: false },
-      { texte: "en faisant une pause toutes les 2 heures", correcte: true }
-    ],
-    explication: "" },
-
-  { id: "A39", image: "images/examen/A39.png", alt: "Recharge",
-    question: "Avant de faire un long trajet en véhicule électrique, je vérifie la charge de la batterie :",
-    reponses: [
-      { texte: "OUI", correcte: true },
-      { texte: "NON", correcte: false }
-    ],
-    explication: "" },
-
-  { id: "A40", image: "images/examen/A40.png", alt: "Bande cyclable",
-    question: "Un arrêt sur une bande cyclable :",
-    reponses: [
-      { texte: "peut mettre ce cycliste en danger", correcte: true },
-      { texte: "doit être signalé par des feux de détresse", correcte: false },
-      { texte: "est passible d'une contravention", correcte: true }
-    ],
-    explication: "" }
-]
+{
+  "test": "Codes Rousseau - Test gratuit voiture",
+  "questions": [
+    {
+      "id": "A01",
+      "enonce": "Dans ce parking, le stationnement est :",
+      "options": {
+        "A": "gratuit",
+        "B": "payant",
+        "C": "à durée limitée"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "A02",
+      "enonce": "La lecture d'un SMS ou d'une notification en conduisant multiplie le risque d'accident par :",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "23"
+      },
+      "reponses": ["C"]
+    },
+    {
+      "id": "A03",
+      "enonce": "La barrière du passage à niveau est endommagée, j'utilise ce téléphone :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "A04",
+      "enonce": "L'autonomie d'un véhicule électrique varie en fonction :",
+      "options": {
+        "A": "du style de conduite (OUI)",
+        "B": "du style de conduite (NON)",
+        "C": "du niveau de charge de la batterie de traction (OUI)",
+        "D": "du niveau de charge de la batterie de traction (NON)"
+      },
+      "reponses": ["A", "C"]
+    },
+    {
+      "id": "A05",
+      "enonce": "En dépassant, le conducteur de ce véhicule risque de ne pas détecter le piéton / Le piéton s'assure d'avoir été vu avant de s'engager :",
+      "options": {
+        "A": "En dépassant, le conducteur risque de ne pas détecter le piéton : OUI",
+        "B": "En dépassant, le conducteur risque de ne pas détecter le piéton : NON",
+        "C": "Le piéton s'assure d'avoir été vu avant de s'engager : OUI",
+        "D": "Le piéton s'assure d'avoir été vu avant de s'engager : NON"
+      },
+      "reponses": ["A", "C"]
+    },
+    {
+      "id": "A06",
+      "enonce": "Afin de dégivrer le pare-brise, il est préférable :",
+      "options": {
+        "A": "d'enclencher le désembuage et d'utiliser un grattoir",
+        "B": "de verser de l'eau chaude"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "A07",
+      "enonce": "Souhaitant s'engager dans la circulation, l'automobiliste a actionné son clignotant gauche au bon moment :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "A08",
+      "enonce": "L'allumage de ce témoin m'impose l'arrêt. J'allume les feux de détresse :",
+      "options": {
+        "A": "immédiatement",
+        "B": "après avoir ralenti",
+        "C": "une fois sur la bande d'arrêt d'urgence"
+      },
+      "reponses": ["B", "C"]
+    },
+    {
+      "id": "A09",
+      "enonce": "Ce virage représente une zone de danger potentiel / Je peux y découvrir :",
+      "options": {
+        "A": "Ce virage représente une zone de danger potentiel : OUI",
+        "B": "Ce virage représente une zone de danger potentiel : NON",
+        "C": "Je peux y découvrir un usager vulnérable",
+        "D": "Je peux y découvrir une intersection"
+      },
+      "reponses": ["A", "C"]
+    },
+    {
+      "id": "A10",
+      "enonce": "Ce panneau indique une voie réservée / Si je covoiture, je peux emprunter cette voie :",
+      "options": {
+        "A": "Ce panneau indique une voie réservée : OUI",
+        "B": "Ce panneau indique une voie réservée : NON",
+        "C": "Si je covoiture, je peux emprunter cette voie : OUI",
+        "D": "Si je covoiture, je peux emprunter cette voie : NON"
+      },
+      "reponses": ["A", "D"]
+    },
+    {
+      "id": "A11",
+      "enonce": "À l'achat d'un véhicule neuf, une étiquette énergie m'informe :",
+      "options": {
+        "A": "de la consommation moyenne en énergie",
+        "B": "du niveau des émissions de CO2",
+        "C": "du prix du véhicule"
+      },
+      "reponses": ["A", "B"]
+    },
+    {
+      "id": "A12",
+      "enonce": "La formation complémentaire post permis permet :",
+      "options": {
+        "A": "de récupérer des points perdus : OUI",
+        "B": "de récupérer des points perdus : NON",
+        "C": "de réduire la durée de la période probatoire : OUI",
+        "D": "de réduire la durée de la période probatoire : NON"
+      },
+      "reponses": ["B", "C"]
+    },
+    {
+      "id": "A13",
+      "enonce": "Le conducteur de ce véhicule désire se garer. Il a la priorité sur le motard :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "A14",
+      "enonce": "Une allure anormalement réduite / J'actionne les feux de détresse :",
+      "options": {
+        "A": "peut surprendre les autres usagers",
+        "B": "risque de provoquer un accident",
+        "C": "J'actionne les feux de détresse : OUI",
+        "D": "J'actionne les feux de détresse : NON"
+      },
+      "reponses": ["A", "B", "C"]
+    },
+    {
+      "id": "A15",
+      "enonce": "Pour tourner à gauche à cette intersection, je passe :",
+      "options": {
+        "A": "avant ce véhicule",
+        "B": "après ce véhicule"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "A16",
+      "enonce": "En période hivernale, si mon véhicule n'est pas équipé de 4 pneus neige, j'ai l'obligation d'avoir des chaînes à neige à bord :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "A17",
+      "enonce": "L'ESP permet :",
+      "options": {
+        "A": "de passer plus vite en virage : OUI",
+        "B": "de passer plus vite en virage : NON",
+        "C": "de réduire les distances de sécurité : OUI",
+        "D": "de réduire les distances de sécurité : NON"
+      },
+      "reponses": ["B", "D"]
+    },
+    {
+      "id": "A18",
+      "enonce": "Mon allure est adaptée à la situation / Je me décale le plus à droite possible :",
+      "options": {
+        "A": "Mon allure est adaptée à la situation : OUI",
+        "B": "Mon allure est adaptée à la situation : NON",
+        "C": "Je me décale le plus à droite possible : OUI",
+        "D": "Je me décale le plus à droite possible : NON"
+      },
+      "reponses": ["B", "C"]
+    },
+    {
+      "id": "A19",
+      "enonce": "La trappe à carburant est toujours située à droite :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "A20",
+      "enonce": "Pour évaluer la distance parcourue pendant le temps de réaction à 50 km/h, il faut multiplier 5 par :",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "6"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "A21",
+      "enonce": "Selon la distance avec l'obstacle, les signaux sonores et visuels varient :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "A22",
+      "enonce": "Le tramway venant de passer, le conducteur de cette voiture :",
+      "options": {
+        "A": "peut s'engager même si le feu est toujours clignotant",
+        "B": "doit attendre"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "A23",
+      "enonce": "Klaxonner en ville est autorisé :",
+      "options": {
+        "A": "pour inciter un conducteur à démarrer plus vite",
+        "B": "pour empêcher la traversée régulière d'un piéton",
+        "C": "en cas de danger immédiat",
+        "D": "avant de dépasser un cycliste"
+      },
+      "reponses": ["C"]
+    },
+    {
+      "id": "A24",
+      "enonce": "Les cyclistes peuvent tourner à droite :",
+      "options": {
+        "A": "uniquement lorsque le feu est vert",
+        "B": "même lorsque le feu est rouge"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "A25",
+      "enonce": "Le danger annoncé :",
+      "options": {
+        "A": "commence à 150 m",
+        "B": "commence à 500 m",
+        "C": "s'étend sur 150 m",
+        "D": "s'étend sur 500 m"
+      },
+      "reponses": ["A", "D"]
+    },
+    {
+      "id": "A26",
+      "enonce": "L'allumage des feux de recul est un indicateur du risque de manoeuvre de ce véhicule / Son conducteur voit très bien le motard arriver :",
+      "options": {
+        "A": "L'allumage des feux de recul est un indicateur du risque de manoeuvre de ce véhicule : OUI",
+        "B": "L'allumage des feux de recul est un indicateur du risque de manoeuvre de ce véhicule : NON",
+        "C": "Son conducteur voit très bien le motard arriver : OUI",
+        "D": "Son conducteur voit très bien le motard arriver : NON"
+      },
+      "reponses": ["A", "D"]
+    },
+    {
+      "id": "A27",
+      "enonce": "L'aide au maintien dans la voie / permet de conduire sans tenir le volant :",
+      "options": {
+        "A": "fonctionne dans toutes les situations : OUI",
+        "B": "fonctionne dans toutes les situations : NON",
+        "C": "permet de conduire sans tenir le volant : OUI",
+        "D": "permet de conduire sans tenir le volant : NON"
+      },
+      "reponses": ["B", "D"]
+    },
+    {
+      "id": "A28",
+      "enonce": "Dans cette situation, ce véhicule est bien placé :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "A29",
+      "enonce": "Utilisateur d'une trottinette non motorisée, cet enfant est assimilé à un piéton / Il doit circuler sur le trottoir :",
+      "options": {
+        "A": "Utilisateur d'une trottinette non motorisée, cet enfant est assimilé à un piéton : OUI",
+        "B": "Utilisateur d'une trottinette non motorisée, cet enfant est assimilé à un piéton : NON",
+        "C": "Il doit circuler sur le trottoir : OUI",
+        "D": "Il doit circuler sur le trottoir : NON"
+      },
+      "reponses": ["A", "C"]
+    },
+    {
+      "id": "A30",
+      "enonce": "Dans cette situation, le véhicule A cède le passage au véhicule B :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "A31",
+      "enonce": "Un disque de stationnement est obligatoire pour stationner sur l'emplacement :",
+      "options": {
+        "A": "A",
+        "B": "B"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "A32",
+      "enonce": "Pour passer un appel, j'utilise de préférence :",
+      "options": {
+        "A": "la numérotation manuelle sur l'écran",
+        "B": "la commande vocale"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "A33",
+      "enonce": "À 130 km/h, sur autoroute, un intervalle de sécurité de 2 secondes correspond à :",
+      "options": {
+        "A": "1 trait de la bande d'arrêt d'urgence",
+        "B": "2 traits de la bande d'arrêt d'urgence",
+        "C": "3 traits de la bande d'arrêt d'urgence"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "A34",
+      "enonce": "Pour être vu du conducteur du camion je dois :",
+      "options": {
+        "A": "me rapprocher du poids lourd",
+        "B": "m'éloigner du poids lourd",
+        "C": "me décaler légèrement sur ma voie"
+      },
+      "reponses": ["B", "C"]
+    },
+    {
+      "id": "A35",
+      "enonce": "Cette signalisation concerne les véhicules affectés au transport de marchandises :",
+      "options": {
+        "A": "de plus de 3,5 tonnes seulement",
+        "B": "peu importe leur poids"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "A36",
+      "enonce": "Il est préférable que le niveau de liquide de refroidissement se situe :",
+      "options": {
+        "A": "légèrement en-dessous du repère maximum",
+        "B": "légèrement en-dessous du repère minimum"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "A37",
+      "enonce": "Sur autoroute, en cas de panne, j'emmène les passagers :",
+      "options": {
+        "A": "derrière la glissière de sécurité",
+        "B": "devant le véhicule"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "A38",
+      "enonce": "Lors d'un long trajet, je limite la fatigue :",
+      "options": {
+        "A": "en évitant de consommer un médicament comportant un pictogramme",
+        "B": "en partant entre 2 h et 4 h du matin",
+        "C": "en circulant au-dessus des limitations de vitesse",
+        "D": "en faisant une pause toutes les 2 heures"
+      },
+      "reponses": ["A", "D"]
+    },
+    {
+      "id": "A39",
+      "enonce": "Avant de faire un long trajet en véhicule électrique, je vérifie la charge de la batterie :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "A40",
+      "enonce": "Un arrêt sur une bande cyclable :",
+      "options": {
+        "A": "peut mettre ce cycliste en danger",
+        "B": "doit être signalé par des feux de détresse",
+        "C": "est passible d'une contravention"
+      },
+      "reponses": ["A", "C"]
+    }
+  ]
+}
