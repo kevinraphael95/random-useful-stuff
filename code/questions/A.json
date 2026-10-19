@@ -1,15 +1,4 @@
-/* =========================================================
-   EXAMEN BLANC : base de questions (page examen.html)
-   Série A
-   ========================================================= */
-
-const EXAMEN_CONFIG = {
-  nbQuestions: 40,
-  dureeQuestionSec: 30,
-  seuil: 35
-};
-
-const EXAMEN_QUESTIONS = [
+[
   { id: "A01", image: "images/examen/A01.png", alt: "Parking",
     question: "Dans ce parking, le stationnement est :",
     reponses: [
@@ -343,4 +332,4 @@ const EXAMEN_QUESTIONS = [
       { texte: "est passible d'une contravention", correcte: true }
     ],
     explication: "" }
-];
+]
