@@ -9,7 +9,9 @@
         "B": "payant",
         "C": "à durée limitée"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "A02",
@@ -19,7 +21,9 @@
         "B": "10",
         "C": "23"
       },
-      "reponses": ["C"]
+      "reponses": [
+        "C"
+      ]
     },
     {
       "id": "A03",
@@ -28,18 +32,23 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "A04",
       "enonce": "L'autonomie d'un véhicule électrique varie en fonction :",
       "options": {
-        "A": "du style de conduite (OUI)",
-        "B": "du style de conduite (NON)",
-        "C": "du niveau de charge de la batterie de traction (OUI)",
-        "D": "du niveau de charge de la batterie de traction (NON)"
+        "A": "du style de conduite : OUI",
+        "B": "du style de conduite : NON",
+        "C": "du niveau de charge de la batterie de traction : OUI",
+        "D": "du niveau de charge de la batterie de traction : NON"
       },
-      "reponses": ["A", "C"]
+      "reponses": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "A05",
@@ -50,7 +59,10 @@
         "C": "Le piéton s'assure d'avoir été vu avant de s'engager : OUI",
         "D": "Le piéton s'assure d'avoir été vu avant de s'engager : NON"
       },
-      "reponses": ["A", "C"]
+      "reponses": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "A06",
@@ -59,7 +71,9 @@
         "A": "d'enclencher le désembuage et d'utiliser un grattoir",
         "B": "de verser de l'eau chaude"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "A07",
@@ -68,7 +82,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "A08",
@@ -78,18 +94,24 @@
         "B": "après avoir ralenti",
         "C": "une fois sur la bande d'arrêt d'urgence"
       },
-      "reponses": ["B", "C"]
+      "reponses": [
+        "B",
+        "C"
+      ]
     },
     {
       "id": "A09",
-      "enonce": "Ce virage représente une zone de danger potentiel / Je peux y découvrir :",
+      "enonce": "Ce virage représente une zone de danger potentiel / Je peux y découvrir un usager vulnérable :",
       "options": {
         "A": "Ce virage représente une zone de danger potentiel : OUI",
         "B": "Ce virage représente une zone de danger potentiel : NON",
-        "C": "Je peux y découvrir un usager vulnérable",
-        "D": "Je peux y découvrir une intersection"
+        "C": "Je peux y découvrir un usager vulnérable : OUI",
+        "D": "Je peux y découvrir un usager vulnérable : NON"
       },
-      "reponses": ["A", "C"]
+      "reponses": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "A10",
@@ -100,7 +122,10 @@
         "C": "Si je covoiture, je peux emprunter cette voie : OUI",
         "D": "Si je covoiture, je peux emprunter cette voie : NON"
       },
-      "reponses": ["A", "D"]
+      "reponses": [
+        "A",
+        "D"
+      ]
     },
     {
       "id": "A11",
@@ -110,7 +135,10 @@
         "B": "du niveau des émissions de CO2",
         "C": "du prix du véhicule"
       },
-      "reponses": ["A", "B"]
+      "reponses": [
+        "A",
+        "B"
+      ]
     },
     {
       "id": "A12",
@@ -121,7 +149,10 @@
         "C": "de réduire la durée de la période probatoire : OUI",
         "D": "de réduire la durée de la période probatoire : NON"
       },
-      "reponses": ["B", "C"]
+      "reponses": [
+        "B",
+        "C"
+      ]
     },
     {
       "id": "A13",
@@ -130,18 +161,23 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "A14",
-      "enonce": "Une allure anormalement réduite / J'actionne les feux de détresse :",
+      "enonce": "Une allure anormalement réduite peut surprendre les autres usagers et risque de provoquer un accident / J'actionne les feux de détresse :",
       "options": {
-        "A": "peut surprendre les autres usagers",
-        "B": "risque de provoquer un accident",
+        "A": "Une allure anormalement réduite peut surprendre les autres usagers et risque de provoquer un accident : OUI",
+        "B": "Une allure anormalement réduite peut surprendre les autres usagers et risque de provoquer un accident : NON",
         "C": "J'actionne les feux de détresse : OUI",
         "D": "J'actionne les feux de détresse : NON"
       },
-      "reponses": ["A", "B", "C"]
+      "reponses": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "A15",
@@ -150,7 +186,9 @@
         "A": "avant ce véhicule",
         "B": "après ce véhicule"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "A16",
@@ -159,7 +197,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "A17",
@@ -170,7 +210,10 @@
         "C": "de réduire les distances de sécurité : OUI",
         "D": "de réduire les distances de sécurité : NON"
       },
-      "reponses": ["B", "D"]
+      "reponses": [
+        "B",
+        "D"
+      ]
     },
     {
       "id": "A18",
@@ -181,7 +224,10 @@
         "C": "Je me décale le plus à droite possible : OUI",
         "D": "Je me décale le plus à droite possible : NON"
       },
-      "reponses": ["B", "C"]
+      "reponses": [
+        "B",
+        "C"
+      ]
     },
     {
       "id": "A19",
@@ -190,7 +236,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "A20",
@@ -200,7 +248,9 @@
         "B": "5",
         "C": "6"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "A21",
@@ -209,7 +259,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "A22",
@@ -218,7 +270,9 @@
         "A": "peut s'engager même si le feu est toujours clignotant",
         "B": "doit attendre"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "A23",
@@ -229,7 +283,9 @@
         "C": "en cas de danger immédiat",
         "D": "avant de dépasser un cycliste"
       },
-      "reponses": ["C"]
+      "reponses": [
+        "C"
+      ]
     },
     {
       "id": "A24",
@@ -238,7 +294,9 @@
         "A": "uniquement lorsque le feu est vert",
         "B": "même lorsque le feu est rouge"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "A25",
@@ -249,7 +307,10 @@
         "C": "s'étend sur 150 m",
         "D": "s'étend sur 500 m"
       },
-      "reponses": ["A", "D"]
+      "reponses": [
+        "A",
+        "D"
+      ]
     },
     {
       "id": "A26",
@@ -260,18 +321,24 @@
         "C": "Son conducteur voit très bien le motard arriver : OUI",
         "D": "Son conducteur voit très bien le motard arriver : NON"
       },
-      "reponses": ["A", "D"]
+      "reponses": [
+        "A",
+        "D"
+      ]
     },
     {
       "id": "A27",
-      "enonce": "L'aide au maintien dans la voie / permet de conduire sans tenir le volant :",
+      "enonce": "L'aide au maintien dans la voie :",
       "options": {
-        "A": "fonctionne dans toutes les situations : OUI",
-        "B": "fonctionne dans toutes les situations : NON",
-        "C": "permet de conduire sans tenir le volant : OUI",
-        "D": "permet de conduire sans tenir le volant : NON"
+        "A": "L'aide au maintien dans la voie fonctionne dans toutes les situations : OUI",
+        "B": "L'aide au maintien dans la voie fonctionne dans toutes les situations : NON",
+        "C": "L'aide au maintien dans la voie permet de conduire sans tenir le volant : OUI",
+        "D": "L'aide au maintien dans la voie permet de conduire sans tenir le volant : NON"
       },
-      "reponses": ["B", "D"]
+      "reponses": [
+        "B",
+        "D"
+      ]
     },
     {
       "id": "A28",
@@ -280,7 +347,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "A29",
@@ -291,7 +360,10 @@
         "C": "Il doit circuler sur le trottoir : OUI",
         "D": "Il doit circuler sur le trottoir : NON"
       },
-      "reponses": ["A", "C"]
+      "reponses": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "A30",
@@ -300,7 +372,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "A31",
@@ -309,7 +383,9 @@
         "A": "A",
         "B": "B"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "A32",
@@ -318,7 +394,9 @@
         "A": "la numérotation manuelle sur l'écran",
         "B": "la commande vocale"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "A33",
@@ -328,7 +406,9 @@
         "B": "2 traits de la bande d'arrêt d'urgence",
         "C": "3 traits de la bande d'arrêt d'urgence"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "A34",
@@ -338,7 +418,10 @@
         "B": "m'éloigner du poids lourd",
         "C": "me décaler légèrement sur ma voie"
       },
-      "reponses": ["B", "C"]
+      "reponses": [
+        "B",
+        "C"
+      ]
     },
     {
       "id": "A35",
@@ -347,7 +430,9 @@
         "A": "de plus de 3,5 tonnes seulement",
         "B": "peu importe leur poids"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "A36",
@@ -356,7 +441,9 @@
         "A": "légèrement en-dessous du repère maximum",
         "B": "légèrement en-dessous du repère minimum"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "A37",
@@ -365,7 +452,9 @@
         "A": "derrière la glissière de sécurité",
         "B": "devant le véhicule"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "A38",
@@ -376,7 +465,10 @@
         "C": "en circulant au-dessus des limitations de vitesse",
         "D": "en faisant une pause toutes les 2 heures"
       },
-      "reponses": ["A", "D"]
+      "reponses": [
+        "A",
+        "D"
+      ]
     },
     {
       "id": "A39",
@@ -385,7 +477,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "A40",
@@ -395,7 +489,10 @@
         "B": "doit être signalé par des feux de détresse",
         "C": "est passible d'une contravention"
       },
-      "reponses": ["A", "C"]
+      "reponses": [
+        "A",
+        "C"
+      ]
     }
   ]
 }
