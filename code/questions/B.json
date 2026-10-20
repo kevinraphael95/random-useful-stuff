@@ -1,0 +1,396 @@
+{
+  "test": "Codes Rousseau - Test gratuit voiture (Série B complète)",
+  "questions": [
+    {
+      "id": "B01",
+      "enonce": "L'utilisation d'un téléphone portable en conduisant est passible :",
+      "options": {
+        "A": "d'une amende de 135 euros",
+        "B": "d'un retrait de 3 points",
+        "C": "d'une suspension du permis de conduire",
+        "D": "d'une immobilisation du véhicule"
+      },
+      "reponses": ["A", "C"]
+    },
+    {
+      "id": "B02",
+      "enonce": "En cas d'incendie dans le tunnel, je serai à l'abri dans :",
+      "options": {
+        "A": "L'issue de secours : OUI",
+        "B": "L'issue de secours : NON",
+        "C": "La niche de sécurité : OUI",
+        "D": "La niche de sécurité : NON"
+      },
+      "reponses": ["A", "C"]
+    },
+    {
+      "id": "B03",
+      "enonce": "Lorsque la chaussée est mouillée :",
+      "options": {
+        "A": "le temps de réaction augmente",
+        "B": "la distance de freinage est allongée",
+        "C": "la distance d'arrêt est plus importante"
+      },
+      "reponses": ["B", "C"]
+    },
+    {
+      "id": "B04",
+      "enonce": "La nuit, les accidents corporels sont :",
+      "options": {
+        "A": "plus nombreux : OUI",
+        "B": "plus nombreux : NON",
+        "C": "plus graves : OUI",
+        "D": "plus graves : NON"
+      },
+      "reponses": ["B", "C"]
+    },
+    {
+      "id": "B05",
+      "enonce": "Je circule hors agglomération, pour dépasser ce piéton je dois laisser un intervalle latéral d'au moins :",
+      "options": {
+        "A": "0,50 mètre",
+        "B": "1 mètre",
+        "C": "1,50 mètre"
+      },
+      "reponses": ["C"]
+    },
+    {
+      "id": "B06",
+      "enonce": "A ce passage à niveau, si aucun train n'arrive je marque l'arrêt avant de passer :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B07",
+      "enonce": "Pendant la période du permis probatoire, un jeune conducteur est en infraction si son taux d'alcool dans le sang atteint :",
+      "options": {
+        "A": "0,10 grammes par litre de sang",
+        "B": "0,20 grammes par litre de sang",
+        "C": "0,30 grammes par litre de sang",
+        "D": "0,50 grammes par litre de sang"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "B08",
+      "enonce": "L'utilisation d'un défibrillateur automatique :",
+      "options": {
+        "A": "- nécessite une formation",
+        "B": "- est autorisée à toute personne, même non formée",
+        "C": "- est interdite sans la présence des secours",
+        "D": "- peut sauver une vie en cas d'arrêt cardiaque"
+      },
+      "reponses": ["B", "D"]
+    },
+    {
+      "id": "B09",
+      "enonce": "Le temps de réaction augmente avec la vitesse :",
+      "options": {
+        "A": "oui",
+        "B": "non"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "B10",
+      "enonce": "A puissance égale, un véhicule équipé d'un moteur essence consomme moins qu'un véhicule équipé d'un moteur diesel :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "B11",
+      "enonce": "L'interdiction de stationner :",
+      "options": {
+        "A": "commence à hauteur du panneau",
+        "B": "s'étend sur 150 mètres",
+        "C": "prend fin à la prochaine intersection",
+        "D": "concerne les 2 côtés de la rue"
+      },
+      "reponses": ["A", "C"]
+    },
+    {
+      "id": "B12",
+      "enonce": "Une perte de la vigilance peut être causée par :",
+      "options": {
+        "A": "la prise de certains médicaments",
+        "B": "la fatigue",
+        "C": "l'état de la chaussée"
+      },
+      "reponses": ["A", "B"]
+    },
+    {
+      "id": "B13",
+      "enonce": "Dans les stations essence, un code couleur définit le type de carburant :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B14",
+      "enonce": "Il manque de l'huile moteur. Pour en ajouter, je dévisse le bouchon :",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "reponses": ["C"]
+    },
+    {
+      "id": "B15",
+      "enonce": "J'effectue un long trajet, il est conseillé de faire une pause toutes les :",
+      "options": {
+        "A": "2 heures",
+        "B": "3 heures",
+        "C": "4 heures"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B16",
+      "enonce": "La signalisation indique :",
+      "options": {
+        "A": "une route à caractère prioritaire",
+        "B": "une priorité ponctuelle",
+        "C": "une perte de caractère prioritaire"
+      },
+      "reponses": ["C"]
+    },
+    {
+      "id": "B17",
+      "enonce": "Dans cette situation, je peux utiliser l'avertisseur sonore :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "B18",
+      "enonce": "Après ce panneau, la vitesse est limitée à 50 km/h / L'usage de l'avertisseur sonore est interdit :",
+      "options": {
+        "A": "Après ce panneau, la vitesse est limitée à 50 km/h : OUI",
+        "B": "Après ce panneau, la vitesse est limitée à 50 km/h : NON",
+        "C": "L'usage de l'avertisseur sonore est interdit : OUI",
+        "D": "L'usage de l'avertisseur sonore est interdit : NON"
+      },
+      "reponses": ["A", "C"]
+    },
+    {
+      "id": "B19",
+      "enonce": "Je peux dépasser :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "B20",
+      "enonce": "Je suis dans l'obligation de posséder une boîte d'ampoules de rechange dans mon véhicule :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "B21",
+      "enonce": "Dans cette situation :",
+      "options": {
+        "A": "je ralentis, et je m'arrête",
+        "B": "je ralentis, et je passe"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B22",
+      "enonce": "L'ESP, ou correcteur électronique de trajectoire, améliore la tenue de route :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B23",
+      "enonce": "Ce panneau indique une succession de virages / Le premier virage est :",
+      "options": {
+        "A": "Ce panneau indique une succession de virages : OUI",
+        "B": "Ce panneau indique une succession de virages : NON",
+        "C": "Le premier virage est à droite",
+        "D": "Le premier virage est à gauche"
+      },
+      "reponses": ["A", "D"]
+    },
+    {
+      "id": "B24",
+      "enonce": "Je continue le dépassement :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "B25",
+      "enonce": "Dans cette situation, le croisement est impossible. Je dois reculer pour laisser passer le bus :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B26",
+      "enonce": "L'emballage des médicaments potentiellement dangereux pour la conduite comporte un logo triangulaire :",
+      "options": {
+        "A": "oui",
+        "B": "non"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B27",
+      "enonce": "Pour dépasser ce cycliste, je dois laisser un intervalle minimum de :",
+      "options": {
+        "A": "0,50 mètre",
+        "B": "1 mètre",
+        "C": "1,50 mètre"
+      },
+      "reponses": ["C"]
+    },
+    {
+      "id": "B28",
+      "enonce": "Pour stationner dans une descente, il est préférable de tourner les roues du côté du trottoir :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B29",
+      "enonce": "Dans une descente, pour économiser du carburant, je peux rouler au point mort :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "B30",
+      "enonce": "Lors d'un contrôle de police, je dois présenter :",
+      "options": {
+        "A": "mon permis de conduire",
+        "B": "la facture acquittée du contrôle technique",
+        "C": "la carte grise du véhicule",
+        "D": "l'attestation d'assurance"
+      },
+      "reponses": ["A", "C", "D"]
+    },
+    {
+      "id": "B31",
+      "enonce": "Sur un pneu, ce témoin permet de mesurer l'usure de la bande de roulement :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B32",
+      "enonce": "L'aide au freinage d'urgence, est obligatoirement liée à la présence d'un système d'anti blocage de roues :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B33",
+      "enonce": "A 50 km/h, en cas de choc frontal, si je ne porte pas ma ceinture, je peux me cramponner au volant pour éviter de heurter le pare-brise :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "B34",
+      "enonce": "Je suis propriétaire d'un véhicule en état de circuler. J'ai l'obligation de souscrire une assurance automobile :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B35",
+      "enonce": "La vitesse est limitée à 30 km/h :",
+      "options": {
+        "A": "dans cette rue uniquement : OUI",
+        "B": "dans cette rue uniquement : NON",
+        "C": "dans les rues adjacentes : OUI",
+        "D": "dans les rues adjacentes : NON"
+      },
+      "reponses": ["A", "D"]
+    },
+    {
+      "id": "B36",
+      "enonce": "A la prochaine intersection, je tournerai à gauche. Je me prépare à céder le passage aux usagers venant :",
+      "options": {
+        "A": "de droite",
+        "B": "en face",
+        "C": "de gauche"
+      },
+      "reponses": ["B", "C"]
+    },
+    {
+      "id": "B37",
+      "enonce": "Je peux ouvrir la portière pour quitter mon véhicule :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "B38",
+      "enonce": "Dans un véhicule équipé d'une boîte automatique, le mode D correspond à la marche avant :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": ["A"]
+    },
+    {
+      "id": "B39",
+      "enonce": "Un stage de sensibilisation à la sécurité routière, me permet de récupérer au maximum :",
+      "options": {
+        "A": "3 points",
+        "B": "4 points",
+        "C": "6 points"
+      },
+      "reponses": ["B"]
+    },
+    {
+      "id": "B40",
+      "enonce": "Un stage de sensibilisation à la sécurité routière, me permet de récupérer au maximum :",
+      "options": {
+        "A": "3 points",
+        "B": "4 points",
+        "C": "6 points"
+      },
+      "reponses": ["B"]
+    }
+  ]
+}
