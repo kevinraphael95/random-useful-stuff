@@ -1,5 +1,5 @@
 {
-  "test": "Codes Rousseau - Test gratuit voiture (Série B complète)",
+  "test": "Série B",
   "questions": [
     {
       "id": "B01",
@@ -299,6 +299,20 @@
     },
     {
       "id": "B25",
+      "enonce": "Le système « Stop and Start » permet :",
+      "options": {
+        "A": "d'économiser du carburant : OUI",
+        "B": "d'économiser du carburant : NON",
+        "C": "de diminuer les émissions de CO2 : OUI",
+        "D": "de diminuer les émissions de CO2 : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ]
+    },
+    {
+      "id": "B26",
       "enonce": "Dans cette situation, le croisement est impossible. Je dois reculer pour laisser passer le bus :",
       "options": {
         "A": "OUI",
@@ -309,7 +323,7 @@
       ]
     },
     {
-      "id": "B26",
+      "id": "B27",
       "enonce": "L'emballage des médicaments potentiellement dangereux pour la conduite comporte un logo triangulaire :",
       "options": {
         "A": "OUI",
@@ -320,7 +334,7 @@
       ]
     },
     {
-      "id": "B27",
+      "id": "B28",
       "enonce": "Pour dépasser ce cycliste, je dois laisser un intervalle minimum de :",
       "options": {
         "A": "0,50 mètre",
@@ -332,7 +346,7 @@
       ]
     },
     {
-      "id": "B28",
+      "id": "B29",
       "enonce": "Pour stationner dans une descente, il est préférable de tourner les roues du côté du trottoir :",
       "options": {
         "A": "OUI",
@@ -343,7 +357,7 @@
       ]
     },
     {
-      "id": "B29",
+      "id": "B30",
       "enonce": "Dans une descente, pour économiser du carburant, je peux rouler au point mort :",
       "options": {
         "A": "OUI",
@@ -354,7 +368,7 @@
       ]
     },
     {
-      "id": "B30",
+      "id": "B31",
       "enonce": "Lors d'un contrôle de police, je dois présenter :",
       "options": {
         "A": "mon permis de conduire",
@@ -369,7 +383,7 @@
       ]
     },
     {
-      "id": "B31",
+      "id": "B32",
       "enonce": "Sur un pneu, ce témoin permet de mesurer l'usure de la bande de roulement :",
       "options": {
         "A": "OUI",
@@ -380,7 +394,7 @@
       ]
     },
     {
-      "id": "B32",
+      "id": "B33",
       "enonce": "L'aide au freinage d'urgence, est obligatoirement liée à la présence d'un système d'anti blocage de roues :",
       "options": {
         "A": "OUI",
@@ -391,7 +405,7 @@
       ]
     },
     {
-      "id": "B33",
+      "id": "B34",
       "enonce": "A 50 km/h, en cas de choc frontal, si je ne porte pas ma ceinture, je peux me cramponner au volant pour éviter de heurter le pare-brise :",
       "options": {
         "A": "OUI",
@@ -402,7 +416,7 @@
       ]
     },
     {
-      "id": "B34",
+      "id": "B35",
       "enonce": "Je suis propriétaire d'un véhicule en état de circuler. J'ai l'obligation de souscrire une assurance automobile :",
       "options": {
         "A": "OUI",
@@ -413,7 +427,7 @@
       ]
     },
     {
-      "id": "B35",
+      "id": "B36",
       "enonce": "La vitesse est limitée à 30 km/h :",
       "options": {
         "A": "dans cette rue uniquement : OUI",
@@ -427,7 +441,7 @@
       ]
     },
     {
-      "id": "B36",
+      "id": "B37",
       "enonce": "A la prochaine intersection, je tournerai à gauche. Je me prépare à céder le passage aux usagers venant :",
       "options": {
         "A": "de droite",
@@ -440,7 +454,7 @@
       ]
     },
     {
-      "id": "B37",
+      "id": "B38",
       "enonce": "Je peux ouvrir la portière pour quitter mon véhicule :",
       "options": {
         "A": "OUI",
@@ -451,7 +465,7 @@
       ]
     },
     {
-      "id": "B38",
+      "id": "B39",
       "enonce": "Dans un véhicule équipé d'une boîte automatique, le mode D correspond à la marche avant :",
       "options": {
         "A": "OUI",
@@ -462,7 +476,7 @@
       ]
     },
     {
-      "id": "B39",
+      "id": "B40",
       "enonce": "Un stage de sensibilisation à la sécurité routière, me permet de récupérer au maximum :",
       "options": {
         "A": "3 points",
