@@ -52,7 +52,7 @@
     },
     {
       "id": "A05",
-      "enonce": "En dépassant, le conducteur de ce véhicule risque de ne pas détecter le piéton / Le piéton s'assure d'avoir été vu avant de s'engager :",
+      "enonce": "Dans cette situation :",
       "options": {
         "A": "En dépassant, le conducteur risque de ne pas détecter le piéton : OUI",
         "B": "En dépassant, le conducteur risque de ne pas détecter le piéton : NON",
@@ -101,7 +101,7 @@
     },
     {
       "id": "A09",
-      "enonce": "Ce virage représente une zone de danger potentiel / Je peux y découvrir un usager vulnérable :",
+      "enonce": "Dans cette situation :",
       "options": {
         "A": "Ce virage représente une zone de danger potentiel : OUI",
         "B": "Ce virage représente une zone de danger potentiel : NON",
@@ -115,7 +115,7 @@
     },
     {
       "id": "A10",
-      "enonce": "Ce panneau indique une voie réservée / Si je covoiture, je peux emprunter cette voie :",
+      "enonce": "Dans cette situation :",
       "options": {
         "A": "Ce panneau indique une voie réservée : OUI",
         "B": "Ce panneau indique une voie réservée : NON",
@@ -167,12 +167,12 @@
     },
     {
       "id": "A14",
-      "enonce": "Une allure anormalement réduite peut surprendre les autres usagers et risque de provoquer un accident / J'actionne les feux de détresse :",
+      "enonce": "Une allure anormalement réduite :",
       "options": {
-        "A": "Une allure anormalement réduite peut surprendre les autres usagers et risque de provoquer un accident : OUI",
-        "B": "Une allure anormalement réduite peut surprendre les autres usagers et risque de provoquer un accident : NON",
-        "C": "J'actionne les feux de détresse : OUI",
-        "D": "J'actionne les feux de détresse : NON"
+        "A": "peut surprendre les autres usagers et risque de provoquer un accident : OUI",
+        "B": "peut surprendre les autres usagers et risque de provoquer un accident : NON",
+        "C": "justifie d'actionner les feux de détresse : OUI",
+        "D": "justifie d'actionner les feux de détresse : NON"
       },
       "reponses": [
         "A",
@@ -217,7 +217,7 @@
     },
     {
       "id": "A18",
-      "enonce": "Mon allure est adaptée à la situation / Je me décale le plus à droite possible :",
+      "enonce": "Dans cette situation :",
       "options": {
         "A": "Mon allure est adaptée à la situation : OUI",
         "B": "Mon allure est adaptée à la situation : NON",
@@ -314,7 +314,7 @@
     },
     {
       "id": "A26",
-      "enonce": "L'allumage des feux de recul est un indicateur du risque de manoeuvre de ce véhicule / Son conducteur voit très bien le motard arriver :",
+      "enonce": "Dans cette situation :",
       "options": {
         "A": "L'allumage des feux de recul est un indicateur du risque de manoeuvre de ce véhicule : OUI",
         "B": "L'allumage des feux de recul est un indicateur du risque de manoeuvre de ce véhicule : NON",
@@ -330,10 +330,10 @@
       "id": "A27",
       "enonce": "L'aide au maintien dans la voie :",
       "options": {
-        "A": "L'aide au maintien dans la voie fonctionne dans toutes les situations : OUI",
-        "B": "L'aide au maintien dans la voie fonctionne dans toutes les situations : NON",
-        "C": "L'aide au maintien dans la voie permet de conduire sans tenir le volant : OUI",
-        "D": "L'aide au maintien dans la voie permet de conduire sans tenir le volant : NON"
+        "A": "fonctionne dans toutes les situations : OUI",
+        "B": "fonctionne dans toutes les situations : NON",
+        "C": "permet de conduire sans tenir le volant : OUI",
+        "D": "permet de conduire sans tenir le volant : NON"
       },
       "reponses": [
         "B",
@@ -353,10 +353,10 @@
     },
     {
       "id": "A29",
-      "enonce": "Utilisateur d'une trottinette non motorisée, cet enfant est assimilé à un piéton / Il doit circuler sur le trottoir :",
+      "enonce": "Dans cette situation :",
       "options": {
-        "A": "Utilisateur d'une trottinette non motorisée, cet enfant est assimilé à un piéton : OUI",
-        "B": "Utilisateur d'une trottinette non motorisée, cet enfant est assimilé à un piéton : NON",
+        "A": "Cet enfant, utilisateur d'une trottinette non motorisée, est assimilé à un piéton : OUI",
+        "B": "Cet enfant, utilisateur d'une trottinette non motorisée, est assimilé à un piéton : NON",
         "C": "Il doit circuler sur le trottoir : OUI",
         "D": "Il doit circuler sur le trottoir : NON"
       },
