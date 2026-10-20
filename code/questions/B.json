@@ -1,5 +1,5 @@
 {
-  "test": "Série B",
+  "test": "Codes Rousseau - Test gratuit voiture (Série B complète)",
   "questions": [
     {
       "id": "B01",
@@ -10,7 +10,10 @@
         "C": "d'une suspension du permis de conduire",
         "D": "d'une immobilisation du véhicule"
       },
-      "reponses": ["A", "C"]
+      "reponses": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "B02",
@@ -21,7 +24,10 @@
         "C": "La niche de sécurité : OUI",
         "D": "La niche de sécurité : NON"
       },
-      "reponses": ["A", "C"]
+      "reponses": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "B03",
@@ -31,7 +37,10 @@
         "B": "la distance de freinage est allongée",
         "C": "la distance d'arrêt est plus importante"
       },
-      "reponses": ["B", "C"]
+      "reponses": [
+        "B",
+        "C"
+      ]
     },
     {
       "id": "B04",
@@ -42,7 +51,10 @@
         "C": "plus graves : OUI",
         "D": "plus graves : NON"
       },
-      "reponses": ["B", "C"]
+      "reponses": [
+        "B",
+        "C"
+      ]
     },
     {
       "id": "B05",
@@ -52,7 +64,9 @@
         "B": "1 mètre",
         "C": "1,50 mètre"
       },
-      "reponses": ["C"]
+      "reponses": [
+        "C"
+      ]
     },
     {
       "id": "B06",
@@ -61,7 +75,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B07",
@@ -72,27 +88,34 @@
         "C": "0,30 grammes par litre de sang",
         "D": "0,50 grammes par litre de sang"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "B08",
       "enonce": "L'utilisation d'un défibrillateur automatique :",
       "options": {
-        "A": "- nécessite une formation",
-        "B": "- est autorisée à toute personne, même non formée",
-        "C": "- est interdite sans la présence des secours",
-        "D": "- peut sauver une vie en cas d'arrêt cardiaque"
+        "A": "nécessite une formation",
+        "B": "est autorisée à toute personne, même non formée",
+        "C": "est interdite sans la présence des secours",
+        "D": "peut sauver une vie en cas d'arrêt cardiaque"
       },
-      "reponses": ["B", "D"]
+      "reponses": [
+        "B",
+        "D"
+      ]
     },
     {
       "id": "B09",
       "enonce": "Le temps de réaction augmente avec la vitesse :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "B10",
@@ -101,7 +124,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "B11",
@@ -112,7 +137,10 @@
         "C": "prend fin à la prochaine intersection",
         "D": "concerne les 2 côtés de la rue"
       },
-      "reponses": ["A", "C"]
+      "reponses": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "B12",
@@ -122,7 +150,10 @@
         "B": "la fatigue",
         "C": "l'état de la chaussée"
       },
-      "reponses": ["A", "B"]
+      "reponses": [
+        "A",
+        "B"
+      ]
     },
     {
       "id": "B13",
@@ -131,7 +162,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B14",
@@ -142,7 +175,9 @@
         "C": "C",
         "D": "D"
       },
-      "reponses": ["C"]
+      "reponses": [
+        "C"
+      ]
     },
     {
       "id": "B15",
@@ -152,7 +187,9 @@
         "B": "3 heures",
         "C": "4 heures"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B16",
@@ -162,7 +199,9 @@
         "B": "une priorité ponctuelle",
         "C": "une perte de caractère prioritaire"
       },
-      "reponses": ["C"]
+      "reponses": [
+        "C"
+      ]
     },
     {
       "id": "B17",
@@ -171,18 +210,23 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "B18",
-      "enonce": "Après ce panneau, la vitesse est limitée à 50 km/h / L'usage de l'avertisseur sonore est interdit :",
+      "enonce": "Après ce panneau :",
       "options": {
-        "A": "Après ce panneau, la vitesse est limitée à 50 km/h : OUI",
-        "B": "Après ce panneau, la vitesse est limitée à 50 km/h : NON",
-        "C": "L'usage de l'avertisseur sonore est interdit : OUI",
-        "D": "L'usage de l'avertisseur sonore est interdit : NON"
+        "A": "la vitesse est limitée à 50 km/h : OUI",
+        "B": "la vitesse est limitée à 50 km/h : NON",
+        "C": "l'usage de l'avertisseur sonore est interdit : OUI",
+        "D": "l'usage de l'avertisseur sonore est interdit : NON"
       },
-      "reponses": ["A", "C"]
+      "reponses": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "B19",
@@ -191,7 +235,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "B20",
@@ -200,7 +246,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "B21",
@@ -209,7 +257,9 @@
         "A": "je ralentis, et je m'arrête",
         "B": "je ralentis, et je passe"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B22",
@@ -218,18 +268,23 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B23",
-      "enonce": "Ce panneau indique une succession de virages / Le premier virage est :",
+      "enonce": "Ce panneau indique :",
       "options": {
-        "A": "Ce panneau indique une succession de virages : OUI",
-        "B": "Ce panneau indique une succession de virages : NON",
-        "C": "Le premier virage est à droite",
-        "D": "Le premier virage est à gauche"
+        "A": "une succession de virages : OUI",
+        "B": "une succession de virages : NON",
+        "C": "un premier virage à gauche : OUI",
+        "D": "un premier virage à gauche : NON"
       },
-      "reponses": ["A", "D"]
+      "reponses": [
+        "A",
+        "C"
+      ]
     },
     {
       "id": "B24",
@@ -238,7 +293,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "B25",
@@ -247,16 +304,20 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B26",
       "enonce": "L'emballage des médicaments potentiellement dangereux pour la conduite comporte un logo triangulaire :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B27",
@@ -266,7 +327,9 @@
         "B": "1 mètre",
         "C": "1,50 mètre"
       },
-      "reponses": ["C"]
+      "reponses": [
+        "C"
+      ]
     },
     {
       "id": "B28",
@@ -275,7 +338,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B29",
@@ -284,7 +349,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "B30",
@@ -295,7 +362,11 @@
         "C": "la carte grise du véhicule",
         "D": "l'attestation d'assurance"
       },
-      "reponses": ["A", "C", "D"]
+      "reponses": [
+        "A",
+        "C",
+        "D"
+      ]
     },
     {
       "id": "B31",
@@ -304,7 +375,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B32",
@@ -313,7 +386,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B33",
@@ -322,7 +397,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "B34",
@@ -331,7 +408,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B35",
@@ -342,7 +421,10 @@
         "C": "dans les rues adjacentes : OUI",
         "D": "dans les rues adjacentes : NON"
       },
-      "reponses": ["A", "D"]
+      "reponses": [
+        "A",
+        "D"
+      ]
     },
     {
       "id": "B36",
@@ -352,7 +434,10 @@
         "B": "en face",
         "C": "de gauche"
       },
-      "reponses": ["B", "C"]
+      "reponses": [
+        "B",
+        "C"
+      ]
     },
     {
       "id": "B37",
@@ -361,7 +446,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     },
     {
       "id": "B38",
@@ -370,7 +457,9 @@
         "A": "OUI",
         "B": "NON"
       },
-      "reponses": ["A"]
+      "reponses": [
+        "A"
+      ]
     },
     {
       "id": "B39",
@@ -380,17 +469,9 @@
         "B": "4 points",
         "C": "6 points"
       },
-      "reponses": ["B"]
-    },
-    {
-      "id": "B40",
-      "enonce": "Un stage de sensibilisation à la sécurité routière, me permet de récupérer au maximum :",
-      "options": {
-        "A": "3 points",
-        "B": "4 points",
-        "C": "6 points"
-      },
-      "reponses": ["B"]
+      "reponses": [
+        "B"
+      ]
     }
   ]
 }
