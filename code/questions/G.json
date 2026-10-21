@@ -1,0 +1,614 @@
+{
+  "test": "Série G",
+  "questions": [
+    {
+      "id": "G01",
+      "theme": "L",
+      "fiche": "signalisation",
+      "enonce": "Dans un tunnel, une issue de secours est indiquée par le panneau :",
+      "options": {
+        "A": "N°1",
+        "B": "N°2",
+        "C": "N°3",
+        "D": "N°4"
+      },
+      "reponses": [
+        "D"
+      ],
+      "explication": "Le 4ème panneau indique une issue de secours. Le 1er indique une impasse, le 2ème un poste de secours et le 3ème un poste d'appel d'urgence."
+    },
+    {
+      "id": "G02",
+      "theme": "L",
+      "fiche": "vitesse",
+      "enonce": "La limitation de vitesse à 70 km/h concerne toutes les rues de « le Comte » :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Il s'agit d'un panneau de lieu-dit (et non d'une entrée d'agglomération). La limitation de vitesse à 70 km/h ne concerne donc que la route sur laquelle vous circulez, et non toutes les rues du lieu-dit."
+    },
+    {
+      "id": "G03",
+      "theme": "R",
+      "fiche": "depassement",
+      "enonce": "Je dépasse :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Vous circulez sur une chaussée à sens unique à deux voies. Même si le dépassement n'est pas interdit par la signalisation, un véhicule derrière vous est déjà engagé pour vous dépasser dans le rétroviseur."
+    },
+    {
+      "id": "G04",
+      "theme": "L",
+      "fiche": "vitesse",
+      "enonce": "Je peux rouler à 50 km/h / 70 km/h :",
+      "options": {
+        "A": "50 km/h : OUI",
+        "B": "50 km/h : NON",
+        "C": "70 km/h : OUI",
+        "D": "70 km/h : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Le panneau du bas (50 km/h) est assorti d'un panonceau de catégorie ne concernant que les véhicules de transport de marchandises. Ne conduisant pas ce type de véhicule, la limitation applicable est celle de 70 km/h. Vous pouvez donc rouler à toutes les vitesses n'excédant pas 70 km/h."
+    },
+    {
+      "id": "G05",
+      "theme": "C",
+      "fiche": "vigilance",
+      "enonce": "L'indice le plus important est :",
+      "options": {
+        "A": "Le marquage au sol",
+        "B": "Le regard du conducteur"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Au-delà des règles de priorité et du marquage, s'assurer d'avoir établi un contact visuel avec le conducteur permet de vérifier qu'il vous a bien vu et d'anticiper son comportement."
+    },
+    {
+      "id": "G06",
+      "theme": "R",
+      "fiche": "depassement",
+      "enonce": "Je peux dépasser :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "L'axe médian présente des flèches de rabattement annonçant une ligne continue. Devant vous se trouvent deux véhicules : vous n'êtes pas certain de pouvoir terminer le dépassement des deux usagers avant la troisième flèche."
+    },
+    {
+      "id": "G07",
+      "theme": "L",
+      "fiche": "infractions",
+      "enonce": "Conduire avec une consommation de stupéfiants, associée à un taux d'alcool, est passible : d'un retrait de 6 points / d'une suspension ou annulation de 3 ans du permis de conduire",
+      "options": {
+        "A": "retrait de 6 points : OUI",
+        "B": "retrait de 6 points : NON",
+        "C": "suspension ou annulation de 3 ans : OUI",
+        "D": "suspension ou annulation de 3 ans : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Le cumul d'alcoolémie et de stupéfiants constitue une circonstance aggravante entraînant un retrait de 6 points, une suspension ou annulation jusqu'à 3 ans du permis, ainsi que des peines de prison et de fortes amendes."
+    },
+    {
+      "id": "G08",
+      "theme": "L",
+      "fiche": "signalisation",
+      "enonce": "La signalisation annonce qu'à 1700 mètres je rencontrerai :",
+      "options": {
+        "A": "une route à accès réglementé",
+        "B": "un créneau de dépassement",
+        "C": "une réduction du nombre de voies"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Le panneau signale un créneau de dépassement à 1700 mètres, c'est-à-dire le passage temporaire à deux voies dans votre sens de circulation pour permettre les dépassements."
+    },
+    {
+      "id": "G09",
+      "theme": "E",
+      "fiche": "ecomobilite",
+      "enonce": "Pour un trajet occasionnel et court, le service éco-mobile le plus adapté est :",
+      "options": {
+        "A": "l'auto partage",
+        "B": "le covoiturage",
+        "C": "la location de véhicule"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "L'auto-partage permet de disposer d'un véhicule en libre-service uniquement pour la durée exacte de son besoin (ex: une course courte), contrairement à la location classique ou au covoiturage."
+    },
+    {
+      "id": "G10",
+      "theme": "L",
+      "fiche": "infractions",
+      "enonce": "J'ai prêté mon véhicule à un ami. S'il commet un excès de vitesse constaté par un radar fixe automatique, je devrai payer l'amende :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Le titulaire de la carte grise est pécuniairement responsable des infractions constatées par radar automatique sans interpellation. Il devra payer l'amende sauf s'il formule une requête en exonération en désignant l'auteur réel de l'infraction."
+    },
+    {
+      "id": "G11",
+      "theme": "R",
+      "fiche": "depassement",
+      "enonce": "Je peux dépasser :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "La ligne de dissuasion n'autorise le dépassement que des véhicules lents. Puisque les usagers devant vous roulent normalement, la manœuvre n'est pas adaptée."
+    },
+    {
+      "id": "G12",
+      "theme": "M",
+      "fiche": "equipements",
+      "enonce": "Mon véhicule est équipé de l'appel d'urgence eCall : - Il est géolocalisé : / Les secours sont automatiquement appelés en cas d'accident :",
+      "options": {
+        "A": "il est géolocalisé : OUI",
+        "B": "il est géolocalisé : NON",
+        "C": "secours automatiques : OUI",
+        "D": "secours automatiques : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "En cas de choc important, le système eCall transmet automatiquement la position géographique exacte du véhicule pour accélérer l'intervention des secours."
+    },
+    {
+      "id": "G13",
+      "theme": "L",
+      "fiche": "chargement",
+      "enonce": "Le chargement sur le toit peut dépasser : - à l'avant / - à l'arrière",
+      "options": {
+        "A": "à l'avant : OUI",
+        "B": "à l'avant : NON",
+        "C": "à l'arrière : OUI",
+        "D": "à l'arrière : NON"
+      },
+      "reponses": [
+        "B",
+        "C"
+      ],
+      "explication": "Le chargement ne doit pas dépasser l'aplomb du véhicule à l'avant, mais peut s'étendre jusqu'à 3 mètres à l'arrière sous réserve d'un signalement adéquat si la saillie dépasse un mètre."
+    },
+    {
+      "id": "G14",
+      "theme": "L",
+      "fiche": "circulation",
+      "enonce": "Je circule à 65 km/h. Je suis bien placé :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "La voie de droite aux larges pointillés est réservée aux véhicules lents ne dépassant pas 60 km/h. Roulant à 65 km/h, vous devez vous insérer sur la voie principale."
+    },
+    {
+      "id": "G15",
+      "theme": "L",
+      "fiche": "vitesse",
+      "enonce": "Je suis jeune conducteur, après ce panneau, je pourrai rouler à 90km/h, par beau temps : / par temps de pluie :",
+      "options": {
+        "A": "par beau temps : OUI",
+        "B": "par beau temps : NON",
+        "C": "par temps de pluie : OUI",
+        "D": "par temps de pluie : NON"
+      },
+      "reponses": [
+        "B",
+        "D"
+      ],
+      "explication": "Durant toute la période du permis probatoire, la vitesse maximale autorisée sur route est fixée à 80 km/h, quelles que soient les conditions météorologiques."
+    },
+    {
+      "id": "G16",
+      "theme": "C",
+      "fiche": "substances",
+      "enonce": "Je peux être contrôlé positif à l'usage du cannabis plusieurs jours après consommation :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Les molécules actives du cannabis restent détectables dans l'organisme (salive, sang, urines) plusieurs jours, voire semaines, bien après la fin des effets psychoactifs."
+    },
+    {
+      "id": "G17",
+      "theme": "E",
+      "fiche": "ecomobilite",
+      "enonce": "En ville, pour faire un trajet de 2 kilomètres le transport le moins polluant est :",
+      "options": {
+        "A": "la voiture",
+        "B": "le bus",
+        "C": "le tramway"
+      },
+      "reponses": [
+        "C"
+      ],
+      "explication": "Le tramway fonctionne à l'énergie électrique et transporte un grand nombre de passagers, ce qui en fait l'alternative la plus écologique en milieu urbain par rapport aux véhicules thermiques."
+    },
+    {
+      "id": "G18",
+      "theme": "L",
+      "fiche": "signalisation",
+      "enonce": "La limitation de vitesse prend effet :",
+      "options": {
+        "A": "à partir du panneau",
+        "B": "au premier virage"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "En l'absence de panonceau additionnel indiquant une distance, la prescription de vitesse s'applique immédiatement à hauteur du panneau de signalisation."
+    },
+    {
+      "id": "G19",
+      "theme": "L",
+      "fiche": "vitesse",
+      "enonce": "Je ne dois pas dépasser 50 km/h :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Le panonceau sous le panneau indique que la limitation à 50 km/h cible exclusivement les véhicules affectés au transport de marchandises, ce qui n'est pas votre cas."
+    },
+    {
+      "id": "G20",
+      "theme": "S",
+      "fiche": "anticipation",
+      "enonce": "Les zones d'incertitude de ces usagers vulnérable me concernent : / Je m'arrête :",
+      "options": {
+        "A": "zones d'incertitude : OUI",
+        "B": "zones d'incertitude : NON",
+        "C": "je m'arrête : OUI",
+        "D": "je m'arrête : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "La zone d'incertitude des piétons ou cyclistes nécessite une attention accrue car leur trajectoire peut changer brusquement, imposant de se préparer à ralentir ou s'arrêter."
+    },
+    {
+      "id": "G21",
+      "theme": "R",
+      "fiche": "depassement",
+      "enonce": "Je peux dépasser ce camion :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Bien que la ligne médiane soit continue, vous apercevez dans votre rétroviseur un véhicule déjà engagé pour vous dépasser. Il faut donc renoncer et attendre que la voie de gauche soit totalement dégagée."
+    },
+    {
+      "id": "G22",
+      "theme": "A",
+      "fiche": "premiers-secours",
+      "enonce": "De nuit, pour sécuriser les lieux d'un accident, je peux signaler la position des véhicules accidentés, en les éclairant avec une lampe torche :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "De nuit, le manque de visibilité majore le danger de suraccident. Utiliser une lampe torche pour baliser ou éclairer les véhicules accidentés est recommandé, à condition de ne pas éblouir les autres conducteurs."
+    },
+    {
+      "id": "G23",
+      "theme": "L",
+      "fiche": "priorites",
+      "enonce": "A la prochaine intersection, je devrai céder le passage à droite :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Le panneau triangulaire de danger indique une priorité ponctuelle. À cette intersection uniquement, les usagers venant de droite et de gauche ont l'obligation de vous céder le passage."
+    },
+    {
+      "id": "G24",
+      "theme": "C",
+      "fiche": "vigilance",
+      "enonce": "Je dois effectuer un long trajet. Pour limiter les risques d'accidents liés à la fatigue :",
+      "options": {
+        "A": "je prépare mon itinéraire",
+        "B": "je fixe une heure d'arrivée",
+        "C": "j'évite de partir entre 13h et 16h"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Pour lutter contre la fatigue, il est conseillé de bien préparer son trajet et d'éviter de conduire aux heures creuses de vigilance (entre 13h et 16h ou la nuit). Se fixer une heure d'arrivée crée une contrainte inutile qui pousse à rouler trop vite et à zapper les pauses."
+    },
+    {
+      "id": "G25",
+      "theme": "L",
+      "fiche": "stationnement",
+      "enonce": "Je vais entrer dans une zone de stationnement par disque :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Le panneau carré barré de noir et blanc indique la fin d'une zone réglementée. Vous sortez d'une zone de stationnement par disque et n'y entrez pas."
+    },
+    {
+      "id": "G26",
+      "theme": "M",
+      "fiche": "vision",
+      "enonce": "J'ai une acuité visuelle à un œil inférieure ou égale à 1/10ème. Pour conduire, je dois avoir une acuité visuelle à l'autre œil de :",
+      "options": {
+        "A": "3/10ème",
+        "B": "4/10ème",
+        "C": "5/10ème",
+        "D": "8/10ème"
+      },
+      "reponses": [
+        "C"
+      ],
+      "explication": "Règlementairement, si la vision d'un œil est quasi nulle ou inférieure à 1/10ème, l'autre œil doit obligatoirement présenter une acuité minimale de 5/10ème (avec ou sans correction) pour obtenir ou conserver le permis."
+    },
+    {
+      "id": "G27",
+      "theme": "L",
+      "fiche": "priorites",
+      "enonce": "Je vais tout droit :",
+      "options": {
+        "A": "je cède le passage au véhicule gris",
+        "B": "je cède le passage au véhicule noir",
+        "C": "je ralenti",
+        "D": "je passe"
+      },
+      "reponses": [
+        "C",
+        "D"
+      ],
+      "explication": "Le véhicule gris venant de droite doit marquer un stop et vous céder le passage. Quant au véhicule noir qui tourne, la règle de priorité lui impose de vous laisser passer. Vous ralentissez donc par précaution et passez."
+    },
+    {
+      "id": "G28",
+      "theme": "L",
+      "fiche": "circulation",
+      "enonce": "Je suis bien placé pour dépasser le véhicule noir :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Sur une chaussée à sens unique à 3 voies, la voie normale de circulation est celle de tout à droite. La voie la plus à gauche ne doit pas être occupée sans raison si la voie du milieu est libre pour effectuer un dépassement."
+    },
+    {
+      "id": "G29",
+      "theme": "M",
+      "fiche": "feux",
+      "enonce": "Conducteur du véhicule blanc : - Je reste en feux de croisement / - je regarde vers l'accotement droit",
+      "options": {
+        "A": "feux de croisement : OUI",
+        "B": "feux de croisement : NON",
+        "C": "regard vers l'accotement : OUI",
+        "D": "regard vers l'accotement : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Face à un usager venant en sens inverse de nuit, il faut impérativement se maintenir en feux de croisement pour ne pas l'éblouir, et porter son regard sur l'accotement droit afin de conserver des repères visuels sans subir l'éblouissement des phares."
+    },
+    {
+      "id": "G30",
+      "theme": "L",
+      "fiche": "stationnement",
+      "enonce": "Entre les 2 véhicules à droite, le stationnement est :",
+      "options": {
+        "A": "gratuit",
+        "B": "payant",
+        "C": "à durée limitée"
+      },
+      "reponses": [
+        "B",
+        "C"
+      ],
+      "explication": "Le panneau annonce la fin d'une zone de stationnement réglementé. Tant que vous êtes situé entre les limites de cette zone (ou avant le panneau de fin de zone globale), le stationnement y reste payant et à durée limitée."
+    },
+    {
+      "id": "G31",
+      "theme": "U",
+      "fiche": "partage-espace",
+      "enonce": "Je tourne à droite à l'intersection :",
+      "options": {
+        "A": "je dépasse le cycliste",
+        "B": "je lui fais signe de passer"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "En tournant à droite devant le cycliste, vous risquez de le heurter. En tant qu'automobiliste, vous devez garantir la sécurité des usagers les plus vulnérables."
+    },
+    {
+      "id": "G32",
+      "theme": "R",
+      "fiche": "distances",
+      "enonce": "A 130 km/h, la distance de sécurité équivaut à :",
+      "options": {
+        "A": "1 trait de la bande d'arrêt d'urgence",
+        "B": "2 traits de la bande d'arrêt d'urgence"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Pour être en sécurité, la distance doit être au moins égale à celle parcourue pendant 2 secondes. Sur autoroute, cela correspond à l'équivalent de 2 traits de la bande d'arrêt d'urgence à la vitesse maximale autorisée de 130 km/h."
+    },
+    {
+      "id": "G33",
+      "theme": "L",
+      "fiche": "intersections",
+      "enonce": "Je peux tourner à droite :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "La ligne blanche matérialisant le stop s'étend sur toute la largeur de la chaussée, indiquant que la rue abordée est en sens unique. Il est donc interdit de tourner à droite."
+    },
+    {
+      "id": "G34",
+      "theme": "E",
+      "fiche": "ecomobilite",
+      "enonce": "L'auto partage permet de limiter la pollution :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "L'autopartage permet d'utiliser un véhicule en libre-service selon les besoins, réduisant ainsi le recours systématique à la voiture individuelle et limitant la pollution."
+    },
+    {
+      "id": "G35",
+      "theme": "L",
+      "fiche": "stationnement",
+      "enonce": "Le stationnement est unilatéral à alternance semi mensuelle dans toutes les rues de l'agglomération :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Lorsque le panneau de zone à stationnement unilatéral à alternance semi-mensuelle est associé au panneau d'entrée d'agglomération, la règle s'applique dans toutes les rues de la ville."
+    },
+    {
+      "id": "G36",
+      "theme": "L",
+      "fiche": "circulation",
+      "enonce": "Je circule sur une voie à sens unique : / Je peux dépasser :",
+      "options": {
+        "A": "voie à sens unique : OUI",
+        "B": "voie à sens unique : NON",
+        "C": "je peux dépasser : OUI",
+        "D": "je peux dépasser : NON"
+      },
+      "reponses": [
+        "B",
+        "D"
+      ],
+      "explication": "Le panneau bleu indique un créneau de dépassement avec une seule voie dans votre sens et deux voies en sens inverse séparées par une ligne continue. Le dépassement y est strictly interdit."
+    },
+    {
+      "id": "G37",
+      "theme": "S",
+      "fiche": "physique-conduite",
+      "enonce": "Le temps de réaction d'un conducteur en forme est d'environ 1 seconde, par temps sec : / par temps de pluie :",
+      "options": {
+        "A": "par temps sec : OUI",
+        "B": "par temps sec : NON",
+        "C": "par temps de pluie : OUI",
+        "D": "par temps de pluie : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Le temps de réaction d'un conducteur en forme est d'environ 1 seconde. Les facteurs externes (comme la pluie) n'ont aucune influence directe sur le temps de réaction, qui reste identique."
+    },
+    {
+      "id": "G38",
+      "theme": "L",
+      "fiche": "signalisation",
+      "enonce": "Ce panneau signale le passage d'animaux sauvages : / Il s'agit d'un risque permanent :",
+      "options": {
+        "A": "passage d'animaux sauvages : OUI",
+        "B": "passage d'animaux sauvages : NON",
+        "C": "risque permanent : OUI",
+        "D": "risque permanent : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Ce panneau de danger alerte sur le passage éventuel d'animaux sauvages. Il s'agit d'un risque permanent car un animal peut traverser à tout moment."
+    },
+    {
+      "id": "G39",
+      "theme": "C",
+      "fiche": "alcool",
+      "enonce": "L'alcool peut provoquer :",
+      "options": {
+        "A": "une réduction du champ visuel",
+        "B": "une diminution de la perception du risque",
+        "C": "une diminution du temps de réaction",
+        "D": "une plus grande sensibilité aux éblouissements"
+      },
+      "reponses": [
+        "A",
+        "B",
+        "D"
+      ],
+      "explication": "Dès 0,30 g/l de sang, l'alcool réduit le champ visuel, altère la perception du risque, allonge (augmente) le temps de réaction et accentue la sensibilité aux éblouissements."
+    },
+    {
+      "id": "G40",
+      "theme": "L",
+      "fiche": "signalisation",
+      "enonce": "Je vais rencontrer :",
+      "options": {
+        "A": "une traversée de tramways",
+        "B": "une traversée de bus",
+        "C": "un arrêt de tramways"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Le panneau triangulaire de danger annonce une traversée de tramways, à ne pas confondre avec le panneau bleu d'indication qui signale quant à lui un arrêt de tramway."
+    }
+  ]
+}
