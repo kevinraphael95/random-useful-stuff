@@ -5,11 +5,14 @@
       "id": "E01",
       "theme": "L",
       "fiche": "apprentissage",
-      "question": "Pour s'inscrire à l'apprentissage anticipé de la conduite, il faut être au minimum âgé de :",
+      "enonce": "Pour s'inscrire à l'apprentissage anticipé de la conduite, il faut être au minimum âgé de :",
+      "options": {
+        "A": "15 ans",
+        "B": "16 ans",
+        "C": "17 ans"
+      },
       "reponses": [
-        { "texte": "15 ans", "correcte": true },
-        { "texte": "16 ans", "correcte": false },
-        { "texte": "17 ans", "correcte": false }
+        "A"
       ],
       "explication": "L'Apprentissage Anticipé de la Conduite (AAC / conduite accompagnée) est accessible dès l'âge de 15 ans révolus."
     },
@@ -17,11 +20,16 @@
       "id": "E02",
       "theme": "M",
       "fiche": "feux",
-      "type": "oui-non",
-      "question": "Pour croiser ce véhicule en toute sécurité, je suis obligé d'éteindre :",
-      "affirmations": [
-        { "texte": "les feux de croisement", "vrai": false },
-        { "texte": "les feux de brouillard avant", "vrai": false }
+      "enonce": "Pour croiser ce véhicule en toute sécurité, je suis obligé d'éteindre :",
+      "options": {
+        "A": "les feux de croisement : OUI",
+        "B": "les feux de croisement : NON",
+        "C": "les feux de brouillard avant : OUI",
+        "D": "les feux de brouillard avant : NON"
+      },
+      "reponses": [
+        "B",
+        "D"
       ],
       "explication": "Les feux de croisement et les feux de brouillard avant ne sont pas éblouissants pour les usagers arrivant en sens inverse. Il n'est donc pas obligatoire de les éteindre lors d'un croisement."
     },
@@ -29,11 +37,16 @@
       "id": "E03",
       "theme": "S",
       "fiche": "temps-reaction",
-      "type": "oui-non",
-      "question": "Le temps de réaction d'un conducteur augmente :",
-      "affirmations": [
-        { "texte": "quand le conducteur est fatigué", "vrai": true },
-        { "texte": "quand il pleut", "vrai": false }
+      "enonce": "Le temps de réaction d'un conducteur augmente :",
+      "options": {
+        "A": "quand le conducteur est fatigué : OUI",
+        "B": "quand le conducteur est fatigué : NON",
+        "C": "quand il pleut : OUI",
+        "D": "quand il pleut : NON"
+      },
+      "reponses": [
+        "A",
+        "D"
       ],
       "explication": "Le temps de réaction dépend uniquement de l'état physique du conducteur (fatigue, alcool, drogues, inattention). La météo (pluie) augmente la distance de freinage, mais pas le temps de réaction du cerveau."
     },
@@ -41,10 +54,13 @@
       "id": "E04",
       "theme": "S",
       "fiche": "equipements",
-      "question": "Si mon véhicule est équipé d'un airbag, je suis dispensé du port de la ceinture :",
+      "enonce": "Si mon véhicule est équipé d'un airbag, je suis dispensé du port de la ceinture :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": false },
-        { "texte": "NON", "correcte": true }
+        "B"
       ],
       "explication": "L'airbag vient en complément de la ceinture mais ne la remplace pas. Sans ceinture, le déclenchement de l'airbag lors d'un choc peut causer de graves blessures."
     },
@@ -52,11 +68,16 @@
       "id": "E05",
       "theme": "L",
       "fiche": "vitesse",
-      "type": "oui-non",
-      "question": "La limitation de vitesse s'applique :",
-      "affirmations": [
-        { "texte": "à partir du panneau", "vrai": true },
-        { "texte": "dans cette rue uniquement", "vrai": false }
+      "enonce": "La limitation de vitesse s'applique :",
+      "options": {
+        "A": "à partir du panneau : OUI",
+        "B": "à partir du panneau : NON",
+        "C": "dans cette rue uniquement : OUI",
+        "D": "dans cette rue uniquement : NON"
+      },
+      "reponses": [
+        "A",
+        "D"
       ],
       "explication": "Il s'agit d'un panneau d'entrée de zone 30. La limitation s'applique immédiatement à partir du panneau et à l'ensemble des rues de la zone (pas seulement à la rue actuelle), jusqu'au panneau de fin de zone."
     },
@@ -64,10 +85,13 @@
       "id": "E06",
       "theme": "C",
       "fiche": "vigilance",
-      "question": "Je conduis depuis environ 4 heures :",
+      "enonce": "Je conduis depuis environ 4 heures :",
+      "options": {
+        "A": "je ralentis et je continue",
+        "B": "je m'arrête pour me reposer"
+      },
       "reponses": [
-        { "texte": "je ralentis et je continue", "correcte": false },
-        { "texte": "je m'arrête pour me reposer", "correcte": true }
+        "B"
       ],
       "explication": "Il est recommandé de faire une pause d'au moins 15 minutes toutes les 2 heures de conduite. Après 4 heures, l'arrêt est indispensable pour éviter l'endormissement et l'hypovigilance."
     },
@@ -75,11 +99,14 @@
       "id": "E07",
       "theme": "M",
       "fiche": "voyants",
-      "question": "Ce voyant concerne le fonctionnement :",
+      "enonce": "Ce voyant concerne le fonctionnement :",
+      "options": {
+        "A": "des feux de brouillard arrière",
+        "B": "du dégivrage de la lunette arrière",
+        "C": "des feux de croisement"
+      },
       "reponses": [
-        { "texte": "des feux de brouillard arrière", "correcte": false },
-        { "texte": "du dégivrage de la lunette arrière", "correcte": true },
-        { "texte": "des feux de croisement", "correcte": false }
+        "B"
       ],
       "explication": "Le voyant rectangle avec des flèches ondulées orange correspond au désembuage/dégivrage de la lunette arrière."
     },
@@ -87,11 +114,15 @@
       "id": "E08",
       "theme": "L",
       "fiche": "infractions",
-      "question": "Téléphoner en conduisant peut être sanctionné par :",
+      "enonce": "Téléphoner en conduisant peut être sanctionné par :",
+      "options": {
+        "A": "une amende",
+        "B": "l'immobilisation du véhicule",
+        "C": "un retrait de point sur le permis de conduire"
+      },
       "reponses": [
-        { "texte": "une amende", "correcte": true },
-        { "texte": "l'immobilisation du véhicule", "correcte": false },
-        { "texte": "un retrait de point sur le permis de conduire", "correcte": true }
+        "A",
+        "C"
       ],
       "explication": "L'usage du téléphone tenu en main ou avec oreillettes/casque est puni d'une amende forfaitaire (135 €) et d'un retrait de 3 points sur le permis."
     },
@@ -99,10 +130,13 @@
       "id": "E09",
       "theme": "L",
       "fiche": "stationnement",
-      "question": "Pour stationner dans une pente, il est préférable d'enclencher une vitesse :",
+      "enonce": "Pour stationner dans une pente, il est préférable d'enclencher une vitesse :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": true },
-        { "texte": "NON", "correcte": false }
+        "A"
       ],
       "explication": "Enclencher une vitesse (1ère ou marche arrière) une fois le moteur coupé permet de bloquer mécaniquement les roues si le frein à main venait à défaillir."
     },
@@ -110,11 +144,16 @@
       "id": "E10",
       "theme": "M",
       "fiche": "entretien",
-      "type": "oui-non",
-      "question": "Un filtre à air encrassé peut augmenter :",
-      "affirmations": [
-        { "texte": "la consommation de carburant", "vrai": true },
-        { "texte": "la pollution", "vrai": true }
+      "enonce": "Un filtre à air encrassé peut augmenter :",
+      "options": {
+        "A": "la consommation de carburant : OUI",
+        "B": "la consommation de carburant : NON",
+        "C": "la pollution : OUI",
+        "D": "la pollution : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
       ],
       "explication": "Un filtre à air obstrué réduit l'apport d'oxygène au moteur, ce qui altère la combustion, augmente la consommation de carburant et accroît les émissions polluantes."
     },
@@ -122,11 +161,14 @@
       "id": "E11",
       "theme": "L",
       "fiche": "signalisation",
-      "question": "Je vais rencontrer :",
+      "enonce": "Je vais rencontrer :",
+      "options": {
+        "A": "une sortie d'autoroute",
+        "B": "une bifurcation d'autoroute",
+        "C": "une jonction d'autoroute"
+      },
       "reponses": [
-        { "texte": "une sortie d'autoroute", "correcte": false },
-        { "texte": "une bifurcation d'autoroute", "correcte": true },
-        { "texte": "une jonction d'autoroute", "correcte": false }
+        "B"
       ],
       "explication": "Le panneau bleu annonce une bifurcation d'autoroute pour rejoindre l'A 61 en direction de Toulouse, et non une simple sortie d'autoroute."
     },
@@ -134,10 +176,13 @@
       "id": "E12",
       "theme": "M",
       "fiche": "voyants",
-      "question": "Le tunnel fait 6 kilomètres. Ce voyant vient de s'allumer, je m'arrête au prochain refuge :",
+      "enonce": "Le tunnel fait 6 kilomètres. Ce voyant vient de s'allumer, je m'arrête au prochain refuge :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": false },
-        { "texte": "NON", "correcte": true }
+        "B"
       ],
       "explication": "Le voyant orange d'alerte de niveau de carburant indique qu'il reste généralement de quoi parcourir environ 50 kilomètres. Il n'est donc pas nécessaire de s'arrêter d'urgence dans le tunnel."
     },
@@ -145,10 +190,13 @@
       "id": "E13",
       "theme": "L",
       "fiche": "depassement",
-      "question": "Le véhicule gris roule à 70 km/h, je continue mon dépassement :",
+      "enonce": "Le véhicule gris roule à 70 km/h, je continue mon dépassement :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": true },
-        { "texte": "NON", "correcte": false }
+        "A"
       ],
       "explication": "Le panneau bleu indique une réduction du nombre de voie à 400 mètres. La distance et la vitesse permettent de terminer la manœuvre en toute sécurité."
     },
@@ -156,11 +204,16 @@
       "id": "E14",
       "theme": "L",
       "fiche": "vitesse",
-      "type": "oui-non",
-      "question": "La signalisation indique :",
-      "affirmations": [
-        { "texte": "une fin de limitation de vitesse à 70 km/h", "vrai": true },
-        { "texte": "Après le panneau la vitesse est limitée à 80 km/h", "vrai": true }
+      "enonce": "La signalisation indique :",
+      "options": {
+        "A": "une fin de limitation de vitesse à 70 km/h : OUI",
+        "B": "une fin de limitation de vitesse à 70 km/h : NON",
+        "C": "Après le panneau la vitesse est limitée à 80 km/h : OUI",
+        "D": "Après le panneau la vitesse est limitée à 80 km/h : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
       ],
       "explication": "Le panneau rond, noir et blanc indique la fin d'une limitation de vitesse à 70 km/h. Hors agglomération sur une route à double sens, la vitesse maximale redevient 80 km/h."
     },
@@ -168,11 +221,16 @@
       "id": "E15",
       "theme": "C",
       "fiche": "installation",
-      "type": "oui-non",
-      "question": "Pour une bonne installation au poste de conduite :",
-      "affirmations": [
-        { "texte": "les bras doivent être tendus", "vrai": false },
-        { "texte": "Les mains doivent être positionnées entre « 9h15 » et « 10h10 »", "vrai": true }
+      "enonce": "Pour une bonne installation au poste de conduite :",
+      "options": {
+        "A": "les bras doivent être tendus : OUI",
+        "B": "les bras doivent être tendus : NON",
+        "C": "Les mains doivent être positionnées entre « 9h15 » et « 10h10 » : OUI",
+        "D": "Les mains doivent être positionnées entre « 9h15 » et « 10h10 » : NON"
+      },
+      "reponses": [
+        "B",
+        "C"
       ],
       "explication": "Les bras doivent être légèrement fléchis (et non tendus) pour garder de la souplesse, et les mains se placent idéalement comme sur un cadran horaire à 9h15 ou 10h10."
     },
@@ -180,11 +238,15 @@
       "id": "E16",
       "theme": "M",
       "fiche": "entretien",
-      "question": "Si mon véhicule pollue trop, je risque :",
+      "enonce": "Si mon véhicule pollue trop, je risque :",
+      "options": {
+        "A": "une amende",
+        "B": "un retrait de point",
+        "C": "l'immobilisation de mon véhicule"
+      },
       "reponses": [
-        { "texte": "une amende", "correcte": true },
-        { "texte": "un retrait de point", "correcte": false },
-        { "texte": "l'immobilisation de mon véhicule", "correcte": true }
+        "A",
+        "C"
       ],
       "explication": "En cas de pollution excessive constatée lors d'un contrôle, vous vous exposez à une amende et à l'immobilisation du véhicule, mais pas à un retrait de points sur le permis."
     },
@@ -192,10 +254,13 @@
       "id": "E17",
       "theme": "U",
       "fiche": "partage-espace",
-      "question": "Pour dépasser ce cycliste, je manifeste ma présence en utilisant l'avertisseur sonore :",
+      "enonce": "Pour dépasser ce cycliste, je manifeste ma présence en utilisant l'avertisseur sonore :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": false },
-        { "texte": "NON", "correcte": true }
+        "B"
       ],
       "explication": "Utiliser le klaxon risquerait de surprendre le cycliste et de provoquer sa chute, aucun danger immédiat ne justifiant son emploi hors agglomération dans ce contexte."
     },
@@ -203,10 +268,13 @@
       "id": "E18",
       "theme": "L",
       "fiche": "priorites",
-      "question": "L'arrêt est obligatoire à hauteur du panneau :",
+      "enonce": "L'arrêt est obligatoire à hauteur du panneau :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": false },
-        { "texte": "NON", "correcte": true }
+        "B"
       ],
       "explication": "Le panneau indique un passage à niveau sans barrière. Il impose de ralentir et de s'assurer de l'absence de train, mais l'arrêt n'est pas systématique si la voie est libre."
     },
@@ -214,11 +282,16 @@
       "id": "E19",
       "theme": "C",
       "fiche": "vigilance",
-      "type": "oui-non",
-      "question": "Je dois effectuer un long trajet. Il est recommandé :",
-      "affirmations": [
-        { "texte": "d'éviter de prendre la route entre 13h et 16h", "vrai": true },
-        { "texte": "de conduire plus de 6 à 8 heures par jour", "vrai": false }
+      "enonce": "Je dois effectuer un long trajet. Il est recommandé :",
+      "options": {
+        "A": "d'éviter de prendre la route entre 13h et 16h : OUI",
+        "B": "d'éviter de prendre la route entre 13h et 16h : NON",
+        "C": "de conduire plus de 6 à 8 heures par jour : OUI",
+        "D": "de conduire plus de 6 à 8 heures par jour : NON"
+      },
+      "reponses": [
+        "A",
+        "D"
       ],
       "explication": "Pour lutter contre la baisse de vigilance, il est conseillé d'éviter de rouler aux heures les plus chaudes/favorables à la somnolence (13h-16h) et de ne pas dépasser 6 à 8 heures de conduite par jour."
     },
@@ -226,11 +299,16 @@
       "id": "E20",
       "theme": "C",
       "fiche": "installation",
-      "type": "oui-non",
-      "question": "Le siège conducteur est réglable :",
-      "affirmations": [
-        { "texte": "en hauteur", "vrai": true },
-        { "texte": "d'avant en arrière", "vrai": true }
+      "enonce": "Le siège conducteur est réglable :",
+      "options": {
+        "A": "en hauteur : OUI",
+        "B": "en hauteur : NON",
+        "C": "d'avant en arrière : OUI",
+        "D": "d'avant en arrière : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
       ],
       "explication": "Le siège conducteur est réglable dans le sens de la longueur (d'avant en arrière pour atteindre les pédales) ainsi qu'en hauteur (pour ajuster l'angle de vue par rapport au pare-brise)."
     },
@@ -238,10 +316,13 @@
       "id": "E21",
       "theme": "C",
       "fiche": "statistiques",
-      "question": "Les accidents de la route sont la première cause de mortalité chez les jeunes :",
+      "enonce": "Les accidents de la route sont la première cause de mortalité chez les jeunes :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": true },
-        { "texte": "NON", "correcte": false }
+        "A"
       ],
       "explication": "Les accidents de la route constituent la première cause de mortalité chez les 15-24 ans, en particulier chez les hommes de 20 à 24 ans."
     },
@@ -249,10 +330,13 @@
       "id": "E22",
       "theme": "M",
       "fiche": "entretien",
-      "question": "Il est recommandé de changer les balais d'essuie-glaces tous les 2 ans :",
+      "enonce": "Il est recommandé de changer les balais d'essuie-glaces tous les 2 ans :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": false },
-        { "texte": "NON", "correcte": true }
+        "B"
       ],
       "explication": "Il est recommandé de changer les balais d'essuie-glaces avant chaque hiver (ou une fois par an) pour garantir une visibilité optimale en cas de pluie ou de neige."
     },
@@ -260,22 +344,28 @@
       "id": "E23",
       "theme": "L",
       "fiche": "depassement",
-      "question": "Le tracteur roule doucement, je peux le dépasser :",
+      "enonce": "Le tracteur roule doucement, je peux le dépasser :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": false },
-        { "texte": "NON", "correcte": true }
+        "B"
       ],
-      "explication": "Le marquage au sol est une ligne blanche continue, ce qui interdit strictement son franchissement ou son chevauchement, même pour dépasser un véhicule lent."
+      "explication": "Le marquage au sol est une ligne blanche continue, ce qui interdit strictly son franchissement ou son chevauchement, même pour dépasser un véhicule lent."
     },
     {
       "id": "E24",
       "theme": "L",
       "fiche": "vitesse",
-      "question": "À partir du panneau, la vitesse est limitée à :",
+      "enonce": "À partir du panneau, la vitesse est limited à :",
+      "options": {
+        "A": "30 km/h",
+        "B": "50 km/h",
+        "C": "70 km/h"
+      },
       "reponses": [
-        { "texte": "30 km/h", "correcte": false },
-        { "texte": "50 km/h", "correcte": true },
-        { "texte": "70 km/h", "correcte": false }
+        "B"
       ],
       "explication": "Le panneau triangulaire bordé de rouge avec un pictogramme urbain signale l'entrée d'une agglomération, ce qui limite automatiquement la vitesse à 50 km/h."
     },
@@ -283,11 +373,14 @@
       "id": "E25",
       "theme": "M",
       "fiche": "voyants",
-      "question": "Ce témoin concerne :",
+      "enonce": "Ce témoin concerne :",
+      "options": {
+        "A": "L'usure des plaquettes de frein",
+        "B": "Dégivrage de la lunette arrière",
+        "C": "les feux arrière de brouillard"
+      },
       "reponses": [
-        { "texte": "L'usure des plaquettes de frein", "correcte": false },
-        { "texte": "Dégivrage de la lunette arrière", "correcte": false },
-        { "texte": "les feux arrière de brouillard", "correcte": true }
+        "C"
       ],
       "explication": "Le témoin orange allumé représente les feux arrière de brouillard."
     },
@@ -295,12 +388,17 @@
       "id": "E26",
       "theme": "L",
       "fiche": "infractions",
-      "question": "Si Je commets un excès de vitesse de 40 km/h, J'encours :",
+      "enonce": "Si Je commets un excès de vitesse de 40 km/h, J'encours :",
+      "options": {
+        "A": "une amende",
+        "B": "un retrait de points",
+        "C": "une suspension du permis",
+        "D": "une annulation du permis"
+      },
       "reponses": [
-        { "texte": "une amende", "correcte": true },
-        { "texte": "un retrait de points", "correcte": true },
-        { "texte": "une suspension du permis", "correcte": true },
-        { "texte": "une annulation du permis", "correcte": false }
+        "A",
+        "B",
+        "C"
       ],
       "explication": "Un excès de vitesse compris entre 40 et 49 km/h entraîne une amende forfaitaire (135 €), un retrait de 4 points et une suspension potentielle du permis de conduire pouvant aller jusqu'à 3 ans."
     },
@@ -308,11 +406,14 @@
       "id": "E27",
       "theme": "M",
       "fiche": "pneumatiques",
-      "question": "La profondeur des sculptures d'un pneumatique ne doit pas être inférieure à :",
+      "enonce": "La profondeur des sculptures d'un pneumatique ne doit pas être inférieure à :",
+      "options": {
+        "A": "1,6 millimètres",
+        "B": "2,6 millimètres",
+        "C": "3,6 millimètres"
+      },
       "reponses": [
-        { "texte": "1,6 millimètres", "correcte": true },
-        { "texte": "2,6 millimètres", "correcte": false },
-        { "texte": "3,6 millimètres", "correcte": false }
+        "A"
       ],
       "explication": "La limite légale d'usure des sculptures des pneus pour les véhicules légers est fixée à 1,6 mm."
     },
@@ -320,11 +421,16 @@
       "id": "E28",
       "theme": "C",
       "fiche": "distraction",
-      "type": "oui-non",
-      "question": "Je suis passible d'un retrait de points :",
-      "affirmations": [
-        { "texte": "dans la situation 1 (téléphone tenu en main)", "vrai": true },
-        { "texte": "dans la situation 2 (téléphone avec oreillette/kit mains libres)", "vrai": true }
+      "enonce": "Je suis passible d'un retrait de points :",
+      "options": {
+        "A": "dans la situation 1 (téléphone tenu en main) : OUI",
+        "B": "dans la situation 1 (téléphone tenu en main) : NON",
+        "C": "dans la situation 2 (téléphone avec oreillette/kit mains libres) : OUI",
+        "D": "dans la situation 2 (téléphone avec oreillette/kit mains libres) : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
       ],
       "explication": "Que le téléphone soit tenu en main ou qu'on utilise un dispositif audio en contact avec les oreilles (oreillette, casque), l'infraction est passible d'une amende de 135 € et d'un retrait de 3 points sur le permis."
     },
@@ -332,10 +438,13 @@
       "id": "E29",
       "theme": "A",
       "fiche": "premiers-secours",
-      "question": "En cas de non assistance à personne en danger, je suis passible d'une peine de prison :",
+      "enonce": "En cas de non assistance à personne en danger, je suis passible d'une peine de prison :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": true },
-        { "texte": "NON", "correcte": false }
+        "A"
       ],
       "explication": "La non-assistance à personne en danger est punie par le code pénal d'une peine pouvant aller jusqu'à 5 ans d'emprisonnement et 75 000 euros d'amende."
     },
@@ -343,10 +452,13 @@
       "id": "E30",
       "theme": "L",
       "fiche": "infractions",
-      "question": "Le défaut d'assurance automobile constitue un délit :",
+      "enonce": "Le défaut d'assurance automobile constitue un délit :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": true },
-        { "texte": "NON", "correcte": false }
+        "A"
       ],
       "explication": "Conduire un véhicule non assuré est un délit passible d'une amende pouvant atteindre 3 750 €, ainsi que de peines complémentaires (suspension ou annulation du permis, immobilisation ou confiscation du véhicule)."
     },
@@ -354,11 +466,16 @@
       "id": "E31",
       "theme": "R",
       "fiche": "distances",
-      "type": "oui-non",
-      "question": "L'intervalle de sécurité est suffisant à cette allure :",
-      "affirmations": [
-        { "texte": "l'intervalle est suffisant", "vrai": false },
-        { "texte": "j'indique immédiatement mon dépassement", "vrai": false }
+      "enonce": "L'intervalle de sécurité est suffisant à cette allure : / J'indique immédiatement mon dépassement :",
+      "options": {
+        "A": "l'intervalle est suffisant : OUI",
+        "B": "l'intervalle est suffisant : NON",
+        "C": "j'indique immédiatement : OUI",
+        "D": "j'indique immédiatement : NON"
+      },
+      "reponses": [
+        "B",
+        "D"
       ],
       "explication": "La distance de sécurité minimale doit équivaloir à la distance parcourue en 2 secondes. De plus, il ne faut pas entamer de dépassement si un usager est déjà en train de vous dépasser (visible dans le rétroviseur)."
     },
@@ -366,11 +483,16 @@
       "id": "E32",
       "theme": "M",
       "fiche": "pneumatiques",
-      "type": "oui-non",
-      "question": "Un pneu sous-gonflé :",
-      "affirmations": [
-        { "texte": "adhère moins à la route", "vrai": true },
-        { "texte": "augmente les distances de freinage", "vrai": true }
+      "enonce": "Un pneu sous-gonflé :",
+      "options": {
+        "A": "adhère moins à la route : OUI",
+        "B": "adhère moins à la route : NON",
+        "C": "augmente les distances de freinage : OUI",
+        "D": "augmente les distances de freinage : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
       ],
       "explication": "Le sous-gonflage entraîne une mauvaise liaison au sol, réduit l'adhérence, augmente les distances de freinage, provoque une usure anormale et un risque d'éclatement."
     },
@@ -378,10 +500,13 @@
       "id": "E33",
       "theme": "L",
       "fiche": "stationnement",
-      "question": "Après le panneau, je pourrai stationner :",
+      "enonce": "Après le panneau, je pourrai stationner :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
       "reponses": [
-        { "texte": "OUI", "correcte": false },
-        { "texte": "NON", "correcte": true }
+        "B"
       ],
       "explication": "Le panneau indique la fin de toutes les interdictions précédemment signalées, sauf l'arrêt et le stationnement. L'accotement est par ailleurs insuffisant pour garer le véhicule sans empiéter sur la chaussée."
     },
@@ -389,12 +514,17 @@
       "id": "E34",
       "theme": "M",
       "fiche": "pneumatiques",
-      "question": "Des pneus sous-gonflés entraînent :",
+      "enonce": "Des pneus sous-gonflés entraînent :",
+      "options": {
+        "A": "une surconsommation de carburant",
+        "B": "une meilleure tenue de route",
+        "C": "une usure prématurée des pneumatiques",
+        "D": "un risque d'éclatement"
+      },
       "reponses": [
-        { "texte": "une surconsommation de carburant", "correcte": true },
-        { "texte": "une meilleure tenue de route", "correcte": false },
-        { "texte": "une usure prématurée des pneumatiques", "correcte": true },
-        { "texte": "un risque d'éclatement", "correcte": true }
+        "A",
+        "C",
+        "D"
       ],
       "explication": "Un pneu sous-gonflé provoque une résistance au roulement accrue (surconsommation), une usure prématurée des épaules du pneu et un risque d'éclatement par surchauffe."
     },
@@ -402,12 +532,15 @@
       "id": "E35",
       "theme": "S",
       "fiche": "physique-conduite",
-      "question": "Je roule à 50 km/h, la distance d'arrêt sur route sèche sera de :",
+      "enonce": "Je roule à 50 km/h, la distance d'arrêt sur route sèche sera de :",
+      "options": {
+        "A": "10 mètres",
+        "B": "15 mètres",
+        "C": "20 mètres",
+        "D": "25 mètres"
+      },
       "reponses": [
-        { "texte": "10 mètres", "correcte": false },
-        { "texte": "15 mètres", "correcte": false },
-        { "texte": "20 mètres", "correcte": false },
-        { "texte": "25 mètres", "correcte": true }
+        "D"
       ],
       "explication": "Pour calculer la distance d'arrêt sur route sèche, on multiplie le chiffre des dizaines de la vitesse par lui-même (5 × 5 = 25 mètres)."
     },
@@ -415,11 +548,14 @@
       "id": "E36",
       "theme": "U",
       "fiche": "pietons",
-      "question": "Hors agglomération, pour dépasser un cycliste, l'intervalle latéral de sécurité doit être au moins égal à :",
+      "enonce": "Hors agglomération, pour dépasser un cycliste, l'intervalle latéral de sécurité doit être au moins égal à :",
+      "options": {
+        "A": "0,50 mètre",
+        "B": "1 mètre",
+        "C": "1,50 mètre"
+      },
       "reponses": [
-        { "texte": "0,50 mètre", "correcte": false },
-        { "texte": "1 mètre", "correcte": false },
-        { "texte": "1,50 mètre", "correcte": true }
+        "C"
       ],
       "explication": "Hors agglomération, l'écart latéral obligatoire pour dépasser un cycliste (ou un piéton) est d'au moins 1,50 m (contre 1 m en agglomération)."
     },
@@ -427,11 +563,16 @@
       "id": "E37",
       "theme": "L",
       "fiche": "stationnement",
-      "type": "oui-non",
-      "question": "Sur cet emplacement, seuls les titulaires de cette carte peuvent :",
-      "affirmations": [
-        { "texte": "stationner", "vrai": true },
-        { "texte": "s'arrêter", "vrai": true }
+      "enonce": "Sur cet emplacement, seuls les titulaires de cette carte peuvent :",
+      "options": {
+        "A": "stationner : OUI",
+        "B": "stationner : NON",
+        "C": "s'arrêter : OUI",
+        "D": "s'arrêter : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
       ],
       "explication": "L'emplacement réservé aux personnes handicapées interdit tant l'arrêt que le stationnement à tout autre usager non titulaire de la carte européenne idoine."
     },
@@ -439,11 +580,14 @@
       "id": "E38",
       "theme": "C",
       "fiche": "sante",
-      "question": "Pour dépasser le seuil légal d'alcoolémie, il suffit de boire :",
+      "enonce": "Pour dépasser le seuil légal d'alcoolémie, il suffit de boire :",
+      "options": {
+        "A": "1 verre d'alcool",
+        "B": "2 verres d'alcool",
+        "C": "3 verres d'alcool"
+      },
       "reponses": [
-        { "texte": "1 verre d'alcool", "correcte": false },
-        { "texte": "2 verres d'alcool", "correcte": true },
-        { "texte": "3 verres d'alcool", "correcte": false }
+        "B"
       ],
       "explication": "De manière générale, dès le 2e verre d'alcool, la limite légale de 0,5 g/l de sang est atteinte ou dépassée."
     },
@@ -451,11 +595,16 @@
       "id": "E39",
       "theme": "L",
       "fiche": "depassement",
-      "type": "oui-non",
-      "question": "Je peux dépasser le véhicule blanc :",
-      "affirmations": [
-        { "texte": "par la droite", "vrai": false },
-        { "texte": "par la gauche", "vrai": false }
+      "enonce": "Je peux dépasser le véhicule blanc :",
+      "options": {
+        "A": "par la droite : OUI",
+        "B": "par la droite : NON",
+        "C": "par la gauche : OUI",
+        "D": "par la gauche : NON"
+      },
+      "reponses": [
+        "B",
+        "D"
       ],
       "explication": "Le dépassement par la droite est interdit. Quant au dépassement par la gauche, il est impossible dans l'immédiat car un véhicule arrive dans le rétroviseur sur la voie de gauche."
     },
@@ -463,12 +612,15 @@
       "id": "E40",
       "theme": "E",
       "fiche": "ecomobilite",
-      "question": "Afin d'éviter la surconsommation avec un véhicule essence, le changement de vitesse se fait :",
+      "enonce": "Afin d'éviter la surconsommation avec un véhicule essence, le changement de vitesse se fait :",
+      "options": {
+        "A": "entre 500 et 1000 tours",
+        "B": "entre 1000 et 1500 tours",
+        "C": "entre 1500 et 2000",
+        "D": "entre 2000 et 2500"
+      },
       "reponses": [
-        { "texte": "entre 500 et 1000 tours", "correcte": false },
-        { "texte": "entre 1000 et 1500 tours", "correcte": false },
-        { "texte": "entre 1500 et 2000", "correcte": false },
-        { "texte": "entre 2000 et 2500", "correcte": true }
+        "D"
       ],
       "explication": "Pour éviter le surrégime et la surconsommation sur une motorisation essence, il est recommandé de passer la vitesse supérieure entre 2000 et 2500 tours par minute."
     }
