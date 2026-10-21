@@ -471,7 +471,7 @@
       "id": "D32",
       "theme": "L",
       "fiche": "vitesse",
-      "enonce": "La limitation de vitesse à 30 km/h s'applique, jusqu'à la prochaine intersection : / jusqu'au panneau fin de zone",
+      "enonce": "La limitation de vitesse à 30 km/h s'applique ...",
       "options": {
         "A": "jusqu'à la prochaine intersection : OUI",
         "B": "jusqu'à la prochaine intersection : NON",
