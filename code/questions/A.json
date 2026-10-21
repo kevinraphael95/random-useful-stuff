@@ -3,6 +3,8 @@
   "questions": [
     {
       "id": "A01",
+      "theme": "L",
+      "fiche": "stationnement",
       "enonce": "Dans ce parking, le stationnement est :",
       "options": {
         "A": "gratuit",
@@ -11,10 +13,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "La signalisation du parking (panneaux, marquage, horodateur) indique les conditions de stationnement : ici, il est gratuit."
     },
     {
       "id": "A02",
+      "theme": "C",
+      "fiche": "conducteur",
       "enonce": "La lecture d'un SMS ou d'une notification en conduisant multiplie le risque d'accident par :",
       "options": {
         "A": "5",
@@ -23,10 +28,13 @@
       },
       "reponses": [
         "C"
-      ]
+      ],
+      "explication": "Lire ou écrire un SMS détourne le regard de la route pendant plusieurs secondes : le risque d'accident est multiplié par 23."
     },
     {
       "id": "A03",
+      "theme": "R",
+      "fiche": "zones-dangereuses",
       "enonce": "La barrière du passage à niveau est endommagée, j'utilise ce téléphone :",
       "options": {
         "A": "OUI",
@@ -34,10 +42,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Si la barrière d'un passage à niveau est endommagée, on utilise le téléphone d'urgence installé à proximité pour prévenir le gestionnaire de la voie ferrée."
     },
     {
       "id": "A04",
+      "theme": "E",
+      "fiche": "ecoconduite",
       "enonce": "L'autonomie d'un véhicule électrique varie en fonction :",
       "options": {
         "A": "du style de conduite : OUI",
@@ -48,10 +59,13 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "L'autonomie dépend du style de conduite (accélérations, vitesse) et du niveau de charge de la batterie de traction, ainsi que du relief, de la température et du chauffage."
     },
     {
       "id": "A05",
+      "theme": "U",
+      "fiche": "autres-usagers",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "En dépassant, le conducteur risque de ne pas détecter le piéton : OUI",
@@ -62,10 +76,13 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "Un piéton peut être masqué par un véhicule : en dépassant, le conducteur risque de ne pas le détecter. Le piéton doit donc s'assurer d'avoir été vu avant de s'engager."
     },
     {
       "id": "A06",
+      "theme": "R",
+      "fiche": "conditions-difficiles",
       "enonce": "Afin de dégivrer le pare-brise, il est préférable :",
       "options": {
         "A": "d'enclencher le désembuage et d'utiliser un grattoir",
@@ -73,10 +90,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Pour dégivrer, on utilise le désembuage et un grattoir. L'eau chaude risque de fendre le pare-brise (choc thermique) et regèle aussitôt."
     },
     {
       "id": "A07",
+      "theme": "C",
+      "fiche": "circuler-communication",
       "enonce": "Souhaitant s'engager dans la circulation, l'automobiliste a actionné son clignotant gauche au bon moment :",
       "options": {
         "A": "OUI",
@@ -84,10 +104,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Le clignotant doit être actionné suffisamment tôt, avant la manœuvre, pour que les autres usagers (ici le cycliste) puissent l'anticiper."
     },
     {
       "id": "A08",
+      "theme": "M",
+      "fiche": "voyants",
       "enonce": "L'allumage de ce témoin m'impose l'arrêt. J'allume les feux de détresse :",
       "options": {
         "A": "immédiatement",
@@ -97,10 +120,13 @@
       "reponses": [
         "B",
         "C"
-      ]
+      ],
+      "explication": "Quand un témoin impose l'arrêt, on ralentit d'abord, puis on allume les feux de détresse et on s'arrête en sécurité (sur autoroute, sur la bande d'arrêt d'urgence)."
     },
     {
       "id": "A09",
+      "theme": "C",
+      "fiche": "conducteur",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "Ce virage représente une zone de danger potentiel : OUI",
@@ -111,10 +137,13 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "Un virage sans visibilité est une zone de danger potentiel : on ralentit, car on peut y découvrir un usager vulnérable (piéton, cycliste)."
     },
     {
       "id": "A10",
+      "theme": "U",
+      "fiche": "autres-usagers",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "Ce panneau indique une voie réservée : OUI",
@@ -125,10 +154,13 @@
       "reponses": [
         "A",
         "D"
-      ]
+      ],
+      "explication": "Le panneau signale une voie réservée à certains usagers (bus, cyclistes). Le covoiturage ne donne pas le droit de l'emprunter."
     },
     {
       "id": "A11",
+      "theme": "E",
+      "fiche": "choisir-vehicule",
       "enonce": "À l'achat d'un véhicule neuf, une étiquette énergie m'informe :",
       "options": {
         "A": "de la consommation moyenne en énergie",
@@ -138,10 +170,13 @@
       "reponses": [
         "A",
         "B"
-      ]
+      ],
+      "explication": "L'étiquette énergie informe sur la consommation moyenne et sur les émissions de CO2. Elle n'indique pas le prix du véhicule."
     },
     {
       "id": "A12",
+      "theme": "D",
+      "fiche": "permis-points",
       "enonce": "La formation complémentaire post permis permet :",
       "options": {
         "A": "de récupérer des points perdus : OUI",
@@ -152,10 +187,13 @@
       "reponses": [
         "B",
         "C"
-      ]
+      ],
+      "explication": "La formation complémentaire post-permis ne permet pas de récupérer des points, mais elle peut réduire la durée de la période probatoire."
     },
     {
       "id": "A13",
+      "theme": "L",
+      "fiche": "circuler-regles",
       "enonce": "Le conducteur de ce véhicule désire se garer. Il a la priorité sur le motard :",
       "options": {
         "A": "OUI",
@@ -163,10 +201,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Celui qui manœuvre pour se garer doit céder le passage aux usagers qui circulent normalement, comme ce motard."
     },
     {
       "id": "A14",
+      "theme": "C",
+      "fiche": "circuler-communication",
       "enonce": "Une allure anormalement réduite :",
       "options": {
         "A": "peut surprendre les autres usagers et risque de provoquer un accident : OUI",
@@ -177,10 +218,13 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "Une allure anormalement réduite surprend les autres usagers et peut provoquer un accident : on la signale en allumant les feux de détresse."
     },
     {
       "id": "A15",
+      "theme": "L",
+      "fiche": "priorites",
       "enonce": "Pour tourner à gauche à cette intersection, je passe :",
       "options": {
         "A": "avant ce véhicule",
@@ -188,10 +232,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Pour tourner à gauche, on cède le passage aux véhicules qui viennent en face : ici, on passe donc après ce véhicule."
     },
     {
       "id": "A16",
+      "theme": "R",
+      "fiche": "conditions-difficiles",
       "enonce": "En période hivernale, si mon véhicule n'est pas équipé de 4 pneus neige, j'ai l'obligation d'avoir des chaînes à neige à bord :",
       "options": {
         "A": "OUI",
@@ -199,10 +246,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Dans les massifs concernés, en période hivernale, il faut avoir 4 pneus hiver ou des chaînes à neige à bord."
     },
     {
       "id": "A17",
+      "theme": "S",
+      "fiche": "securite",
       "enonce": "L'ESP permet :",
       "options": {
         "A": "de passer plus vite en virage : OUI",
@@ -213,10 +263,13 @@
       "reponses": [
         "B",
         "D"
-      ]
+      ],
+      "explication": "L'ESP corrige la trajectoire en cas de perte d'adhérence, mais il ne permet ni d'aller plus vite en virage ni de réduire les distances de sécurité."
     },
     {
       "id": "A18",
+      "theme": "L",
+      "fiche": "vitesse-consequences",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "Mon allure est adaptée à la situation : OUI",
@@ -227,10 +280,13 @@
       "reponses": [
         "B",
         "C"
-      ]
+      ],
+      "explication": "L'allure doit toujours être adaptée à la situation : ici, il faut ralentir et se décaler le plus à droite possible."
     },
     {
       "id": "A19",
+      "theme": "M",
+      "fiche": "mecanique",
       "enonce": "La trappe à carburant est toujours située à droite :",
       "options": {
         "A": "OUI",
@@ -238,10 +294,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "La trappe à carburant peut être à droite ou à gauche selon le véhicule : une flèche près de la jauge, sur le tableau de bord, indique le côté."
     },
     {
       "id": "A20",
+      "theme": "L",
+      "fiche": "vitesse-consequences",
       "enonce": "Pour évaluer la distance parcourue pendant le temps de réaction à 50 km/h, il faut multiplier 5 par :",
       "options": {
         "A": "3",
@@ -250,10 +309,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "À 50 km/h, on parcourt environ 15 m pendant le temps de réaction (environ 1 seconde) : on multiplie 5 par 3."
     },
     {
       "id": "A21",
+      "theme": "S",
+      "fiche": "securite",
       "enonce": "Selon la distance avec l'obstacle, les signaux sonores et visuels varient :",
       "options": {
         "A": "OUI",
@@ -261,10 +323,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Les aides au stationnement émettent des signaux sonores et visuels dont le rythme varie avec la distance à l'obstacle."
     },
     {
       "id": "A22",
+      "theme": "R",
+      "fiche": "zones-dangereuses",
       "enonce": "Le tramway venant de passer, le conducteur de cette voiture :",
       "options": {
         "A": "peut s'engager même si le feu est toujours clignotant",
@@ -272,10 +337,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Même si un tramway vient de passer, un autre peut arriver : on attend que le feu cesse de clignoter."
     },
     {
       "id": "A23",
+      "theme": "C",
+      "fiche": "circuler-communication",
       "enonce": "Klaxonner en ville est autorisé :",
       "options": {
         "A": "pour inciter un conducteur à démarrer plus vite",
@@ -285,10 +353,13 @@
       },
       "reponses": [
         "C"
-      ]
+      ],
+      "explication": "En ville, l'avertisseur sonore n'est autorisé qu'en cas de danger immédiat."
     },
     {
       "id": "A24",
+      "theme": "L",
+      "fiche": "feux-agents",
       "enonce": "Les cyclistes peuvent tourner à droite :",
       "options": {
         "A": "uniquement lorsque le feu est vert",
@@ -296,10 +367,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Un panonceau (cédez-le-passage cycliste) permet aux cyclistes de tourner à droite même quand le feu est rouge, en cédant le passage."
     },
     {
       "id": "A25",
+      "theme": "L",
+      "fiche": "signalisation-panneaux",
       "enonce": "Le danger annoncé :",
       "options": {
         "A": "commence à 150 m",
@@ -310,10 +384,13 @@
       "reponses": [
         "A",
         "D"
-      ]
+      ],
+      "explication": "Un panneau de danger est placé environ 150 m avant le danger (hors agglomération) ; le panonceau précise sur quelle longueur il s'étend, ici 500 m."
     },
     {
       "id": "A26",
+      "theme": "U",
+      "fiche": "autres-usagers",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "L'allumage des feux de recul est un indicateur du risque de manoeuvre de ce véhicule : OUI",
@@ -324,10 +401,13 @@
       "reponses": [
         "A",
         "D"
-      ]
+      ],
+      "explication": "Les feux de recul allumés annoncent une manœuvre. Un motard est difficile à repérer : le conducteur peut ne pas le voir arriver."
     },
     {
       "id": "A27",
+      "theme": "S",
+      "fiche": "securite",
       "enonce": "L'aide au maintien dans la voie :",
       "options": {
         "A": "fonctionne dans toutes les situations : OUI",
@@ -338,10 +418,13 @@
       "reponses": [
         "B",
         "D"
-      ]
+      ],
+      "explication": "L'aide au maintien dans la voie n'est pas un pilote automatique : elle ne fonctionne pas dans toutes les situations et le conducteur doit garder les mains sur le volant."
     },
     {
       "id": "A28",
+      "theme": "R",
+      "fiche": "autoroute",
       "enonce": "Dans cette situation, ce véhicule est bien placé :",
       "options": {
         "A": "OUI",
@@ -353,6 +436,8 @@
     },
     {
       "id": "A29",
+      "theme": "U",
+      "fiche": "autres-usagers",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "Cet enfant, utilisateur d'une trottinette non motorisée, est assimilé à un piéton : OUI",
@@ -363,10 +448,13 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "Une trottinette non motorisée est assimilée à un piéton : l'enfant circule sur le trottoir, à l'allure du pas."
     },
     {
       "id": "A30",
+      "theme": "L",
+      "fiche": "priorites",
       "enonce": "Dans cette situation, le véhicule A cède le passage au véhicule B :",
       "options": {
         "A": "OUI",
@@ -374,10 +462,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Dans cette intersection, le véhicule A n'est pas prioritaire : il doit céder le passage au véhicule B."
     },
     {
       "id": "A31",
+      "theme": "L",
+      "fiche": "stationnement",
       "enonce": "Un disque de stationnement est obligatoire pour stationner sur l'emplacement :",
       "options": {
         "A": "A",
@@ -389,6 +480,8 @@
     },
     {
       "id": "A32",
+      "theme": "C",
+      "fiche": "conducteur",
       "enonce": "Pour passer un appel, j'utilise de préférence :",
       "options": {
         "A": "la numérotation manuelle sur l'écran",
@@ -396,10 +489,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Pour téléphoner, la commande vocale évite de manipuler l'écran et de quitter la route des yeux."
     },
     {
       "id": "A33",
+      "theme": "R",
+      "fiche": "autoroute",
       "enonce": "À 130 km/h, sur autoroute, un intervalle de sécurité de 2 secondes correspond à :",
       "options": {
         "A": "1 trait de la bande d'arrêt d'urgence",
@@ -408,10 +504,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "À 130 km/h, on parcourt environ 36 m par seconde : 2 secondes représentent environ 72 m, soit 2 traits de la bande d'arrêt d'urgence."
     },
     {
       "id": "A34",
+      "theme": "U",
+      "fiche": "autres-usagers",
       "enonce": "Pour être vu du conducteur du camion je dois :",
       "options": {
         "A": "me rapprocher du poids lourd",
@@ -421,10 +520,13 @@
       "reponses": [
         "B",
         "C"
-      ]
+      ],
+      "explication": "Un poids lourd a des angles morts importants. Pour être vu, on s'éloigne de lui et on se décale légèrement dans sa voie pour apparaître dans ses rétroviseurs."
     },
     {
       "id": "A35",
+      "theme": "L",
+      "fiche": "signalisation-panneaux",
       "enonce": "Cette signalisation concerne les véhicules affectés au transport de marchandises :",
       "options": {
         "A": "de plus de 3,5 tonnes seulement",
@@ -432,10 +534,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Un panneau visant les véhicules de transport de marchandises s'applique quel que soit leur poids, sauf si un tonnage est indiqué."
     },
     {
       "id": "A36",
+      "theme": "M",
+      "fiche": "entretien",
       "enonce": "Il est préférable que le niveau de liquide de refroidissement se situe :",
       "options": {
         "A": "légèrement en-dessous du repère maximum",
@@ -443,10 +548,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Le niveau de liquide de refroidissement se vérifie à froid : il doit être entre le minimum et le maximum, de préférence légèrement sous le repère maximum."
     },
     {
       "id": "A37",
+      "theme": "R",
+      "fiche": "autoroute",
       "enonce": "Sur autoroute, en cas de panne, j'emmène les passagers :",
       "options": {
         "A": "derrière la glissière de sécurité",
@@ -454,10 +562,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "En cas de panne sur autoroute, on s'arrête sur la bande d'arrêt d'urgence, on enfile le gilet et on fait évacuer les passagers derrière la glissière de sécurité."
     },
     {
       "id": "A38",
+      "theme": "C",
+      "fiche": "etat-physique",
       "enonce": "Lors d'un long trajet, je limite la fatigue :",
       "options": {
         "A": "en évitant de consommer un médicament comportant un pictogramme",
@@ -468,10 +579,13 @@
       "reponses": [
         "A",
         "D"
-      ]
+      ],
+      "explication": "Pour limiter la fatigue : faire une pause toutes les 2 heures, éviter de partir la nuit et éviter les médicaments marqués d'un pictogramme."
     },
     {
       "id": "A39",
+      "theme": "E",
+      "fiche": "ecomobilite",
       "enonce": "Avant de faire un long trajet en véhicule électrique, je vérifie la charge de la batterie :",
       "options": {
         "A": "OUI",
@@ -479,10 +593,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Avant un long trajet en véhicule électrique, on vérifie la charge de la batterie et on repère les bornes de recharge sur le trajet."
     },
     {
       "id": "A40",
+      "theme": "U",
+      "fiche": "autres-usagers",
       "enonce": "Un arrêt sur une bande cyclable :",
       "options": {
         "A": "peut mettre ce cycliste en danger",
@@ -492,7 +609,8 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "S'arrêter sur une bande cyclable est interdit (contravention) et oblige les cyclistes à se déporter dans la circulation, ce qui les met en danger."
     }
   ]
 }

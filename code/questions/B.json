@@ -1,8 +1,10 @@
 {
-  "test": "Série B",
+  "test": "Codes Rousseau - Test gratuit voiture (Série B complète)",
   "questions": [
     {
       "id": "B01",
+      "theme": "D",
+      "fiche": "infractions",
       "enonce": "L'utilisation d'un téléphone portable en conduisant est passible :",
       "options": {
         "A": "d'une amende de 135 euros",
@@ -13,10 +15,13 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "Tenir un téléphone en main en conduisant est interdit et sanctionné (amende, retrait de points, suspension possible du permis)."
     },
     {
       "id": "B02",
+      "theme": "R",
+      "fiche": "zones-dangereuses",
       "enonce": "En cas d'incendie dans le tunnel, je serai à l'abri dans :",
       "options": {
         "A": "L'issue de secours : OUI",
@@ -27,10 +32,13 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "En cas d'incendie dans un tunnel, on quitte le véhicule et on rejoint l'issue de secours la plus proche, signalée par le pictogramme de sortie."
     },
     {
       "id": "B03",
+      "theme": "R",
+      "fiche": "conditions-difficiles",
       "enonce": "Lorsque la chaussée est mouillée :",
       "options": {
         "A": "le temps de réaction augmente",
@@ -40,10 +48,13 @@
       "reponses": [
         "B",
         "C"
-      ]
+      ],
+      "explication": "Sur chaussée mouillée, l'adhérence diminue : la distance de freinage s'allonge, donc la distance d'arrêt aussi. Le temps de réaction, lui, ne change pas."
     },
     {
       "id": "B04",
+      "theme": "R",
+      "fiche": "conditions-difficiles",
       "enonce": "La nuit, les accidents corporels sont :",
       "options": {
         "A": "plus nombreux : OUI",
@@ -54,10 +65,13 @@
       "reponses": [
         "B",
         "C"
-      ]
+      ],
+      "explication": "La nuit, il y a moins de circulation donc moins d'accidents, mais ils sont plus graves (visibilité réduite, fatigue)."
     },
     {
       "id": "B05",
+      "theme": "L",
+      "fiche": "croiser-depasser",
       "enonce": "Je circule hors agglomération, pour dépasser ce piéton je dois laisser un intervalle latéral d'au moins :",
       "options": {
         "A": "0,50 mètre",
@@ -66,10 +80,13 @@
       },
       "reponses": [
         "C"
-      ]
+      ],
+      "explication": "Hors agglomération, on laisse au moins 1,50 m pour dépasser un piéton ; en agglomération, 1 m."
     },
     {
       "id": "B06",
+      "theme": "R",
+      "fiche": "zones-dangereuses",
       "enonce": "A ce passage à niveau, si aucun train n'arrive je marque l'arrêt avant de passer :",
       "options": {
         "A": "OUI",
@@ -77,10 +94,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Un passage à niveau équipé d'un panneau STOP impose l'arrêt complet, même si aucun train n'est en vue."
     },
     {
       "id": "B07",
+      "theme": "C",
+      "fiche": "alcool",
       "enonce": "Pendant la période du permis probatoire, un jeune conducteur est en infraction si son taux d'alcool dans le sang atteint :",
       "options": {
         "A": "0,10 grammes par litre de sang",
@@ -90,10 +110,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "En permis probatoire, la limite est de 0,2 g d'alcool par litre de sang, contre 0,5 g pour les autres conducteurs."
     },
     {
       "id": "B08",
+      "theme": "A",
+      "fiche": "premiers-secours",
       "enonce": "L'utilisation d'un défibrillateur automatique :",
       "options": {
         "A": "nécessite une formation",
@@ -104,10 +127,13 @@
       "reponses": [
         "B",
         "D"
-      ]
+      ],
+      "explication": "Le défibrillateur peut être utilisé par tout le monde, même sans formation : il guide l'utilisateur à la voix et peut sauver une vie en cas d'arrêt cardiaque."
     },
     {
       "id": "B09",
+      "theme": "L",
+      "fiche": "vitesse-consequences",
       "enonce": "Le temps de réaction augmente avec la vitesse :",
       "options": {
         "A": "OUI",
@@ -115,10 +141,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Le temps de réaction (environ 1 seconde) ne dépend pas de la vitesse : c'est la distance parcourue pendant ce temps qui augmente."
     },
     {
       "id": "B10",
+      "theme": "E",
+      "fiche": "choisir-vehicule",
       "enonce": "A puissance égale, un véhicule équipé d'un moteur essence consomme moins qu'un véhicule équipé d'un moteur diesel :",
       "options": {
         "A": "OUI",
@@ -126,10 +155,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "À puissance égale, un moteur diesel consomme moins qu'un moteur essence."
     },
     {
       "id": "B11",
+      "theme": "L",
+      "fiche": "stationnement",
       "enonce": "L'interdiction de stationner :",
       "options": {
         "A": "commence à hauteur du panneau",
@@ -140,10 +172,13 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "L'interdiction de stationner commence à hauteur du panneau et prend fin à la prochaine intersection."
     },
     {
       "id": "B12",
+      "theme": "C",
+      "fiche": "etat-physique",
       "enonce": "Une perte de la vigilance peut être causée par :",
       "options": {
         "A": "la prise de certains médicaments",
@@ -153,10 +188,13 @@
       "reponses": [
         "A",
         "B"
-      ]
+      ],
+      "explication": "Certains médicaments et la fatigue réduisent la vigilance. L'état de la chaussée ne l'altère pas."
     },
     {
       "id": "B13",
+      "theme": "M",
+      "fiche": "entretien",
       "enonce": "Dans les stations essence, un code couleur définit le type de carburant :",
       "options": {
         "A": "OUI",
@@ -164,10 +202,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Les carburants sont identifiés par des codes couleur : on vérifie toujours avant de faire le plein, car se tromper de carburant peut endommager le moteur."
     },
     {
       "id": "B14",
+      "theme": "M",
+      "fiche": "entretien",
       "enonce": "Il manque de l'huile moteur. Pour en ajouter, je dévisse le bouchon :",
       "options": {
         "A": "A",
@@ -181,6 +222,8 @@
     },
     {
       "id": "B15",
+      "theme": "C",
+      "fiche": "etat-physique",
       "enonce": "J'effectue un long trajet, il est conseillé de faire une pause toutes les :",
       "options": {
         "A": "2 heures",
@@ -189,10 +232,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Sur un long trajet, on fait une pause d'au moins 15 minutes toutes les 2 heures."
     },
     {
       "id": "B16",
+      "theme": "L",
+      "fiche": "panneaux-priorite",
       "enonce": "La signalisation indique :",
       "options": {
         "A": "une route à caractère prioritaire",
@@ -201,10 +247,13 @@
       },
       "reponses": [
         "C"
-      ]
+      ],
+      "explication": "Ce panneau signale la perte du caractère prioritaire de la route : il faudra redevenir attentif aux intersections suivantes."
     },
     {
       "id": "B17",
+      "theme": "C",
+      "fiche": "circuler-communication",
       "enonce": "Dans cette situation, je peux utiliser l'avertisseur sonore :",
       "options": {
         "A": "OUI",
@@ -212,10 +261,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "L'avertisseur sonore n'est autorisé qu'en cas de danger immédiat."
     },
     {
       "id": "B18",
+      "theme": "L",
+      "fiche": "intersections-complexes",
       "enonce": "Après ce panneau :",
       "options": {
         "A": "la vitesse est limitée à 50 km/h : OUI",
@@ -226,10 +278,13 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "Après un panneau d'entrée d'agglomération, la vitesse est limitée à 50 km/h et l'usage de l'avertisseur sonore est interdit, sauf danger immédiat."
     },
     {
       "id": "B19",
+      "theme": "L",
+      "fiche": "croiser-depasser",
       "enonce": "Je peux dépasser :",
       "options": {
         "A": "OUI",
@@ -237,10 +292,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "On ne dépasse que si on peut le faire en sécurité : visibilité suffisante, pas de ligne continue ni d'interdiction."
     },
     {
       "id": "B20",
+      "theme": "M",
+      "fiche": "eclairage",
       "enonce": "Je suis dans l'obligation de posséder une boîte d'ampoules de rechange dans mon véhicule :",
       "options": {
         "A": "OUI",
@@ -248,10 +306,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Une boîte d'ampoules de rechange est conseillée, mais elle n'est pas obligatoire."
     },
     {
       "id": "B21",
+      "theme": "U",
+      "fiche": "autres-usagers",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "je ralentis, et je m'arrête",
@@ -259,10 +320,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Devant un passage piéton, on ralentit et on s'arrête pour laisser passer un piéton engagé ou sur le point de traverser."
     },
     {
       "id": "B22",
+      "theme": "S",
+      "fiche": "securite",
       "enonce": "L'ESP, ou correcteur électronique de trajectoire, améliore la tenue de route :",
       "options": {
         "A": "OUI",
@@ -270,10 +334,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "L'ESP (correcteur électronique de trajectoire) corrige les dérapages et améliore la tenue de route."
     },
     {
       "id": "B23",
+      "theme": "L",
+      "fiche": "signalisation-panneaux",
       "enonce": "Ce panneau indique :",
       "options": {
         "A": "une succession de virages : OUI",
@@ -284,10 +351,13 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "Ce panneau annonce une succession de virages, dont le premier est à gauche."
     },
     {
       "id": "B24",
+      "theme": "L",
+      "fiche": "croiser-depasser",
       "enonce": "Je continue le dépassement :",
       "options": {
         "A": "OUI",
@@ -295,10 +365,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Si on ne peut pas terminer le dépassement en sécurité, on ne le poursuit pas et on reprend sa place dès que possible."
     },
     {
       "id": "B25",
+      "theme": "E",
+      "fiche": "ecoconduite",
       "enonce": "Le système « Stop and Start » permet :",
       "options": {
         "A": "d'économiser du carburant : OUI",
@@ -309,10 +382,13 @@
       "reponses": [
         "A",
         "C"
-      ]
+      ],
+      "explication": "Le système Stop and Start coupe le moteur à l'arrêt et le redémarre automatiquement : il économise du carburant et réduit les émissions de CO2."
     },
     {
       "id": "B26",
+      "theme": "L",
+      "fiche": "se-croiser",
       "enonce": "Dans cette situation, le croisement est impossible. Je dois reculer pour laisser passer le bus :",
       "options": {
         "A": "OUI",
@@ -320,10 +396,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Quand le croisement est impossible, c'est le conducteur du véhicule le plus facile à manœuvrer qui recule : ici, la voiture recule pour laisser passer le bus."
     },
     {
       "id": "B27",
+      "theme": "C",
+      "fiche": "alcool",
       "enonce": "L'emballage des médicaments potentiellement dangereux pour la conduite comporte un logo triangulaire :",
       "options": {
         "A": "OUI",
@@ -331,10 +410,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Les médicaments qui peuvent altérer la conduite portent sur leur emballage un pictogramme triangulaire (niveau 1, 2 ou 3)."
     },
     {
       "id": "B28",
+      "theme": "L",
+      "fiche": "croiser-depasser",
       "enonce": "Pour dépasser ce cycliste, je dois laisser un intervalle minimum de :",
       "options": {
         "A": "0,50 mètre",
@@ -343,10 +425,13 @@
       },
       "reponses": [
         "C"
-      ]
+      ],
+      "explication": "Hors agglomération, on laisse au moins 1,50 m pour dépasser un cycliste ; en agglomération, 1 m."
     },
     {
       "id": "B29",
+      "theme": "L",
+      "fiche": "stationnement",
       "enonce": "Pour stationner dans une descente, il est préférable de tourner les roues du côté du trottoir :",
       "options": {
         "A": "OUI",
@@ -354,10 +439,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Dans une descente, on tourne les roues vers le trottoir pour que le véhicule s'appuie contre lui s'il se met à rouler."
     },
     {
       "id": "B30",
+      "theme": "E",
+      "fiche": "ecoconduite",
       "enonce": "Dans une descente, pour économiser du carburant, je peux rouler au point mort :",
       "options": {
         "A": "OUI",
@@ -365,10 +453,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Rouler au point mort est dangereux (moins de contrôle, plus de frein moteur) et ne fait pas économiser de carburant."
     },
     {
       "id": "B31",
+      "theme": "D",
+      "fiche": "documents",
       "enonce": "Lors d'un contrôle de police, je dois présenter :",
       "options": {
         "A": "mon permis de conduire",
@@ -380,10 +471,13 @@
         "A",
         "C",
         "D"
-      ]
+      ],
+      "explication": "Lors d'un contrôle, on présente le permis de conduire, la carte grise et l'attestation d'assurance. La facture du contrôle technique n'est pas demandée."
     },
     {
       "id": "B32",
+      "theme": "M",
+      "fiche": "entretien",
       "enonce": "Sur un pneu, ce témoin permet de mesurer l'usure de la bande de roulement :",
       "options": {
         "A": "OUI",
@@ -391,10 +485,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Le témoin d'usure dans les rainures du pneu indique la limite légale de profondeur de 1,6 mm."
     },
     {
       "id": "B33",
+      "theme": "S",
+      "fiche": "securite",
       "enonce": "L'aide au freinage d'urgence, est obligatoirement liée à la présence d'un système d'anti blocage de roues :",
       "options": {
         "A": "OUI",
@@ -402,10 +499,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "L'aide au freinage d'urgence est liée à l'ABS (système antiblocage des roues) : elle amplifie le freinage lors d'un freinage d'urgence."
     },
     {
       "id": "B34",
+      "theme": "S",
+      "fiche": "securite-passager",
       "enonce": "A 50 km/h, en cas de choc frontal, si je ne porte pas ma ceinture, je peux me cramponner au volant pour éviter de heurter le pare-brise :",
       "options": {
         "A": "OUI",
@@ -413,10 +513,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Sans ceinture, un choc à 50 km/h équivaut à une chute d'environ 10 m : on ne peut pas se retenir en s'accrochant au volant."
     },
     {
       "id": "B35",
+      "theme": "D",
+      "fiche": "documents",
       "enonce": "Je suis propriétaire d'un véhicule en état de circuler. J'ai l'obligation de souscrire une assurance automobile :",
       "options": {
         "A": "OUI",
@@ -424,10 +527,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Tout véhicule à moteur en état de circuler doit être assuré, même s'il ne roule pas."
     },
     {
       "id": "B36",
+      "theme": "U",
+      "fiche": "partage-rue",
       "enonce": "La vitesse est limitée à 30 km/h :",
       "options": {
         "A": "dans cette rue uniquement : OUI",
@@ -442,6 +548,8 @@
     },
     {
       "id": "B37",
+      "theme": "L",
+      "fiche": "priorites",
       "enonce": "A la prochaine intersection, je tournerai à gauche. Je me prépare à céder le passage aux usagers venant :",
       "options": {
         "A": "de droite",
@@ -455,6 +563,8 @@
     },
     {
       "id": "B38",
+      "theme": "P",
+      "fiche": "entrer-sortir",
       "enonce": "Je peux ouvrir la portière pour quitter mon véhicule :",
       "options": {
         "A": "OUI",
@@ -462,10 +572,13 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Avant d'ouvrir la portière, on vérifie le rétroviseur et l'angle mort pour ne pas heurter un deux-roues qui arrive."
     },
     {
       "id": "B39",
+      "theme": "M",
+      "fiche": "mecanique",
       "enonce": "Dans un véhicule équipé d'une boîte automatique, le mode D correspond à la marche avant :",
       "options": {
         "A": "OUI",
@@ -473,10 +586,13 @@
       },
       "reponses": [
         "A"
-      ]
+      ],
+      "explication": "Sur une boîte automatique, D (Drive) correspond à la marche avant ; P = parking, R = marche arrière, N = point mort."
     },
     {
       "id": "B40",
+      "theme": "D",
+      "fiche": "permis-points",
       "enonce": "Un stage de sensibilisation à la sécurité routière, me permet de récupérer au maximum :",
       "options": {
         "A": "3 points",
@@ -485,7 +601,8 @@
       },
       "reponses": [
         "B"
-      ]
+      ],
+      "explication": "Un stage de sensibilisation permet de récupérer au maximum 4 points, une seule fois par an."
     }
   ]
 }
