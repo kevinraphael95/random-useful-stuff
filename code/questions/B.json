@@ -14,9 +14,9 @@
       },
       "reponses": [
         "A",
-        "C"
+        "B"
       ],
-      "explication": "Tenir un téléphone en main en conduisant est interdit et sanctionné (amende, retrait de points, suspension possible du permis)."
+      "explication": "Téléphoner en conduisant détourne obligatoirement l'attention et multiplie par 3 le risque d'accident. L'utilisation d’un téléphone portable tenu en main est sanctionnée par une amende forfaitaire de 135 € et un retrait de 3 points du permis de conduire."
     },
     {
       "id": "B02",
@@ -31,9 +31,9 @@
       },
       "reponses": [
         "A",
-        "C"
+        "D"
       ],
-      "explication": "En cas d'incendie dans un tunnel, on quitte le véhicule et on rejoint l'issue de secours la plus proche, signalée par le pictogramme de sortie."
+      "explication": "Je suis face à un choix entre une niche de sécurité, qui contient une borne d'appel d'urgence avec extincteur, et une issue de secours indiquée par un panneau vert. En cas d'incendie dans le tunnel, la niche de sécurité ne me protégera pas des fumées et de la chaleur. Seule l'issue de secours peut me protéger de ces dangers. Parfois, certaines issues permettent de rejoindre l'extérieur et contiennent également des bornes d'appel d'urgence."
     },
     {
       "id": "B03",
@@ -49,7 +49,7 @@
         "B",
         "C"
       ],
-      "explication": "Sur chaussée mouillée, l'adhérence diminue : la distance de freinage s'allonge, donc la distance d'arrêt aussi. Le temps de réaction, lui, ne change pas."
+      "explication": "La conduite sur une chaussée mouillée est plus dangereuse, car les pneus ont moins d'adhérence et nécessitent une distance de freinage plus longue pour s'arrêter. La distance d'arrêt est également plus importante. Cependant, le temps de réaction reste inchangé. Il est donc important de conduire avec prudence et de tenir compte de ces facteurs pour éviter les accidents. La présence d'eau sur la chaussée peut réduire considérablement l'adhérence des pneus, entraînant une augmentation de la distance de freinage. Il est recommandé de considérer que la distance de freinage est doublée lorsque la chaussée est mouillée par rapport à une chaussée sèche. Il est donc important de conduire avec prudence et de prendre en compte cette augmentation de la distance de freinage pour éviter les accidents."
     },
     {
       "id": "B04",
@@ -66,7 +66,7 @@
         "B",
         "C"
       ],
-      "explication": "La nuit, il y a moins de circulation donc moins d'accidents, mais ils sont plus graves (visibilité réduite, fatigue)."
+      "explication": "Les accidents de la route qui ont lieu la nuit sont moins fréquents mais plus graves que ceux qui se produisent pendant la journée. En effet, alors qu'ils représentent moins d'un tiers des accidents, ils causent 45% des décès. Les accidents de la route la nuit ont une gravité 2 fois supérieure à ceux qui se produisent en journée."
     },
     {
       "id": "B05",
@@ -81,7 +81,7 @@
       "reponses": [
         "C"
       ],
-      "explication": "Hors agglomération, on laisse au moins 1,50 m pour dépasser un piéton ; en agglomération, 1 m."
+      "explication": "Lorsque vous circulez hors agglomération, il est important de respecter certaines règles pour assurer la sécurité de tous les usagers de la route. L'une de ces règles est de maintenir une distance suffisante lorsque vous dépassez un piéton. La distance minimale requise est d'au moins 1.50 mètre. Cela signifie que, lorsque vous dépassez un piéton, vous devez maintenir une distance d'au moins 1.50 mètre entre votre véhicule et le piéton. Cela permet de garantir que vous avez suffisamment d'espace pour réagir en cas de besoin et de prévenir les accidents. "
     },
     {
       "id": "B06",
@@ -95,7 +95,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Un passage à niveau équipé d'un panneau STOP impose l'arrêt complet, même si aucun train n'est en vue."
+      "explication": "J’arrive à hauteur d’un passage à niveau sans barrière. Le panneau du haut indique qu’une seule voie ferrée traverse la route. Il est associé à un panneau STOP. L’arrêt est donc obligatoire pour s’assurer que la voie ferrée est libre avant de la franchir, qu’elle que soit la situation c'est-à-dire même si aucun train n’arrive."
     },
     {
       "id": "B07",
@@ -111,7 +111,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "En permis probatoire, la limite est de 0,2 g d'alcool par litre de sang, contre 0,5 g pour les autres conducteurs."
+      "explication": "Un conducteur en période de permis probatoire est considéré en infraction s'il a un taux d'alcoolémie de 0,20 g/l de sang. Ce seuil prend en compte l'alcool pouvant être présent dans l'alimentation comme dans certaines pâtisseries. Cependant, il est important de noter que même après un verre d'alcool, le taux peut atteindre 0,25 g/l. Pour éviter une infraction en cas de contrôle, il est donc recommandé pour les conducteurs en permis probatoire, de ne pas boire d'alcool."
     },
     {
       "id": "B08",
@@ -128,7 +128,7 @@
         "B",
         "D"
       ],
-      "explication": "Le défibrillateur peut être utilisé par tout le monde, même sans formation : il guide l'utilisateur à la voix et peut sauver une vie en cas d'arrêt cardiaque."
+      "explication": "L'utilisation d’un défibrillateur automatisé externe (DAE) ne nécessite pas de formation. Il est conçu pour être utilisé par toute personne, même non formée, grâce à un système vocal qui guide l’utilisateur étape par étape. En cas d’arrêt cardiaque, l’intervention rapide avec un DAE peut sauver une vie, en attendant l’arrivée des secours."
     },
     {
       "id": "B09",
@@ -142,7 +142,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "Le temps de réaction (environ 1 seconde) ne dépend pas de la vitesse : c'est la distance parcourue pendant ce temps qui augmente."
+      "explication": "Le laps de temps entre la perception d'un événement et l'impact sur mon comportement est appelé temps de réaction. Il est généralement estimé à 1 seconde, mais peut être affecté par des facteurs tels que les médicaments, les drogues ou l'alcool, ainsi que par la fatigue. Il est important de noter que la vitesse n'a pas d'effet sur le temps de réaction, mais sur la distance parcourue pendant celui-ci."
     },
     {
       "id": "B10",
@@ -156,7 +156,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "À puissance égale, un moteur diesel consomme moins qu'un moteur essence."
+      "explication": "Un moteur diesel est conçu pour consommer moins de carburant qu'un moteur à essence. Cela est dû à la manière dont il est fabriqué et comment il fonctionne qui permet une combustion plus efficace. Cela signifie qu'il utilise moins d'essence pour fonctionner et donc il est plus économique à l'utilisation. C'est pour cette raison qu'on retrouve beaucoup de véhicules équipés de moteur diesel sur les routes."
     },
     {
       "id": "B11",
@@ -173,7 +173,7 @@
         "A",
         "C"
       ],
-      "explication": "L'interdiction de stationner commence à hauteur du panneau et prend fin à la prochaine intersection."
+      "explication": "Ce panneau indique une interdiction de stationner. Cette interdiction commence à hauteur du panneau, elle s'applique uniquement du côté de la rue où le signal est implanté et prend fin à la prochaine intersection. "
     },
     {
       "id": "B12",
@@ -189,7 +189,7 @@
         "A",
         "B"
       ],
-      "explication": "Certains médicaments et la fatigue réduisent la vigilance. L'état de la chaussée ne l'altère pas."
+      "explication": "La vigilance est un élément crucial pour une conduite sûre. La fatigue ou la prise de certains médicaments peuvent entraîner une perte de cette vigilance. Les médicaments peuvent provoquer de la somnolence ou altérer les réactions, tandis que la fatigue peut grandement altérer notre capacité à rester éveillé et concentré, rendant la conduite plus difficile et augmentant les risques d'accidents. Il est donc crucial de se reposer suffisamment avant de prendre le volant et de ne pas prendre de médicaments qui peuvent altérer la vigilance sans l'avis d'un médecin, pour garantir une conduite sûre. Il est important de prendre en compte ces facteurs avant de conduire pour optimiser la sécurité routière."
     },
     {
       "id": "B13",
@@ -203,7 +203,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Les carburants sont identifiés par des codes couleur : on vérifie toujours avant de faire le plein, car se tromper de carburant peut endommager le moteur."
+      "explication": "Il est crucial de sélectionner le bon carburant lorsque vous faites le plein, car utiliser un carburant inapproprié peut causer des dommages graves au moteur de votre véhicule. Pour éviter toutes erreurs, il existe plusieurs méthodes pour différencier les différents types de carburant à la station essence. Les carburants seront identifiés par un logo, harmonisé à l’échelle de l’Union européenne. Un code couleur est utilisé pour identifier les carburants : par exemple, l'essence sans plomb est généralement de couleur verte, tandis que le gasoil est généralement de couleur jaune ou noire. En plus de la couleur, une étiquette est présente sur la trappe à carburant de votre véhicule. Enfin, la taille des pistolets est également différente d’un carburant à l’autre."
     },
     {
       "id": "B14",
@@ -217,8 +217,9 @@
         "D": "D"
       },
       "reponses": [
-        "C"
-      ]
+        "A"
+      ],
+      "explication":"Un niveau d'huile inadapté peut entraîner une usure prématurée voire même une casse du moteur. Il est donc important de vérifier régulièrement le niveau d'huile. Pour ce faire, il suffit de tirer la jauge dont l'anneau dépasse du réservoir d'huile, de l'essuyer avec un chiffon et de la replonger. Ensuite, il faut retirer à nouveau la jauge et vous assurer que le niveau d'huile se situe bien entre le minimum et le maximum. Cette opération doit être effectuée toujours avec le moteur à froid. Pour compléter le niveau d'huile du moteur, il faut dévisser le bouchon A, qui correspond au réservoir d'huile. Le bouchon B permet d'accéder au liquide de frein, le bouchon C concerne le liquide de refroidissement et le bouchon D correspond au liquide lave-glace."
     },
     {
       "id": "B15",
@@ -233,7 +234,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Sur un long trajet, on fait une pause d'au moins 15 minutes toutes les 2 heures."
+      "explication": "Lors d’un long trajet, il est important de prévenir tout risque de somnolence pour assurer sa sécurité ainsi que celle des autres usagers de la route. Pour cela, il est conseillé de faire une pause régulière toutes les 2 heures d'au moins 15 minutes. Cela permet de se dégourdir les jambes, de se décontracter et de se concentrer sur une autre tâche, comme boire un café ou faire un exercice physique léger. Il est également important de prendre des pauses plus fréquentes lorsque vous ressentez des signes de fatigue tels que des bâillements, des difficultés à se concentrer, des maux de tête ou des picotements dans les yeux. Il est également important de respecter les temps de sommeil recommandés pour être en pleine forme avant un long trajet. Enfin, il est préférable d'éviter de conduire de nuit, car la somnolence est plus fréquente pendant ces heures."
     },
     {
       "id": "B16",
@@ -246,9 +247,10 @@
         "C": "une perte de caractère prioritaire"
       },
       "reponses": [
+        "A",
         "C"
       ],
-      "explication": "Ce panneau signale la perte du caractère prioritaire de la route : il faudra redevenir attentif aux intersections suivantes."
+      "explication": "Ce panneau met fin au caractère prioritaire de la route sur laquelle je circule. Le panonceau de distance précise que la perte du caractère prioritaire sera à 200 mètres. Aux prochaines intersections, je devrai donc me préparer à respecter les règles de priorité qui me seront indiquées par la signalisation en place. "
     },
     {
       "id": "B17",
@@ -260,9 +262,9 @@
         "B": "NON"
       },
       "reponses": [
-        "B"
+        "A"
       ],
-      "explication": "L'avertisseur sonore n'est autorisé qu'en cas de danger immédiat."
+      "explication": "De jour et hors agglomération, l'utilisation de l'avertisseur sonore n'est pas interdite. Dans cette situation, le manque de visibilité en justifie l'utilisation. En effet, sur cette route étroite, en utilisant l'avertisseur sonore, je pourrais signaler ma présence aux usagers arrivant en face. "
     },
     {
       "id": "B18",
@@ -279,7 +281,7 @@
         "A",
         "C"
       ],
-      "explication": "Après un panneau d'entrée d'agglomération, la vitesse est limitée à 50 km/h et l'usage de l'avertisseur sonore est interdit, sauf danger immédiat."
+      "explication": "Le panneau d'entrée d'agglomération suffit à lui seul à limiter la vitesse à 50 km/h et à interdire l'utilisation de l'avertisseur sonore dans toutes les rues de l'agglomération, sauf en cas de danger immédiat. Il est important de respecter ces règles afin de garantir la sécurité des automobilistes, des piétons et des cyclistes dans l'agglomération. Il est également essentiel de respecter les autres règles de conduite énoncées dans le code de la route, comme les règles de priorité, les feux de circulation, pour une conduite en toute sécurité dans ces zones densément peuplées."
     },
     {
       "id": "B19",
@@ -291,9 +293,9 @@
         "B": "NON"
       },
       "reponses": [
-        "B"
+        "A"
       ],
-      "explication": "On ne dépasse que si on peut le faire en sécurité : visibilité suffisante, pas de ligne continue ni d'interdiction."
+      "explication": "Je circule sur une chaussée à double sens. Les deux sens de circulation sont séparés par une ligne blanche continue. Deux voies sont affectées à mon sens de circulation. Dans ces conditions, le dépassement peut s'effectuer par la voie du milieu, puisqu'aucun véhicule ne risque d'arriver en face. D'autre part, la signalisation n'interdit pas le dépassement, et je n'aperçois dans mon rétroviseur aucun véhicule pouvant être gêné par ma manœuvre. Je peux donc dépasser, puis je veillerai à me rabattre en sécurité dès que cela sera possible."
     },
     {
       "id": "B20",
@@ -307,7 +309,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "Une boîte d'ampoules de rechange est conseillée, mais elle n'est pas obligatoire."
+      "explication": "En voiture, toute panne peut menacer ma sécurité et celle des autres usagers. Posséder une boite d’ampoule permet de faire face à différents imprévus, cependant le code de la route ne prévoit pas l’obligation de la présence d’une boite d’ampoule de rechange dans le véhicule. Les forces de l’ordre ne peuvent donc pas me verbaliser sur ce seul motif. En revanche, le constat du non fonctionnement des ampoules est, lui, soumis à sanction. J’ai donc tout intérêt à pouvoir immédiatement changer une ampoule grillée. En conclusion, je ne suis pas dans l’obligation de posséder une boite d’ampoule de rechange mais cela est fortement conseillé. "
     },
     {
       "id": "B21",
@@ -321,7 +323,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Devant un passage piéton, on ralentit et on s'arrête pour laisser passer un piéton engagé ou sur le point de traverser."
+      "explication": "J'arrive à hauteur d'un passage réservé aux piétons. Je suis tenu de laisser passer les usagers déjà engagés. Dans cette situation, je dois donc ralentir et m'arrêter pour permettre à ce piéton de traverser. De plus, le véhicule derrière moi est suffisamment loin pour pouvoir freiner en toute sécurité."
     },
     {
       "id": "B22",
@@ -335,7 +337,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "L'ESP (correcteur électronique de trajectoire) corrige les dérapages et améliore la tenue de route."
+      "explication": "L’ESP, est un équipement de sécurité destiné à améliorer le contrôle de trajectoire. En détectant la perte d’adhérence, l’ESP va agir sur le freinage d’une ou plusieurs roues et ainsi influencer automatiquement la trajectoire du véhicule. L’ESP améliore donc la tenue de route. Mais attention, il ne permet pas de réduire les distances de freinage. Il ne compensera donc pas un comportement dangereux, et une vitesse trop élevée."
     },
     {
       "id": "B23",
@@ -352,7 +354,7 @@
         "A",
         "C"
       ],
-      "explication": "Ce panneau annonce une succession de virages, dont le premier est à gauche."
+      "explication": "Ce panneau annonce une succession de virages. La courbe dessinée dans le panneau symbolise le tracé de la route. Le premier virage que je rencontrerai sera donc à droite."
     },
     {
       "id": "B24",
@@ -364,9 +366,9 @@
         "B": "NON"
       },
       "reponses": [
-        "B"
+        "A"
       ],
-      "explication": "Si on ne peut pas terminer le dépassement en sécurité, on ne le poursuit pas et on reprend sa place dès que possible."
+      "explication": "Je circule sur une chaussée à sens unique comme le confirme la ligne de rive continue sur la gauche de la chaussée. Je dispose donc de 2 voies de circulation qui facilitent le dépassement. D'autre part, dans cette situation aucun panneau n'interdit ce type de manœuvre. Je continue le dépassement en restant toutefois attentif à bien respecter la limitation de vitesse indiquée."
     },
     {
       "id": "B25",
@@ -383,7 +385,7 @@
         "A",
         "C"
       ],
-      "explication": "Le système Stop and Start coupe le moteur à l'arrêt et le redémarre automatiquement : il économise du carburant et réduit les émissions de CO2."
+      "explication": "Le système 'Stop & Start' est conçu pour arrêter et redémarrer automatiquement le moteur d'un véhicule afin d'économiser du carburant et de réduire la pollution, principalement dans les embouteillages et aux feux rouges. Il fonctionne de manière simple : lorsque le véhicule est à l'arrêt et que le conducteur met le véhicule au point mort, le système met le moteur en veille. Pour repartir, il suffit de débrayer et le système déclenche le redémarrage électrique du moteur. La consommation de carburant et les émissions de CO2 peuvent être réduites jusqu'à 15% en conduite urbaine pendant les heures de pointe."
     },
     {
       "id": "B26",
@@ -397,7 +399,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Quand le croisement est impossible, c'est le conducteur du véhicule le plus facile à manœuvrer qui recule : ici, la voiture recule pour laisser passer le bus."
+      "explication": "Lorsque le croisement est impossible, c’est au véhicule le plus maniable d’effectuer les manœuvres nécessaires pour faciliter le passage. Ici, face au bus, c’est à moi de reculer et de serrer à droite pour le laisser passer. Je veillerai bien sûr à effectuer cette manœuvre en toute sécurité notamment en utilisant mes rétroviseurs et mon clignotant."
     },
     {
       "id": "B27",
@@ -411,7 +413,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Les médicaments qui peuvent altérer la conduite portent sur leur emballage un pictogramme triangulaire (niveau 1, 2 ou 3)."
+      "explication": "Pour prévenir les risques liés à la conduite après avoir pris des médicaments, une signalétique composée de trois logos triangulaires a été mise en place sur les emballages. Le jaune, représentant le niveau 1, recommande aux conducteurs de lire attentivement la notice avant de prendre le volant. Le niveau 2, représenté par la couleur orange, appelle à la grande prudence et à consulter un médecin avant de conduire. Le rouge, niveau 3, indique clairement 'Attention danger : ne pas conduire.'"
     },
     {
       "id": "B28",
@@ -426,7 +428,7 @@
       "reponses": [
         "C"
       ],
-      "explication": "Hors agglomération, on laisse au moins 1,50 m pour dépasser un cycliste ; en agglomération, 1 m."
+      "explication": "Pour éviter de déséquilibrer ou d'accrocher un cycliste lors d'un dépassement, il est important de laisser un intervalle latéral suffisant entre ma voiture et le cycliste. Lorsque je dépasse un cycliste en agglomération, je dois laisser un intervalle minimum de 1 mètre entre ma voiture et le cycliste. Hors agglomération, cet intervalle de sécurité doit être d'au moins 1,50 mètre pour éviter tout accident. Il est donc important de respecter ces distances pour assurer la sécurité des cyclistes."
     },
     {
       "id": "B29",
@@ -440,7 +442,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Dans une descente, on tourne les roues vers le trottoir pour que le véhicule s'appuie contre lui s'il se met à rouler."
+      "explication": "Lorsque je stationne dans une descente, il est préférable de tourner les roues du côté du trottoir en complément du frein à main. En effet, en cas de défaillance de celui-ci, cela permettra de bloquer le véhicule. "
     },
     {
       "id": "B30",
@@ -454,7 +456,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "Rouler au point mort est dangereux (moins de contrôle, plus de frein moteur) et ne fait pas économiser de carburant."
+      "explication": "Quand je roule en débrayant (pédale d'embrayage enfoncée), le moteur n'est plus connecté aux roues. Cependant, il continue à consommer du carburant en tournant au ralenti. Il n'y a donc pas d'économie d'énergie. En revanche, rouler en débrayant est dangereux car le véhicule entraîné par son propre poids, peut prendre de la vitesse et il sera difficile de le maîtriser sans force motrice. Pour économiser du carburant lors d'une descente, il est préférable d'utiliser le frein moteur en relâchant la pédale d'accélérateur, pour que les roues entraînent le moteur et créent une décélération, ce qui permet d'éviter toute consommation de carburant."
     },
     {
       "id": "B31",
@@ -469,10 +471,9 @@
       },
       "reponses": [
         "A",
-        "C",
-        "D"
+        "C"
       ],
-      "explication": "Lors d'un contrôle, on présente le permis de conduire, la carte grise et l'attestation d'assurance. La facture du contrôle technique n'est pas demandée."
+      "explication": "Lors d’un contrôle de police, le conducteur doit pouvoir présenter son permis de conduire, qui prouve qu’il est autorisé à conduire, ainsi que la carte grise, qui permet d’identifier le véhicule et son propriétaire. La facture acquittée du contrôle technique n’est pas un document à présenter lors d’un contrôle. Les forces de l’ordre peuvent vérifier la validité du contrôle technique directement à partir de la plaque d’immatriculation, en consultant les bases de données nationales qui centralisent les résultats des contrôles techniques. L’attestation d’assurance, plus communément appelée, carte verte n’a plus à être présentée lors d’un contrôle routier. Les forces de l’ordre vérifient désormais l’assurance du véhicule dans le Fichier des Véhicules Assurés (F.A.V)."
     },
     {
       "id": "B32",
@@ -486,7 +487,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Le témoin d'usure dans les rainures du pneu indique la limite légale de profondeur de 1,6 mm."
+      "explication": "La profondeur des rainures principales de la bande de roulement ne doit pas être inférieure à 1,6 millimètres. Lorsque la gomme atteint ce témoin d’usure, la profondeur de 1,6 millimètres est atteinte. Il est temps de remplacer le pneu."
     },
     {
       "id": "B33",
@@ -500,7 +501,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "L'aide au freinage d'urgence est liée à l'ABS (système antiblocage des roues) : elle amplifie le freinage lors d'un freinage d'urgence."
+      "explication": "L'aide au freinage d'urgence (AFU) est un système qui permet d'augmenter la force de freinage lorsque le conducteur appuie rapidement sur la pédale de frein. Il ne faut pas le confondre avec l'anti-blocage de roues (ABS) qui empêche les roues de bloquer lors d'un freinage important ou soudain. L'AFU vient en complément de l'ABS pour améliorer la distance d'arrêt du véhicule en cas d'urgence. Il se compose d'un ensemble mécanique, hydraulique et électrique qui est activé lorsque le conducteur presse rapidement la pédale de frein, en augmentant la pression du liquide de frein dans le circuit hydraulique, ce qui permet une plus grande force de freinage."
     },
     {
       "id": "B34",
@@ -514,7 +515,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "Sans ceinture, un choc à 50 km/h équivaut à une chute d'environ 10 m : on ne peut pas se retenir en s'accrochant au volant."
+      "explication": "À 50 km/h, une collision équivaut à une chute de 4 étages et la force de l'impact peut causer des blessures graves voire mortelles. L'énergie cinétique (énergie dégagée en mouvement) augmente considérablement le poids du conducteur en cas de collision. A 50km/h, une personne de 70 kg pèsera 2 tonnes. Lors d'un accident frontal, le risque de percuter le pare-brise augmente considérablement lorsque la ceinture de sécurité n'est pas bouclée, même en se tenant fermement au volant. Il est donc crucial de toujours porter sa ceinture de sécurité pour maximiser ses chances de survie en cas d'accident."
     },
     {
       "id": "B35",
@@ -528,7 +529,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Tout véhicule à moteur en état de circuler doit être assuré, même s'il ne roule pas."
+      "explication": "Si je possède un véhicule en état de circuler, la loi m’impose de souscrire une assurance. Celle-ci doit comporter au minimum la garantie responsabilité civile. L'assurance responsabilité civile, appelée parfois assurance au tiers, sert à indemniser les victimes des dommages causés par le véhicule. Le non-respect de l'obligation d'assurance est puni pénalement. Cette obligation vous concerne quelle que soit votre nationalité et quelle que soit la durée de votre séjour en France."
     },
     {
       "id": "B36",
@@ -542,9 +543,10 @@
         "D": "dans les rues adjacentes : NON"
       },
       "reponses": [
-        "A",
-        "D"
-      ]
+        "B",
+        "C"
+      ],
+      "explication":"Le panneau indique une entrée de zone dans laquelle la vitesse est limitée à 30 km/h. Cette limitation débute à hauteur du panneau, elle s'applique dans toutes les rues adjacentes et prend fin avec le signal fin de zone. Ma vitesse sera donc limitée à 30km/h dans cette rue et dans les rues adjacentes."
     },
     {
       "id": "B37",
@@ -557,9 +559,10 @@
         "C": "de gauche"
       },
       "reponses": [
-        "B",
-        "C"
-      ]
+        "A",
+        "B"
+      ],
+      "explication":"Ce panneau annonce une priorité à droite. A la prochaine intersection, je devrai céder le passage aux usagers venant de droite. De plus, pour tourner à gauche, je devrai traverser la voie des usagers arrivant en face. Je ne dois pas gêner leur progression. Je serai donc dans l'obligation de leur laisser la priorité. "
     },
     {
       "id": "B38",
@@ -573,7 +576,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "Avant d'ouvrir la portière, on vérifie le rétroviseur et l'angle mort pour ne pas heurter un deux-roues qui arrive."
+      "explication": "Avant d’ouvrir la portière, je dois vérifier dans mon rétroviseur extérieur et dans l’angle mort en vision directe, que la voie est libre. Ici j’aperçois un véhicule dans mon rétroviseur. J’attends donc qu’il soit passé. Je pourrais ensuite ouvrir en douceur ma portière pour éviter de surprendre ou de gêner les autres usagers."
     },
     {
       "id": "B39",
@@ -587,7 +590,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Sur une boîte automatique, D (Drive) correspond à la marche avant ; P = parking, R = marche arrière, N = point mort."
+      "explication": "Une boite de vitesse automatique est en général composée de 3 modes : N signifie NEUTRAL, et correspond au point mort. R pour REVERSE, correspond à la marche arrière. D pour DRIVE, correspond à la marche avant."
     },
     {
       "id": "B40",
@@ -602,7 +605,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "Un stage de sensibilisation permet de récupérer au maximum 4 points, une seule fois par an."
+      "explication": "Si j’ai commis une infraction sanctionnée par un retrait de points, je peux choisir de suivre un stage de sensibilisation à la sécurité routière. Ce stage me permet de récupérer jusqu'à 4 points dans la limite des 12 points. Je ne peux suivre qu’un stage par an."
     }
   ]
 }
