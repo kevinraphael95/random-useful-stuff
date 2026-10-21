@@ -1,0 +1,613 @@
+{
+  "test": "Série D",
+  "questions": [
+    {
+      "id": "D01",
+      "theme": "L",
+      "fiche": "signalisation",
+      "enonce": "L'arrêt est obligatoire à hauteur du panneau :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Le panneau indique l'approche d'une voie ferrée sans barrière ni demi-barrière. En l'absence de panneau STOP ou de barrières, il suffit de ralentir pour vérifier l'absence de train sans marquer l'arrêt obligatoire[cite: 101]."
+    },
+    {
+      "id": "D02",
+      "theme": "C",
+      "fiche": "vigilance",
+      "enonce": "Chez le conducteur, une baisse de la vigilance peut provoquer :",
+      "options": {
+        "A": "une difficulté à maintenir une vitesse constante",
+        "B": "une diminution du temps de réaction",
+        "C": "une inattention à la signalisation ou au trafic",
+        "D": "une difficulté à maintenir la trajectoire"
+      },
+      "reponses": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explication": "Une baisse de vigilance entraîne des difficultés à maintenir une vitesse constante et la trajectoire, ainsi qu'une inattention à la signalisation et au trafic. Elle augmente le temps de réaction (elle ne le diminue pas)[cite: 101]."
+    },
+    {
+      "id": "D03",
+      "theme": "S",
+      "fiche": "passagers",
+      "enonce": "Un siège bébé installé à l'avant du véhicule, doit être placé :",
+      "options": {
+        "A": "face à la route",
+        "B": "dos à la route"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Installé à l'avant, le siège bébé doit impérativement être placé dos à la route pour protéger les cervicales en cas de choc frontal, tout en veillant à désactiver l'airbag passager[cite: 92]."
+    },
+    {
+      "id": "D04",
+      "theme": "L",
+      "fiche": "depassement",
+      "enonce": "Je peux dépasser le camion :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Sur autoroute à proximité d'une sortie, la ligne de dissuasion indique qu'il est trop tard pour rejoindre la sortie depuis la voie de gauche, mais n'interdit pas le dépassement[cite: 93]."
+    },
+    {
+      "id": "D05",
+      "theme": "L",
+      "fiche": "depassement",
+      "enonce": "Je peux dépasser :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Sur cette chaussée à double sens, la ligne de dissuasion permet uniquement le dépassement des véhicules lents. Ce véhicule circulant à allure normale, le dépassement est interdit[cite: 94]."
+    },
+    {
+      "id": "D06",
+      "theme": "D",
+      "fiche": "documents",
+      "enonce": "Le premier contrôle technique d'un véhicule neuf s'effectue :",
+      "options": {
+        "A": "au cours des 6 mois avant le 2ème anniversaire",
+        "B": "au cours des 6 mois avant le 3ème anniversaire",
+        "C": "au cours des 6 mois avant le 4ème anniversaire"
+      },
+      "reponses": [
+        "C"
+      ],
+      "explication": "Pour un véhicule neuf, le premier contrôle technique doit être réalisé dans les 6 mois qui précèdent le 4ème anniversaire de sa première mise en circulation[cite: 95]."
+    },
+    {
+      "id": "D07",
+      "theme": "C",
+      "fiche": "installation",
+      "enonce": "Pour une bonne installation au poste de conduite, mes jambes doivent être :",
+      "options": {
+        "A": "tendues",
+        "B": "fléchies",
+        "C": "semi-fléchies"
+      },
+      "reponses": [
+        "C"
+      ],
+      "explication": "Pour agir efficacement sur les pédales sans fatigue ni crampes, le siège doit être réglé de manière à garder les jambes semi-fléchies lorsque la pédale d'embrayage est enfoncée au maximum[cite: 96]."
+    },
+    {
+      "id": "D08",
+      "theme": "M",
+      "fiche": "voyants",
+      "enonce": "Ce témoin s'est allumé depuis 30 secondes. Je peux utiliser cet emplacement pour m'arrêter :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Un témoin rouge de surchauffe du liquide de refroidissement indique un danger critique imposant un arrêt immédiat. S'agissant d'une urgence, il est autorisé de s'arrêter sur cet emplacement d'arrêt d'urgence dans le tunnel[cite: 97]."
+    },
+    {
+      "id": "D09",
+      "theme": "S",
+      "fiche": "equipements",
+      "enonce": "L'airbag remplace la ceinture de sécurité :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "L'airbag est un équipement complémentaire qui ne fonctionne efficacement qu'en association avec la ceinture de sécurité. Il ne la remplace en aucun cas[cite: 98]."
+    },
+    {
+      "id": "D10",
+      "theme": "C",
+      "fiche": "distraction",
+      "enonce": "Lorsque je téléphone au volant, je suis passible :",
+      "options": {
+        "A": "d'un retrait de points sur mon permis : OUI",
+        "B": "d'un retrait de points sur mon permis : NON",
+        "C": "d'une amende forfaitaire de 135 euros : OUI",
+        "D": "d'une amende forfaitaire de 135 euros : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "L'usage du téléphone tenu en main en conduisant est sanctionné par une amende forfaitaire de 135 € et un retrait de 3 points sur le permis de conduire[cite: 99]."
+    },
+    {
+      "id": "D11",
+      "theme": "S",
+      "fiche": "physique-conduite",
+      "enonce": "Sur une chaussée mouillée la distance de freinage est 2 fois plus importante :",
+      "options": {
+        "A": "OUI",
+        "B": "NON",
+        "C": "OUI",
+        "D": "NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Sur route mouillée, l'adhérence diminue de moitié, ce qui multiplie par deux la distance de freinage nécessaire et augmente par conséquent la distance d'arrêt totale."
+    },
+    {
+      "id": "D12",
+      "theme": "U",
+      "fiche": "partage-espace",
+      "enonce": "Un piéton est plus en sécurité dans un lieu correspondant :",
+      "options": {
+        "A": "au panneau 1",
+        "B": "au panneau 2",
+        "C": "au panneau 3"
+      },
+      "reponses": [
+        "C"
+      ],
+      "explication": "Le panneau 3 indique l'entrée d'une aire piétonne où la circulation des véhicules à moteur est interdite ou réglementée, garantissant une sécurité maximale sans partage de la voie avec des usagers motorisés."
+    },
+    {
+      "id": "D13",
+      "theme": "D",
+      "fiche": "documents",
+      "enonce": "Le taux d'émission de CO2, est indiqué sur les cartes grises des véhicules récents :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Les cartes grises des véhicules récents ainsi que les étiquettes énergie fournissent des informations sur les niveaux d'émissions de CO2 afin de sensibiliser aux impacts climatiques."
+    },
+    {
+      "id": "D14",
+      "theme": "M",
+      "fiche": "equipements",
+      "enonce": "Ce voyant indique, que le dégivrage de la lunette arrière est en fonctionnement :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Lorsque ce voyant spécifique est allumé, il confirme que le dispositif de dégivrage de la lunette arrière est activé pour assurer une meilleure visibilité."
+    },
+    {
+      "id": "D15",
+      "theme": "L",
+      "fiche": "vitesse",
+      "enonce": "Pendant la période de permis probatoire, la vitesse maximum autorisée sur autoroute est de :",
+      "options": {
+        "A": "130 km/h",
+        "B": "110 km/h",
+        "C": "100 km/h",
+        "D": "90 km/h"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "En période probatoire, les limitations de vitesse sont abaissées : la vitesse maximale autorisée sur autoroute est ramenée à 110 km/h (au lieu de 130 km/h)."
+    },
+    {
+      "id": "D16",
+      "theme": "A",
+      "fiche": "premiers-secours",
+      "enonce": "Pour sécuriser les lieux d'un accident, je positionne mon véhicule à hauteur des véhicules accidentés :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Pour éviter un suraccident, il ne faut pas s'arrêter à proximité immédiate mais à une distance de 100 à 150 mètres après l'accident, tout en protégeant les lieux."
+    },
+    {
+      "id": "D17",
+      "theme": "L",
+      "fiche": "stationnement",
+      "enonce": "Nous sommes le 4 du mois, dans cette agglomération, je devrai stationner :",
+      "options": {
+        "A": "du côté des immeubles portant les numéros pairs",
+        "B": "du côté des immeubles portant les numéros impairs"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Il s'agit d'un stationnement unilatéral à alternance semi-mensuelle : du 1er au 15 du mois, le stationnement s'effectue du côté des numéros impairs (le 4 étant dans la première quinzaine)."
+    },
+    {
+      "id": "D18",
+      "theme": "U",
+      "fiche": "pietons",
+      "enonce": "Pour parcourir 1 km à pied, il faut environ :",
+      "options": {
+        "A": "8 minutes",
+        "B": "12 minutes",
+        "C": "24 minutes"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "La marche à pied représente un moyen de déplacement rapide sur courte distance, nécessitant environ 12 minutes pour parcourir un kilomètre."
+    },
+    {
+      "id": "D19",
+      "theme": "L",
+      "fiche": "priorites",
+      "enonce": "Je vais tout droit :",
+      "options": {
+        "A": "je ralentis et je passe",
+        "B": "je ralentis et je cède le passage",
+        "C": "je m'arrête"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Les véhicules venant de droite ont un stop et doivent céder le passage. Bien que vous soyez prioritaire, il convient de ralentir pour négocier l'intersection en toute sécurité et passer."
+    },
+    {
+      "id": "D20",
+      "theme": "S",
+      "fiche": "equipements",
+      "enonce": "Avant d'ouvrir ma portière pour quitter le véhicule, un coup d'œil dans le rétroviseur est suffisant :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Un coup d'œil dans le rétroviseur ne suffit pas ; il est également indispensable de contrôler l'angle mort en vision directe (notamment pour repérer un cycliste ou un motard) avant d'ouvrir la portière."
+    },
+    {
+      "id": "D21",
+      "theme": "M",
+      "fiche": "commandes",
+      "enonce": "Je m'arrête le long du trottoir à droite, pour faire descendre mon passager :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Le véhicule longe une piste cyclable. S'arrêter le long du trottoir forcerait les cyclistes à quitter leur voie réservée au risque de se faire heurter, l'arrêt y est donc interdit."
+    },
+    {
+      "id": "D22",
+      "theme": "L",
+      "fiche": "priorites",
+      "enonce": "Les feux ne fonctionnent pas, je devrai céder le passage à la voiture grise :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "En l'absence de fonctionnement des feux tricolores, on applique la signalisation du panneau de priorité positionné dessous, qui indique que vous êtes prioritaire."
+    },
+    {
+      "id": "D23",
+      "theme": "S",
+      "fiche": "freinage",
+      "enonce": "En cas de freinage violent, l'ABS réduit les distances de freinage :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "L'ABS empêche le blocage des roues et assure la stabilité lors d'un freinage d'urgence, mais il ne réduit pas pour autant la distance de freinage minimale."
+    },
+    {
+      "id": "D24",
+      "theme": "L",
+      "fiche": "stationnement",
+      "enonce": "Après ce panneau, le stationnement sera :",
+      "options": {
+        "A": "payant",
+        "B": "unilatéral",
+        "C": "semi-mensuel"
+      },
+      "reponses": [
+        "B",
+        "C"
+      ],
+      "explication": "Ce panneau indique une zone de stationnement unilatéral à alternance semi-mensuelle (du 1er au 15 d'un côté, et du 16 au 31 de l'autre)."
+    },
+    {
+      "id": "D25",
+      "theme": "C",
+      "fiche": "statistiques",
+      "enonce": "La majorité des accidents mortels, se produit à proximité de son lieu de vie :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Une grande partie des accidents mortels survient lors des trajets quotidiens habituels, souvent à proximité du domicile ou dans le département d'immatriculation."
+    },
+    {
+      "id": "D26",
+      "theme": "U",
+      "fiche": "pietons",
+      "enonce": "Dans cette situation, je laisse passer les piétons :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "À l'approche d'un passage piéton, les usagers déjà engagés sur la chaussée sont prioritaires ; il est donc obligatoire de ralentir et de s'arrêter pour les laisser traverser."
+    },
+    {
+      "id": "D27",
+      "theme": "C",
+      "fiche": "sante",
+      "enonce": "J'ai une acuité visuelle à un œil inférieure ou égal à 1/10ème. Pour conduire, je dois avoir une acuité visuelle à l'autre œil de :",
+      "options": {
+        "A": "3/10ème",
+        "B": "4/10ème",
+        "C": "5/10ème",
+        "D": "8/10ème"
+      },
+      "reponses": [
+        "C"
+      ],
+      "explication": "La réglementation exige un minimum de 5/10ème à l'œil valide si l'autre œil a une acuité nulle ou inférieure à 1/10ème."
+    },
+    {
+      "id": "D28",
+      "theme": "M",
+      "fiche": "voyants",
+      "enonce": "Ce voyant s'allume, il s'agit : d'une alerte sur un problème urgent : / d'un témoin servant d'aide mémoire :",
+      "options": {
+        "A": "d'une alerte sur un problème urgent : OUI",
+        "B": "d'une alerte sur un problème urgent : NON",
+        "C": "d'un témoin servant d'aide mémoire : OUI",
+        "D": "d'un témoin servant d'aide mémoire : NON"
+      },
+      "reponses": [
+        "A",
+        "D"
+      ],
+      "explication": "Les voyants rouges signalent une anomalie grave et urgente (comme une surchauffe moteur), tandis que les jaunes ou oranges ont une fonction d'aide-mémoire."
+    },
+    {
+      "id": "D29",
+      "theme": "E",
+      "fiche": "ecomobilite",
+      "enonce": "Une conduite nerveuse peut augmenter la consommation de carburant de :",
+      "options": {
+        "A": "10%",
+        "B": "25%",
+        "C": "40%"
+      },
+      "reponses": [
+        "C"
+      ],
+      "explication": "Une conduite agressive avec des accélérations et freinages brusques augmente la consommation de carburant d'environ 40% par rapport à une conduite souple."
+    },
+    {
+      "id": "D30",
+      "theme": "S",
+      "fiche": "physique-conduite",
+      "enonce": "La distance d'arrêt est modifiée en fonction :",
+      "options": {
+        "A": "de la vigilance du conducteur",
+        "B": "de la charge du véhicule",
+        "C": "des conditions atmosphériques",
+        "D": "de la force centrifuge"
+      },
+      "reponses": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explication": "La distance d'arrêt varie selon le temps de réaction (vigilance), la distance de freinage influencée par la charge et l'état de la route (conditions atmosphériques)."
+    },
+    {
+      "id": "D31",
+      "theme": "M",
+      "fiche": "entretien",
+      "enonce": "Rouler avec des pneus sous gonflés entraîne une surconsommation de carburant : / Une usure prématurée des pneumatiques :",
+      "options": {
+        "A": "une surconsommation : OUI",
+        "B": "une surconsommation : NON",
+        "C": "usure prématurée : OUI",
+        "D": "usure prématurée : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Des pneus sous-gonflés augmentent la résistance au roulement, ce qui provoque à la fois une surconsommation de carburant et une usure prématurée des épaules du pneu."
+    },
+    {
+      "id": "D32",
+      "theme": "L",
+      "fiche": "vitesse",
+      "enonce": "La limitation de vitesse à 30 km/h s'applique, jusqu'à la prochaine intersection : / jusqu'au panneau fin de zone",
+      "options": {
+        "A": "jusqu'à la prochaine intersection : OUI",
+        "B": "jusqu'à la prochaine intersection : NON",
+        "C": "jusqu'au panneau fin de zone : OUI",
+        "D": "jusqu'au panneau fin de zone : NON"
+      },
+      "reponses": [
+        "B",
+        "C"
+      ],
+      "explication": "S'agissant d'une zone 30 (signalée par un panneau carré de zone), la limitation s'applique dans toutes les rues de la zone et ne s'arrête pas à la prochaine intersection, mais uniquement au panneau de fin de zone."
+    },
+    {
+      "id": "D33",
+      "theme": "M",
+      "fiche": "securite",
+      "enonce": "Quels véhicules transportent des matières dangereuses :",
+      "options": {
+        "A": "le véhicule 1",
+        "B": "le véhicule 2",
+        "C": "le véhicule 3"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Les véhicules signalés par des plaques orange rectangulaires transportent des matières dangereuses (comme les véhicules 1 et 3), tandis que le véhicule 2 transporte des matières générales."
+    },
+    {
+      "id": "D34",
+      "theme": "R",
+      "fiche": "autoroute",
+      "enonce": "L'intervalle de sécurité entre mon véhicule et celui qui me précède est suffisant :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Sur autoroute, la distance de sécurité minimale obligatoire est d'au moins deux traits de la bande d'arrêt d'urgence. Si cette distance n'est pas respectée, elle est insuffisante."
+    },
+    {
+      "id": "D35",
+      "theme": "S",
+      "fiche": "physique-conduite",
+      "enonce": "La distance de freinage varie, avec la vitesse : / l'état de la chaussée :",
+      "options": {
+        "A": "avec la vitesse : OUI",
+        "B": "avec la vitesse : NON",
+        "C": "l'état de la chaussée : OUI",
+        "D": "l'état de la chaussée : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "La distance de freinage est directement impactée par l'état de la route (chaussée humide ou glissante) et de manière très importante par la vitesse (si la vitesse est doublée, la distance de freinage est quadruplée)."
+    },
+    {
+      "id": "D36",
+      "theme": "S",
+      "fiche": "equipements",
+      "enonce": "Retirer l'appui-tête n'a pas d'impact sur la sécurité du conducteur :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "L'appui-tête est un élément de sécurité indispensable pour éviter le traumatisme cervical (« coup du lapin ») en cas de choc arrière. Le retirer a donc un impact critique."
+    },
+    {
+      "id": "D37",
+      "theme": "D",
+      "fiche": "permis",
+      "enonce": "J'ai obtenu mon permis sur un véhicule à boîte de vitesse automatique, pour pouvoir conduire un véhicule à boîte de vitesse manuelle, je devrai :",
+      "options": {
+        "A": "repasser l'épreuve du permis de conduire sur une boîte manuelle : OUI",
+        "B": "repasser l'épreuve du permis de conduire sur une boîte manuelle : NON",
+        "C": "effectuer 7 heures, dans une école de conduite sur une boîte manuelle : OUI",
+        "D": "effectuer 7 heures, dans une école de conduite sur une boîte manuelle : NON"
+      },
+      "reponses": [
+        "B",
+        "C"
+      ],
+      "explication": "Il n'est pas nécessaire de repasser l'examen complet du permis : il suffit de suivre une formation pratique de 7 heures dans une auto-école sur un véhicule à boîte manuelle."
+    },
+    {
+      "id": "D38",
+      "theme": "D",
+      "fiche": "infractions",
+      "enonce": "Conduire sous l'emprise de stupéfiant est passible :",
+      "options": {
+        "A": "d'une amende",
+        "B": "d'une annulation du permis",
+        "C": "d'une suspension de permis",
+        "D": "d'une cure de désintoxication"
+      },
+      "reponses": [
+        "A",
+        "B",
+        "C"
+      ],
+      "explication": "Conduire sous l'emprise de stupéfiants expose à de lourdes amendes, ainsi qu'à une suspension ou une annulation judiciaire du permis de conduire (la cure n'est pas une obligation légale automatique)."
+    },
+    {
+      "id": "D39",
+      "theme": "L",
+      "fiche": "depassement",
+      "enonce": "Je continue le dépassement :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "La présence d'une ligne de rive continue à gauche indique que l'on circule sur une chaussée à sens unique (aucun risque de face-à-face). La visibilité étant dégagée, la manœuvre peut se poursuivre en sécurité."
+    },
+    {
+      "id": "D40",
+      "theme": "U",
+      "fiche": "pietons",
+      "enonce": "Je circule hors agglomération. Pour croiser ce piéton je dois laisser un intervalle latéral d'au moins :",
+      "options": {
+        "A": "0,50 mètre",
+        "B": "1 mètre",
+        "C": "1 mètre 50"
+      },
+      "reponses": [
+        "C"
+      ],
+      "explication": "Hors agglomération, l'intervalle latéral de sécurité obligatoire pour dépasser ou croiser un usager vulnérable (piéton, cycliste) est d'au moins 1,50 mètre."
+    }
+  ]
+}
