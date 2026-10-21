@@ -358,7 +358,7 @@
       "id": "E24",
       "theme": "L",
       "fiche": "vitesse",
-      "enonce": "À partir du panneau, la vitesse est limited à :",
+      "enonce": "À partir du panneau, la vitesse est limitée à :",
       "options": {
         "A": "30 km/h",
         "B": "50 km/h",
