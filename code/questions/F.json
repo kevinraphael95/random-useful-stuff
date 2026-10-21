@@ -33,7 +33,7 @@
       "id": "F03",
       "theme": "E",
       "fiche": "pollution",
-      "enonce": "Les équipements automobiles qui permettent la réduction de la pollution atmosphérique sont : le pot catalytique / le filtre à particules",
+      "enonce": "Les équipements automobiles qui permettent la réduction de la pollution atmosphérique sont ...",
       "options": {
         "A": "le pot catalytique : OUI",
         "B": "le pot catalytique : NON",
@@ -220,10 +220,10 @@
       "id": "F15",
       "theme": "U",
       "fiche": "partage-espace",
-      "enonce": "La signalisation interdit le dépassement de ce cycliste / Je dépasse :",
+      "enonce": "La signalisation...",
       "options": {
-        "A": "La signalisation interdit le dépassement : OUI",
-        "B": "La signalisation interdit le dépassement : NON",
+        "A": "... interdit le dépassement : OUI",
+        "B": "... interdit le dépassement : NON",
         "C": "Je dépasse : OUI",
         "D": "Je dépasse : NON"
       },
@@ -237,10 +237,10 @@
       "id": "F16",
       "theme": "C",
       "fiche": "statistiques",
-      "enonce": "Les 18-24 ans représentent, 8 % de la population française / 19 % des accidents mortels :",
+      "enonce": "Les 18-24 ans représentent...",
       "options": {
-        "A": "8 % de la population : OUI",
-        "B": "8 % de la population : NON",
+        "A": "8 % de la population française : OUI",
+        "B": "8 % de la population française : NON",
         "C": "19 % des accidents mortels : OUI",
         "D": "19 % des accidents mortels : NON"
       },
@@ -343,7 +343,7 @@
       "id": "F23",
       "theme": "U",
       "fiche": "partage-espace",
-      "enonce": "Je circule hors agglomération. Pour dépasser ce cycliste, je devrai laisser un intervalle latéral d'au moins / Je dépasse :",
+      "enonce": "Je circule hors agglomération. Pour dépasser ce cycliste, je devrai laisser un intervalle latéral d'au moins ...",
       "options": {
         "A": "1 mètre",
         "B": "1 mètre 50",
@@ -376,7 +376,7 @@
       "id": "F25",
       "theme": "R",
       "fiche": "distances",
-      "enonce": "Dans cette situation, pour éviter la projection de gravillons sur mon pare-brise, je ralenti / j'augmente la distance de sécurité :",
+      "enonce": "Dans cette situation, pour éviter la projection de gravillons sur mon pare-brise ...",
       "options": {
         "A": "je ralenti : OUI",
         "B": "je ralenti : NON",
@@ -393,10 +393,10 @@
       "id": "F26",
       "theme": "M",
       "fiche": "adherence",
-      "enonce": "Dans cette situation, il y a un risque d'aquaplanage / J'augmente la distance de sécurité :",
+      "enonce": "Dans cette situation ...",
       "options": {
-        "A": "risque d'aquaplanage : OUI",
-        "B": "risque d'aquaplanage : NON",
+        "A": "il y a risque d'aquaplanage : OUI",
+        "B": "il y a risque d'aquaplanage : NON",
         "C": "j'augmente la distance de sécurité : OUI",
         "D": "j'augmente la distance de sécurité : NON"
       },
@@ -514,12 +514,12 @@
       "id": "F34",
       "theme": "E",
       "fiche": "ecomobilite",
-      "enonce": "Adopter une conduite apaisée permet : une économie de carburant / une réduction des émissions de CO2",
+      "enonce": "Adopter une conduite apaisée permet ...",
       "options": {
-        "A": "économie de carburant : OUI",
-        "B": "économie de carburant : NON",
-        "C": "réduction des émissions de CO2 : OUI",
-        "D": "réduction des émissions de CO2 : NON"
+        "A": "une économie de carburant : OUI",
+        "B": "une économie de carburant : NON",
+        "C": "une réduction des émissions de CO2 : OUI",
+        "D": "une réduction des émissions de CO2 : NON"
       },
       "reponses": [
         "A",
@@ -531,12 +531,12 @@
       "id": "F35",
       "theme": "C",
       "fiche": "alcool",
-      "enonce": "Le taux d'alcool maximal est atteint : 1/2 heure après absorption à jeun / 1 heure après absorption au cours d'un repas",
+      "enonce": "Le taux d'alcool maximal est atteint ...",
       "options": {
-        "A": "1/2 heure à jeun : OUI",
-        "B": "1/2 heure à jeun : NON",
-        "C": "1 heure au cours d'un repas : OUI",
-        "D": "1 heure au cours d'un repas : NON"
+        "A": "1/2 heure après absorption à jeun : OUI",
+        "B": "1/2 heure après absorption à jeun : NON",
+        "C": "1 heure après absorption au cours d'un repas : OUI",
+        "D": "1 heure après absorption au cours d'un repas : NON"
       },
       "reponses": [
         "A",
@@ -548,12 +548,12 @@
       "id": "F36",
       "theme": "R",
       "fiche": "distances",
-      "enonce": "J'augmente la distance de sécurité avec le véhicule qui me précède en fonction de : ma vitesse / des conditions météorologiques",
+      "enonce": "J'augmente la distance de sécurité avec le véhicule qui me précède en fonction de ...",
       "options": {
         "A": "ma vitesse : OUI",
         "B": "ma vitesse : NON",
-        "C": "conditions météo : OUI",
-        "D": "conditions météo : NON"
+        "C": "des conditions météo : OUI",
+        "D": "des conditions météo : NON"
       },
       "reponses": [
         "A",
@@ -595,7 +595,7 @@
       "id": "F39",
       "theme": "L",
       "fiche": "stationnement",
-      "enonce": "Après ce signal, le stationnement sera : payant / à durée limitée",
+      "enonce": "Après ce signal, le stationnement sera ...",
       "options": {
         "A": "payant : OUI",
         "B": "payant : NON",
@@ -612,7 +612,7 @@
       "id": "F40",
       "theme": "L",
       "fiche": "infractions",
-      "enonce": "Je commets un excès de vitesse de 45 km/h au dessus de la vitesse autorisée, je risque : une amende / une suspension de permis de conduire",
+      "enonce": "Je commets un excès de vitesse de 45 km/h au dessus de la vitesse autorisée, je risque ...",
       "options": {
         "A": "une amende : OUI",
         "B": "une amende : NON",
