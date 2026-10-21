@@ -33,21 +33,18 @@
       "id": "F03",
       "theme": "E",
       "fiche": "pollution",
-      "enonce": "Les équipements automobiles qui permettent la réduction de la pollution atmosphérique sont :",
+      "enonce": "Les équipements automobiles qui permettent la réduction de la pollution atmosphérique sont : le pot catalytique / le filtre à particules",
       "options": {
-        "A": "la climatisation : OUI",
-        "B": "la climatisation : NON",
-        "C": "le pot catalytique : OUI",
-        "D": "le pot catalytique : NON",
-        "E": "le filtre à particules : OUI",
-        "F": "le filtre à particules : NON"
+        "A": "le pot catalytique : OUI",
+        "B": "le pot catalytique : NON",
+        "C": "le filtre à particules : OUI",
+        "D": "le filtre à particules : NON"
       },
       "reponses": [
-        "B",
-        "C",
-        "E"
+        "A",
+        "C"
       ],
-      "explication": "Le pot catalytique et le filtre à particules réduisent les substances toxiques et les particules des gaz d'échappement. À l'inverse, la climatisation est un équipement de confort qui augmente la consommation et la pollution[cite: 6]."
+      "explication": "Le pot catalytique et le filtre à particules réduisent les substances toxiques et les particules des gaz d'échappement. À l'inverse, la climatisation est un équipement de confort qui augmente la consommation et la pollution."
     },
     {
       "id": "F04",
