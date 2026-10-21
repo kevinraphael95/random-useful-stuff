@@ -1,0 +1,612 @@
+{
+  "test": "Série C",
+  "questions": [
+    {
+      "id": "C01",
+      "theme": "M",
+      "fiche": "entretien",
+      "enonce": "Des pneus sous-gonflés entraînent :",
+      "options": {
+        "A": "une surconsommation de carburant",
+        "B": "une meilleure tenue de route",
+        "C": "une usure prématurée des pneumatiques",
+        "D": "un risque d'éclatement"
+      },
+      "reponses": [
+        "A",
+        "C",
+        "D"
+      ],
+      "explication": "Des pneus sous-gonflés augmentent la résistance au roulement (surconsommation), provoquent une usure anormale des épaules et élèvent la température, ce qui entraîne un risque d'éclatement[cite: 74]."
+    },
+    {
+      "id": "C02",
+      "theme": "C",
+      "fiche": "conducteur",
+      "enonce": "Le facteur humain apparaît dans 90 % des accidents de la route :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Le facteur humain est l'élément le plus déterminant dans les accidents, impliquant des erreurs, de la distraction, de la vitesse ou de l'alcool dans environ 90 % des cas[cite: 65]."
+    },
+    {
+      "id": "C03",
+      "theme": "M",
+      "fiche": "entretien",
+      "enonce": "Une surconsommation de carburant peut être causée par :",
+      "options": {
+        "A": "un filtre à air encrassé",
+        "B": "des pneus surgonflés",
+        "C": "des pneus sous-gonflés"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Un filtre à air encrassé perturbe le fonctionnement du moteur et des pneus sous-gonflés augmentent l'effort, provoquant tous deux une surconsommation[cite: 66]."
+    },
+    {
+      "id": "C04",
+      "theme": "S",
+      "fiche": "securite",
+      "enonce": "La ceinture de sécurité de cette conductrice est bouclée correctement :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Une ceinture mal positionnée, vrillée ou passant sur le cou n'est pas réglée de manière optimale pour assurer une protection efficace[cite: 67]."
+    },
+    {
+      "id": "C05",
+      "theme": "M",
+      "fiche": "voyants",
+      "enonce": "Ce voyant concerne l'usure des plaquettes de frein :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Le voyant d'usure des plaquettes de frein (cercle orange entouré de parenthèses en pointillés) indique une usure avancée nécessitant un remplacement rapide[cite: 68]."
+    },
+    {
+      "id": "C06",
+      "theme": "S",
+      "fiche": "physique-conduite",
+      "enonce": "Circuler sur une chaussée mouillée allonge :",
+      "options": {
+        "A": "mon temps de réaction",
+        "B": "la distance parcourue pendant le temps de réaction",
+        "C": "la distance de freinage",
+        "D": "la distance d'arrêt"
+      },
+      "reponses": [
+        "C",
+        "D"
+      ],
+      "explication": "L'état de la chaussée ne modifie pas le temps de réaction, mais il réduit l'adhérence, ce qui allonge directement la distance de freinage et par conséquent la distance d'arrêt totale[cite: 69]."
+    },
+    {
+      "id": "C07",
+      "theme": "R",
+      "fiche": "autoroute",
+      "enonce": "Les lumières bleues annoncent un refuge :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Les diodes bleues servent à évaluer visuellement la distance de sécurité minimale avec le véhicule qui précède, et non à annoncer un refuge[cite: 70]."
+    },
+    {
+      "id": "C08",
+      "theme": "L",
+      "fiche": "depassement",
+      "enonce": "Je peux dépasser le cycliste :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Malgré la ligne d'avertissement et les flèches de rabattement, la faible vitesse du cycliste permet de terminer le dépassement en toute sécurité avant la ligne continue[cite: 71]."
+    },
+    {
+      "id": "C09",
+      "theme": "U",
+      "fiche": "pietons",
+      "enonce": "Chez les piétons, la classe d'âge la plus touchée par les accidents mortels est :",
+      "options": {
+        "A": "les 0-14 ans",
+        "B": "les 15-24 ans",
+        "C": "les 25-64 ans",
+        "D": "les 65 ans et +"
+      },
+      "reponses": [
+        "D"
+      ],
+      "explication": "Les statistiques de mortalité piétonne montrent que les personnes âgées de 65 ans et plus sont les plus vulnérables et représentent plus de la moitié des décès[cite: 72]."
+    },
+    {
+      "id": "C10",
+      "theme": "U",
+      "fiche": "cyclistes",
+      "enonce": "Pour dépasser ces cyclistes, l'intervalle latéral minimum doit être égal à :",
+      "options": {
+        "A": "0,50 mètre",
+        "B": "1 mètre",
+        "C": "1,50 mètre"
+      },
+      "reponses": [
+        "C"
+      ],
+      "explication": "Hors agglomération, l'intervalle latéral de sécurité obligatoire pour dépasser un cycliste est d'au moins 1,50 mètre (contre 1 mètre en agglomération)[cite: 73]."
+    },
+    {
+      "id": "C11",
+      "theme": "S",
+      "fiche": "equipements",
+      "enonce": "Certains régulateurs de vitesse aident au maintien des distances de sécurité à l'avant :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Les régulateurs de vitesse adaptatifs (ou ACC) ajustent automatiquement la vitesse pour maintenir une distance de sécurité constante avec le véhicule qui précède[cite: 84]."
+    },
+    {
+      "id": "C12",
+      "theme": "E",
+      "fiche": "ecomobilite",
+      "enonce": "2 kilomètres à vélo sont parcourus en moyenne :",
+      "options": {
+        "A": "en 8 minutes",
+        "B": "en 15 minutes",
+        "C": "en 25 minutes"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "En ville, la vitesse moyenne à vélo est d'environ 15 km/h, ce qui permet de parcourir 2 kilomètres en environ 8 minutes[cite: 75]."
+    },
+    {
+      "id": "C13",
+      "theme": "C",
+      "fiche": "installation",
+      "enonce": "Pour être bien installé au poste de conduite, je dois régler dans l'ordre :",
+      "options": {
+        "A": "les rétroviseurs, le siège, le volant",
+        "B": "le siège, le volant, les rétroviseurs",
+        "C": "les rétroviseurs, le siège, le volant"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Il convient de régler d'abord le siège pour trouver une bonne position par rapport aux pédales, puis le volant, et enfin les rétroviseurs[cite: 76]."
+    },
+    {
+      "id": "C14",
+      "theme": "L",
+      "fiche": "depassement",
+      "enonce": "La signalisation autorise le dépassement d'un cycliste :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "La ligne mixte (ou ligne de dissuasion) autorise le dépassement des véhicules à progression lente, ce qui inclut les cyclistes[cite: 77]."
+    },
+    {
+      "id": "C15",
+      "theme": "A",
+      "fiche": "premiers-secours",
+      "enonce": "Le triangle de présignalisation doit être placé :",
+      "options": {
+        "A": "à 10 mètres environ",
+        "B": "à 30 mètres environ"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Le triangle de présignalisation doit être placé sur la chaussée à une distance d'environ 30 mètres de l'obstacle pour être visible à l'avance[cite: 78]."
+    },
+    {
+      "id": "C16",
+      "theme": "A",
+      "fiche": "premiers-secours",
+      "enonce": "Pour protéger les lieux d'un accident du risque d'incendie, je peux :",
+      "options": {
+        "A": "recouvrir de terre les produits inflammables répandus sur le sol : OUI",
+        "B": "recouvrir de terre les produits inflammables répandus sur le sol : NON",
+        "C": "empêcher les personnes de fumer : OUI",
+        "D": "empêcher les personnes de fumer : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "En cas de risque d'incendie, il est recommandé de recouvrir les liquides inflammables de terre ou de sable et d'interdire formellement à quiconque de fumer[cite: 79]."
+    },
+    {
+      "id": "C17",
+      "theme": "S",
+      "fiche": "passagers",
+      "enonce": "Un enfant peut s'installer à l'avant du véhicule à partir de :",
+      "options": {
+        "A": "6 ans",
+        "B": "8 ans",
+        "C": "10 ans",
+        "D": "12 ans"
+      },
+      "reponses": [
+        "C"
+      ],
+      "explication": "Par mesure de sécurité, les enfants doivent obligatoirement être installés à l'arrière du véhicule jusqu'à l'âge de 10 ans, sauf exceptions[cite: 80]."
+    },
+    {
+      "id": "C18",
+      "theme": "C",
+      "fiche": "communication",
+      "enonce": "Hors agglomération, pour signaler ma présence, je peux faire usage de l'avertisseur sonore :",
+      "options": {
+        "A": "de jour : OUI",
+        "B": "de jour : NON",
+        "C": "de nuit : OUI",
+        "D": "de nuit : NON"
+      },
+      "reponses": [
+        "A",
+        "D"
+      ],
+      "explication": "De jour, l'avertisseur sonore est autorisé hors agglomération pour avertir d'un danger (dans un virage par exemple). De nuit, seuls les appels lumineux sont tolérés pour éviter les nuisances[cite: 81]."
+    },
+    {
+      "id": "C19",
+      "theme": "C",
+      "fiche": "conducteur",
+      "enonce": "Une mauvaise installation au poste de conduite :",
+      "options": {
+        "A": "augmente la fatigue du conducteur : OUI",
+        "B": "augmente la fatigue du conducteur : NON",
+        "C": "augmente le risque d'accident : OUI",
+        "D": "augmente le risque d'accident : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Une mauvaise posture engendre des efforts superflus provoquant une fatigue rapide et réduit la concentration, ce qui augmente le risque d'accident[cite: 82]."
+    },
+    {
+      "id": "C20",
+      "theme": "E",
+      "fiche": "environnement",
+      "enonce": "Ne pas respecter les interdictions en cas de pic de pollution :",
+      "options": {
+        "A": "est passible d'une amende : OUI",
+        "B": "est passible d'une amende : NON",
+        "C": "aggrave la pollution atmosphérique : OUI",
+        "D": "aggrave la pollution atmosphérique : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Le non-respect des restrictions de circulation en période de pollution constitue une infraction sanctionnée par une amende, et contribue directement à aggraver la qualité de l'air[cite: 83]."
+    },
+    {
+      "id": "C21",
+      "theme": "L",
+      "fiche": "priorites",
+      "enonce": "Je dois céder le passage à la voiture bleue :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Le conducteur de la voiture bleue est soumis à un stop (marquage et panneau). Il doit céder le passage, vous n'avez donc pas à lui céder le passage[cite: 90]."
+    },
+    {
+      "id": "C22",
+      "theme": "L",
+      "fiche": "depassement",
+      "enonce": "Je peux dépasser ce véhicule :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "L'axe médian est matérialisé par une ligne blanche continue, qu'il est interdit de franchir ou de chevaucher pour dépasser[cite: 91]."
+    },
+    {
+      "id": "C23",
+      "theme": "L",
+      "fiche": "depassement",
+      "enonce": "Je peux dépasser ce cycliste :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "La ligne de dissuasion autorise le dépassement des véhicules lents ou circulant lentement (comme les cyclistes) et le panneau d'interdiction de dépasser ne concerne pas les deux-roues sans side-car[cite: 92]."
+    },
+    {
+      "id": "C24",
+      "theme": "L",
+      "fiche": "vitesse",
+      "enonce": "Après les panneaux, je pourrai rouler à :",
+      "options": {
+        "A": "20 km/h",
+        "B": "30 km/h",
+        "C": "70 km/h",
+        "D": "90 km/h"
+      },
+      "reponses": [
+        "B",
+        "C"
+      ],
+      "explication": "Le panneau 30 indique une vitesse minimale obligatoire et le panneau 70 limite la vitesse maximale. La vitesse doit donc être comprise entre 30 et 70 km/h[cite: 93]."
+    },
+    {
+      "id": "C25",
+      "theme": "D",
+      "fiche": "infractions",
+      "enonce": "Si je n'obéis pas à cet agent qui me fait signe de m'arrêter, j'encours :",
+      "options": {
+        "A": "une amende pouvant aller jusqu'à 15 000 euros : OUI",
+        "B": "une amende pouvant aller jusqu'à 15 000 euros : NON",
+        "C": "une perte de 6 points sur mon permis : OUI",
+        "D": "une perte de 6 points sur mon permis : NON"
+      },
+      "reponses": [
+        "A",
+        "C"
+      ],
+      "explication": "Le refus d'obtempérer est puni de 2 ans d'emprisonnement et de 15 000 € d'amende, ainsi que d'un retrait de 6 points sur le permis de conduire[cite: 94]."
+    },
+    {
+      "id": "C26",
+      "theme": "L",
+      "fiche": "vitesse",
+      "enonce": "La limitation de vitesse à 30 km/h s'applique :",
+      "options": {
+        "A": "à partir du panneau : OUI",
+        "B": "à partir du panneau : NON",
+        "C": "Jusqu'à la prochaine intersection : OUI",
+        "D": "Jusqu'à la prochaine intersection : NON"
+      },
+      "reponses": [
+        "A",
+        "D"
+      ],
+      "explication": "S'agissant d'une zone 30 (panneau rectangulaire), la limitation s'applique à partir du panneau et se poursuit dans toute la zone, y compris après les intersections, jusqu'au panneau de fin de zone[cite: 85]."
+    },
+    {
+      "id": "C27",
+      "theme": "S",
+      "fiche": "securite",
+      "enonce": "Par temps de brouillard, lorsque la visibilité est inférieure à 50 mètres, je dois laisser un intervalle de sécurité minimum de :",
+      "options": {
+        "A": "50 mètres",
+        "B": "100 mètres",
+        "C": "150 mètres"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "En cas de brouillard ou de forte pluie réduisant la visibilité à moins de 50 mètres, l'intervalle de sécurité minimum requis est de 50 mètres[cite: 86]."
+    },
+    {
+      "id": "C28",
+      "theme": "R",
+      "fiche": "autoroute",
+      "enonce": "Je suis bien placé pour prendre l'autoroute d'en face :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Le marquage au sol avec les flèches directionnelles indique que vous vous trouvez sur la voie de gauche alors que l'entrée de l'autoroute nécessite d'être sur la voie de droite[cite: 87]."
+    },
+    {
+      "id": "C29",
+      "theme": "S",
+      "fiche": "freinage",
+      "enonce": "Pour amplifier le freinage, l'ABS peut être complété par :",
+      "options": {
+        "A": "l'AFU",
+        "B": "l'ESP"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "L'AFU (Assistance au Freinage d'Urgence) complète l'ABS en déclenchant un freinage à pleine puissance en cas d'urgence, tandis que l'ESP gère la stabilité de trajectoire[cite: 88]."
+    },
+    {
+      "id": "C30",
+      "theme": "L",
+      "fiche": "stationnement",
+      "enonce": "L'interdiction de stationner débute :",
+      "options": {
+        "A": "à hauteur du panneau",
+        "B": "à 50 mètres",
+        "C": "à 150 mètres"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "S'agissant d'un panneau de signalisation verticale d'interdiction sans panonceau de distance, l'interdiction de stationner s'applique immédiatement à hauteur du panneau[cite: 89]."
+    },
+    {
+      "id": "C31",
+      "theme": "U",
+      "fiche": "pietons",
+      "enonce": "Je roule à 20 km/h, dans cette situation :",
+      "options": {
+        "A": "je freine et je m'arrête",
+        "B": "je ralentis et je passe",
+        "C": "je klaxonne"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "À l'approche d'un passage piéton où un usager est engagé, le conducteur est tenu de lui céder le passage et doit donc freiner et s'arrêter[cite: 104]."
+    },
+    {
+      "id": "C32",
+      "theme": "R",
+      "fiche": "autoroute",
+      "enonce": "Je roule à 130 km/h. La distance de sécurité avec le véhicule qui me précède doit être équivalente à :",
+      "options": {
+        "A": "un trait de la bande d'arrêt d'urgence",
+        "B": "deux traits de la bande d'arrêt d'urgence"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Sur autoroute, pour maintenir une distance de sécurité suffisante à 130 km/h, il est recommandé de laisser l'équivalent de deux traits de la bande d'arrêt d'urgence[cite: 95]."
+    },
+    {
+      "id": "C33",
+      "theme": "S",
+      "fiche": "physique-conduite",
+      "enonce": "L'augmentation du temps de réaction allonge :",
+      "options": {
+        "A": "la distance de freinage : OUI",
+        "B": "la distance de freinage : NON",
+        "C": "la distance d'arrêt : OUI",
+        "D": "la distance d'arrêt : NON"
+      },
+      "reponses": [
+        "B",
+        "C"
+      ],
+      "explication": "L'augmentation du temps de réaction allonge la distance parcourue pendant ce temps et donc la distance d'arrêt totale, mais n'a aucune influence sur la distance de freinage proprement dite[cite: 96]."
+    },
+    {
+      "id": "C34",
+      "theme": "D",
+      "fiche": "documents",
+      "enonce": "En cas de contrôle de police, je dois obligatoirement présenter l'attestation d'assurance de mon véhicule :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Depuis le 1er avril 2024, la présentation de l'attestation d'assurance papier lors d'un contrôle n'est plus obligatoire en France, les forces de l'ordre vérifiant directement le Fichier des Véhicules Assurés (FVA) via la plaque d'immatriculation[cite: 97]."
+    },
+    {
+      "id": "C35",
+      "theme": "R",
+      "fiche": "autoroute",
+      "enonce": "La distance avec le véhicule qui me précède est suffisante :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Maintenir l'équivalent de 2 traits de la bande d'arrêt d'urgence assure une distance de sécurité suffisante entre les véhicules roulant jusqu'à 130 km/h[cite: 98]."
+    },
+    {
+      "id": "C36",
+      "theme": "L",
+      "fiche": "priorites",
+      "enonce": "À l'approche de cette intersection, je m'apprête à céder le passage :",
+      "options": {
+        "A": "à droite : OUI",
+        "B": "à droite : NON",
+        "C": "à gauche : OUI",
+        "D": "à gauche : NON"
+      },
+      "reponses": [
+        "B",
+        "C"
+      ],
+      "explication": "À l'approche d'un carrefour à sens giratoire, on doit céder le passage aux usagers venant de gauche (déjà engagés sur l'anneau), et non à droite[cite: 99]."
+    },
+    {
+      "id": "C37",
+      "theme": "L",
+      "fiche": "depassement",
+      "enonce": "Je continue le dépassement :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Un panneau indique une réduction de voie à 200 mètres. La distance nécessaire pour effectuer le dépassement étant insuffisante, il faut y renoncer et se rabattre[cite: 100]."
+    },
+    {
+      "id": "C38",
+      "theme": "L",
+      "fiche": "vitesse",
+      "enonce": "En roulant à 90 km/h, je parcours environ :",
+      "options": {
+        "A": "18 mètres par seconde",
+        "B": "27 mètres par seconde",
+        "C": "36 mètres par seconde"
+      },
+      "reponses": [
+        "B"
+      ],
+      "explication": "Pour estimer la distance parcourue par seconde, on multiplie le chiffre des dizaines de la vitesse par 3. À 90 km/h, cela donne 9 x 3 = 27 mètres par seconde[cite: 101]."
+    },
+    {
+      "id": "C39",
+      "theme": "M",
+      "fiche": "freinage",
+      "enonce": "L'humidité peut entraîner une perte d'efficacité du système de freinage :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Lorsque les surfaces de frottement sont mouillées (flaques, lavage), l'efficacité du freinage est temporairement réduite. Il est conseillé de freiner légèrement à plusieurs reprises pour les sécher[cite: 102]."
+    },
+    {
+      "id": "C40",
+      "theme": "M",
+      "fiche": "equipements",
+      "enonce": "Il est conseillé de changer les balais d'essuie-glaces tous les ans :",
+      "options": {
+        "A": "OUI",
+        "B": "NON"
+      },
+      "reponses": [
+        "A"
+      ],
+      "explication": "Pour garantir une bonne visibilité en toutes circonstances, il est fortement recommandé de remplacer les balais d'essuie-glaces une fois par an, de préférence avant l'hiver[cite: 103]."
+    }
+  ]
+}
