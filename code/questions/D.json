@@ -451,12 +451,12 @@
       "id": "D31",
       "theme": "M",
       "fiche": "entretien",
-      "enonce": "Rouler avec des pneus sous gonflés entraîne une surconsommation de carburant : / Une usure prématurée des pneumatiques :",
+      "enonce": "Rouler avec des pneus sous gonflés entraîne ...",
       "options": {
-        "A": "une surconsommation : OUI",
-        "B": "une surconsommation : NON",
-        "C": "usure prématurée : OUI",
-        "D": "usure prématurée : NON"
+        "A": "une surconsommation de carburant : OUI",
+        "B": "une surconsommation de carburant : NON",
+        "C": "une usure prématurée des pneumatiques : OUI",
+        "D": "une usure prématurée des pneumatiques : NON"
       },
       "reponses": [
         "A",
