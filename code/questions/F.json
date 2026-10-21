@@ -13,7 +13,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Le faisceau des feux de croisement est asymétrique pour éclairer davantage le côté droit de la chaussée (où se trouve la signalisation et les piétons) sans éblouir les usagers venant en sens inverse[cite: 4]."
+      "explication": "Le faisceau des feux de croisement est asymétrique pour éclairer davantage le côté droit de la chaussée (où se trouve la signalisation et les piétons) sans éblouir les usagers venant en sens inverse."
     },
     {
       "id": "F02",
@@ -27,7 +27,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "Le panneau indique une réduction de voies à 200 mètres. En roulant à 90 km/h, la distance nécessaire pour terminer le dépassement est insuffisante avant le rétrécissement[cite: 5]."
+      "explication": "Le panneau indique une réduction de voies à 200 mètres. En roulant à 90 km/h, la distance nécessaire pour terminer le dépassement est insuffisante avant le rétrécissement."
     },
     {
       "id": "F03",
@@ -61,7 +61,7 @@
         "B",
         "C"
       ],
-      "explication": "La garantie responsabilité civile (assurance au tiers) ne couvre que les dommages causés à autrui. Elle indemnise l'autre usager mais ne prend pas en charge les réparations de votre propre véhicule[cite: 7]."
+      "explication": "La garantie responsabilité civile (assurance au tiers) ne couvre que les dommages causés à autrui. Elle indemnise l'autre usager mais ne prend pas en charge les réparations de votre propre véhicule."
     },
     {
       "id": "F05",
@@ -78,7 +78,7 @@
         "A",
         "C"
       ],
-      "explication": "Le port de la ceinture de sécurité est une obligation stricte pour tous les occupants du véhicule, aussi bien à l'avant qu'à l'arrière, quelle que soit la durée du trajet[cite: 8]."
+      "explication": "Le port de la ceinture de sécurité est une obligation stricte pour tous les occupants du véhicule, aussi bien à l'avant qu'à l'arrière, quelle que soit la durée du trajet."
     },
     {
       "id": "F06",
@@ -92,7 +92,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "Ce panneau indique une interdiction de stationner unilatérale à alternance semi-mensuelle. Du 16 au 31, le stationnement est interdit du côté de la rue où il est implanté[cite: 9]."
+      "explication": "Ce panneau indique une interdiction de stationner unilatérale à alternance semi-mensuelle. Du 16 au 31, le stationnement est interdit du côté de la rue où il est implanté."
     },
     {
       "id": "F07",
@@ -106,7 +106,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "En tant que premier témoin, s'arrêter est une obligation pour appliquer le principe du P.A.S. (Protéger, Alerter, Secourir) sous peine d'être poursuivi pour non-assistance à personne en danger[cite: 10]."
+      "explication": "En tant que premier témoin, s'arrêter est une obligation pour appliquer le principe du P.A.S. (Protéger, Alerter, Secourir) sous peine d'être poursuivi pour non-assistance à personne en danger."
     },
     {
       "id": "F08",
@@ -120,7 +120,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Le GPS guide le conducteur vers sa destination en évitant les erreurs de parcours, ce qui permet d'éviter les détours inutiles et de réduire la distance totale[cite: 11]."
+      "explication": "Le GPS guide le conducteur vers sa destination en évitant les erreurs de parcours, ce qui permet d'éviter les détours inutiles et de réduire la distance totale."
     },
     {
       "id": "F09",
@@ -134,7 +134,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Les panneaux de forme triangulaire à pointe en haut signalent un danger. En agglomération, ils sont implantés à environ 50 mètres du danger annoncé[cite: 12]."
+      "explication": "Les panneaux de forme triangulaire à pointe en haut signalent un danger. En agglomération, ils sont implantés à environ 50 mètres du danger annoncé."
     },
     {
       "id": "F10",
@@ -151,7 +151,7 @@
         "B",
         "D"
       ],
-      "explication": "Le panneau rencontré signale une voie réservée aux trams ou le passage de trams, et non un arrêt de bus ou de tramway[cite: 3]."
+      "explication": "Le panneau rencontré signale une voie réservée aux trams ou le passage de trams, et non un arrêt de bus ou de tramway."
     },
     {
       "id": "F11",
@@ -165,7 +165,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "L'alcool altère fortement la conduite (temps de réaction allongé, prise de risques, champ visuel réduit). Environ 30 % des accidents mortels sur la route y sont associés[cite: 13]."
+      "explication": "L'alcool altère fortement la conduite (temps de réaction allongé, prise de risques, champ visuel réduit). Environ 30 % des accidents mortels sur la route y sont associés."
     },
     {
       "id": "F12",
@@ -182,7 +182,7 @@
         "B",
         "D"
       ],
-      "explication": "La voie de droite est une bande cyclable (signalée par des pointillés épais et un symbole de cycliste). L'arrêt et le stationnement y sont strictement interdits[cite: 14]."
+      "explication": "La voie de droite est une bande cyclable (signalée par des pointillés épais et un symbole de cycliste). L'arrêt et le stationnement y sont strictement interdits."
     },
     {
       "id": "F13",
@@ -197,7 +197,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "Plus la vitesse est élevée, plus la résistance à l'air augmente. Rouler à une vitesse réduite permet de diminuer cette force aérodynamique et de faire des économies d'énergie[cite: 15]."
+      "explication": "Plus la vitesse est élevée, plus la résistance à l'air augmente. Rouler à une vitesse réduite permet de diminuer cette force aérodynamique et de faire des économies d'énergie."
     },
     {
       "id": "F14",
@@ -214,7 +214,7 @@
         "B",
         "C"
       ],
-      "explication": "Un panneau de signalisation spécifique peut imposer un intervalle minimal obligatoire (ici 100 mètres), qui s'applique quelle que soit la vitesse inférieure ou égale à la limite indiquée[cite: 16]."
+      "explication": "Un panneau de signalisation spécifique peut imposer un intervalle minimal obligatoire (ici 100 mètres), qui s'applique quelle que soit la vitesse inférieure ou égale à la limite indiquée."
     },
     {
       "id": "F15",
@@ -231,7 +231,7 @@
         "B",
         "D"
       ],
-      "explication": "Le marquage est une ligne de dissuasion qui autorise le dépassement des véhicules lents comme les cyclistes. Cependant, si la circulation en face est trop dense pour respecter l'écart latéral d'un mètre en ville, il faut renoncer[cite: 17]."
+      "explication": "Le marquage est une ligne de dissuasion qui autorise le dépassement des véhicules lents comme les cyclistes. Cependant, si la circulation en face est trop dense pour respecter l'écart latéral d'un mètre en ville, il faut renoncer."
     },
     {
       "id": "F16",
@@ -248,7 +248,7 @@
         "A",
         "C"
       ],
-      "explication": "La classe d'âge des 18-24 ans représente une part minoritaire de la population (8 %) mais paie un très lourd tribut sur la route en concentrant près de 19 % des tués[cite: 18]."
+      "explication": "La classe d'âge des 18-24 ans représente une part minoritaire de la population (8 %) mais paie un très lourd tribut sur la route en concentrant près de 19 % des tués."
     },
     {
       "id": "F17",
@@ -262,7 +262,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "La bordure du trottoir peinte en jaune en continu indique que l'arrêt et le stationnement sont strictement interdits, même pour un très bref instant[cite: 19]."
+      "explication": "La bordure du trottoir peinte en jaune en continu indique que l'arrêt et le stationnement sont strictement interdits, même pour un très bref instant."
     },
     {
       "id": "F18",
@@ -276,7 +276,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Sur une chaussée à double sens séparée par une ligne blanche continue sans autre signalisation d'interdiction de dépassement ou de réduction de voie, la manœuvre engagée peut se poursuivre sans danger[cite: 20]."
+      "explication": "Sur une chaussée à double sens séparée par une ligne blanche continue sans autre signalisation d'interdiction de dépassement ou de réduction de voie, la manœuvre engagée peut se poursuivre sans danger."
     },
     {
       "id": "F19",
@@ -290,7 +290,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "L'axe médian constitué d'une ligne de dissuasion autorise le dépassement des usagers roulant lentement (comme les cyclistes), à condition de respecter l'intervalle latéral de sécurité[cite: 21]."
+      "explication": "L'axe médian constitué d'une ligne de dissuasion autorise le dépassement des usagers roulant lentement (comme les cyclistes), à condition de respecter l'intervalle latéral de sécurité."
     },
     {
       "id": "F20",
@@ -305,7 +305,7 @@
       "reponses": [
         "C"
       ],
-      "explication": "À 110 km/h, on calcule la distance de sécurité en multipliant le chiffre des dizaines par 6 (11 × 6 = 66 mètres), ce qui correspond à un intervalle minimal de 2 secondes[cite: 22]."
+      "explication": "À 110 km/h, on calcule la distance de sécurité en multipliant le chiffre des dizaines par 6 (11 × 6 = 66 mètres), ce qui correspond à un intervalle minimal de 2 secondes."
     },
     {
       "id": "F21",
@@ -323,7 +323,7 @@
         "B",
         "C"
       ],
-      "explication": "Le taux limite pour les conducteurs en permis probatoire est fixé à 0,20 g/l. En cas de dépassement, les sanctions incluent une amende de 135 €, un retrait de 6 points (qui solde le capital initial du permis) et l'immobilisation du véhicule[cite: 24]."
+      "explication": "Le taux limite pour les conducteurs en permis probatoire est fixé à 0,20 g/l. En cas de dépassement, les sanctions incluent une amende de 135 €, un retrait de 6 points (qui solde le capital initial du permis) et l'immobilisation du véhicule."
     },
     {
       "id": "F22",
@@ -337,7 +337,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "En informant sur l'état du trafic en temps réel et en proposant des itinéraires alternatifs pour contourner les zones congestionnées, le GPS aide à réduire le temps de trajet[cite: 25]."
+      "explication": "En informant sur l'état du trafic en temps réel et en proposant des itinéraires alternatifs pour contourner les zones congestionnées, le GPS aide à réduire le temps de trajet."
     },
     {
       "id": "F23",
@@ -354,7 +354,7 @@
         "B",
         "C"
       ],
-      "explication": "Hors agglomération, l'écart latéral obligatoire pour dépasser un cycliste est de 1,50 m. Il est permis de chevaucher ou franchir une ligne continue pour effectuer cette manœuvre si la visibilité est suffisante[cite: 26]."
+      "explication": "Hors agglomération, l'écart latéral obligatoire pour dépasser un cycliste est de 1,50 m. Il est permis de chevaucher ou franchir une ligne continue pour effectuer cette manœuvre si la visibilité est suffisante."
     },
     {
       "id": "F24",
@@ -370,7 +370,7 @@
         "A",
         "B"
       ],
-      "explication": "Le panneau indique la fin d'une zone 30. La limitation maximale redevient celle applicable en agglomération (50 km/h), mais il est tout à fait autorisé de circuler à une vitesse inférieure (comme 30 km/h)[cite: 28]."
+      "explication": "Le panneau indique la fin d'une zone 30. La limitation maximale redevient celle applicable en agglomération (50 km/h), mais il est tout à fait autorisé de circuler à une vitesse inférieure (comme 30 km/h)."
     },
     {
       "id": "F25",
@@ -387,7 +387,7 @@
         "A",
         "C"
       ],
-      "explication": "En présence de gravillons, il faut doubler la distance de sécurité et ralentir pour limiter la vitesse d'impact des cailloux projetés par les pneumatiques[cite: 29]."
+      "explication": "En présence de gravillons, il faut doubler la distance de sécurité et ralentir pour limiter la vitesse d'impact des cailloux projetés par les pneumatiques."
     },
     {
       "id": "F26",
@@ -404,7 +404,7 @@
         "A",
         "C"
       ],
-      "explication": "Une quantité importante d'eau sur la chaussée favorise l'aquaplanage (perte d'adhérence des pneus). Il est impératif de réduire sa vitesse et d'augmenter la distance de sécurité en raison de l'allongement du freinage[cite: 30]."
+      "explication": "Une quantité importante d'eau sur la chaussée favorise l'aquaplanage (perte d'adhérence des pneus). Il est impératif de réduire sa vitesse et d'augmenter la distance de sécurité en raison de l'allongement du freinage."
     },
     {
       "id": "F27",
@@ -419,7 +419,7 @@
       "reponses": [
         "C"
       ],
-      "explication": "Sur une route non éclairée et circulant seul, l'utilisation des feux de route est obligatoire pour garantir une visibilité optimale et assurer sa sécurité[cite: 32]."
+      "explication": "Sur une route non éclairée et circulant seul, l'utilisation des feux de route est obligatoire pour garantir une visibilité optimale et assurer sa sécurité."
     },
     {
       "id": "F28",
@@ -435,7 +435,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "À jeun, l'alcool passe très rapidement dans le sang et le taux maximal est atteint en 30 minutes environ (contre 1 heure lors d'un repas)[cite: 33]."
+      "explication": "À jeun, l'alcool passe très rapidement dans le sang et le taux maximal est atteint en 30 minutes environ (contre 1 heure lors d'un repas)."
     },
     {
       "id": "F29",
@@ -449,7 +449,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Dans le cadre d'un stationnement unilatéral à alternance semi-mensuelle, du 1er au 15 du mois, il faut se garer du côté des immeubles portant les numéros impairs[cite: 52]."
+      "explication": "Dans le cadre d'un stationnement unilatéral à alternance semi-mensuelle, du 1er au 15 du mois, il faut se garer du côté des immeubles portant les numéros impairs."
     },
     {
       "id": "F30",
@@ -464,7 +464,7 @@
       "reponses": [
         "C"
       ],
-      "explication": "La distance de sécurité correspond à un intervalle de 2 secondes, soit environ 30 mètres à une vitesse de 50 km/h (5 × 6 = 30)[cite: 23]."
+      "explication": "La distance de sécurité correspond à un intervalle de 2 secondes, soit environ 30 mètres à une vitesse de 50 km/h (5 × 6 = 30)."
     },
     {
       "id": "F31",
@@ -478,7 +478,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "Porter son regard vers le bord droit de la route lors d'un croisement de nuit permet d'éviter d'être totalement ébloui par les phares du véhicule en face et de conserver une trajectoire sûre[cite: 39]."
+      "explication": "Porter son regard vers le bord droit de la route lors d'un croisement de nuit permet d'éviter d'être totalement ébloui par les phares du véhicule en face et de conserver une trajectoire sûre."
     },
     {
       "id": "F32",
@@ -493,7 +493,7 @@
       "reponses": [
         "C"
       ],
-      "explication": "La borne indique une autoroute où la vitesse maximale est de 130 km/h par temps clair. La voie de gauche (ou centrale sur voies multiples) est adaptée à cette allure, la voie de droite étant réservée aux véhicules lents[cite: 40]."
+      "explication": "La borne indique une autoroute où la vitesse maximale est de 130 km/h par temps clair. La voie de gauche (ou centrale sur voies multiples) est adaptée à cette allure, la voie de droite étant réservée aux véhicules lents."
     },
     {
       "id": "F33",
@@ -508,7 +508,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "La garantie responsabilité civile (assurance au tiers) est le minimum légal obligatoire pour tout véhicule en état de circuler afin de couvrir les dommages causés aux autres[cite: 41]."
+      "explication": "La garantie responsabilité civile (assurance au tiers) est le minimum légal obligatoire pour tout véhicule en état de circuler afin de couvrir les dommages causés aux autres."
     },
     {
       "id": "F34",
@@ -525,7 +525,7 @@
         "A",
         "C"
       ],
-      "explication": "Une conduite souple à vitesse constante évite les à-coups, les accélérations excessives et les freinages superflus, ce qui réduit à la fois la consommation de carburant et les rejets de CO2[cite: 42]."
+      "explication": "Une conduite souple à vitesse constante évite les à-coups, les accélérations excessives et les freinages superflus, ce qui réduit à la fois la consommation de carburant et les rejets de CO2."
     },
     {
       "id": "F35",
@@ -542,7 +542,7 @@
         "A",
         "C"
       ],
-      "explication": "Le pic d'alcoolémie est atteint plus rapidement en l'absence d'aliments (environ 30 minutes à jeun) qu'au cours d'un repas où l'absorption ralentit le passage de l'alcool dans le sang (environ 1 heure)[cite: 33]."
+      "explication": "Le pic d'alcoolémie est atteint plus rapidement en l'absence d'aliments (environ 30 minutes à jeun) qu'au cours d'un repas où l'absorption ralentit le passage de l'alcool dans le sang (environ 1 heure)."
     },
     {
       "id": "F36",
@@ -559,7 +559,7 @@
         "A",
         "C"
       ],
-      "explication": "La distance de sécurité doit être adaptée : elle s'accroît logiquement avec la vitesse et doit être doublée en cas de conditions météorologiques dégradées (comme une chaussée mouillée)[cite: 34]."
+      "explication": "La distance de sécurité doit être adaptée : elle s'accroît logiquement avec la vitesse et doit être doublée en cas de conditions météorologiques dégradées (comme une chaussée mouillée)."
     },
     {
       "id": "F37",
@@ -575,7 +575,7 @@
       "reponses": [
         "C"
       ],
-      "explication": "Sur une route nationale à chaussée séparée par un terre-plein central et comportant au moins deux voies dans le même sens, la vitesse maximale autorisée est de 110 km/h par temps clair[cite: 35]."
+      "explication": "Sur une route nationale à chaussée séparée par un terre-plein central et comportant au moins deux voies dans le même sens, la vitesse maximale autorisée est de 110 km/h par temps clair."
     },
     {
       "id": "F38",
@@ -589,7 +589,7 @@
       "reponses": [
         "B"
       ],
-      "explication": "Dès lors que le véhicule est stationné sur un emplacement matérialisé et que l'éclairage public permet de le rendre parfaitement visible aux autres usagers, les feux de position ne sont pas requis[cite: 36]."
+      "explication": "Dès lors que le véhicule est stationné sur un emplacement matérialisé et que l'éclairage public permet de le rendre parfaitement visible aux autres usagers, les feux de position ne sont pas requis."
     },
     {
       "id": "F39",
@@ -606,7 +606,7 @@
         "A",
         "C"
       ],
-      "explication": "Le panonceau ou symbole de parcmètre associé indique l'entrée dans une zone où le stationnement est payant et soumis à une limitation de durée[cite: 37]."
+      "explication": "Le panonceau ou symbole de parcmètre associé indique l'entrée dans une zone où le stationnement est payant et soumis à une limitation de durée."
     },
     {
       "id": "F40",
@@ -623,7 +623,7 @@
         "A",
         "C"
       ],
-      "explication": "Un excès de vitesse compris entre 40 et 49 km/h constitue une infraction entraînant une amende forfaitaire de 135 €, un retrait de 4 points et expose à des sanctions complémentaires comme la suspension du permis[cite: 38]."
+      "explication": "Un excès de vitesse compris entre 40 et 49 km/h constitue une infraction entraînant une amende forfaitaire de 135 €, un retrait de 4 points et expose à des sanctions complémentaires comme la suspension du permis."
     }
   ]
 }
