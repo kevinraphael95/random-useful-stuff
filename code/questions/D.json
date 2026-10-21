@@ -157,13 +157,10 @@
       "enonce": "Sur une chaussée mouillée la distance de freinage est 2 fois plus importante :",
       "options": {
         "A": "OUI",
-        "B": "NON",
-        "C": "OUI",
-        "D": "NON"
+        "B": "NON"
       },
       "reponses": [
-        "A",
-        "C"
+        "A"
       ],
       "explication": "Sur route mouillée, l'adhérence diminue de moitié, ce qui multiplie par deux la distance de freinage nécessaire et augmente par conséquent la distance d'arrêt totale."
     },
