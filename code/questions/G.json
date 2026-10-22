@@ -5,7 +5,7 @@
       "id": "G01",
       "theme": "L",
       "fiche": "signalisation",
-      "enonce": "Dans un tunnel, une issue de secours est indiquée par le panneau :",
+      "eNONce": "Dans un tunnel, une issue de secours est indiquée par le panneau :",
       "options": {
         "A": "N°1",
         "B": "N°2",
@@ -21,24 +21,24 @@
       "id": "G02",
       "theme": "L",
       "fiche": "vitesse",
-      "enonce": "La limitation de vitesse à 70 km/h concerne toutes les rues de « le Comte » :",
+      "eNONce": "La limitation de vitesse à 70 km/h concerne toutes les rues de « le Comte » :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "B"
       ],
-      "explication": "Il s'agit d'un lieu-dit et non d'une agglomération, la limitation ne concerne que la route parcourue."
+      "explication": "Il s'agit d'un lieu-dit et NON d'une agglomération, la limitation ne concerne que la route parcourue."
     },
     {
       "id": "G03",
       "theme": "R",
       "fiche": "depassement",
-      "enonce": "Je dépasse :",
+      "eNONce": "Je dépasse :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "B"
@@ -49,12 +49,12 @@
       "id": "G04",
       "theme": "L",
       "fiche": "vitesse",
-      "enonce": "Je peux rouler à 50 km/h / 70 km/h :",
+      "eNONce": "Je peux rouler à 50 km/h / 70 km/h :",
       "options": {
-        "A": "oui",
-        "B": "non",
-        "C": "oui",
-        "D": "non"
+        "A": "OUI",
+        "B": "NON",
+        "C": "OUI",
+        "D": "NON"
       },
       "reponses": [
         "A",
@@ -66,7 +66,7 @@
       "id": "G05",
       "theme": "C",
       "fiche": "vigilance",
-      "enonce": "L'indice le plus important est :",
+      "eNONce": "L'indice le plus important est :",
       "options": {
         "A": "Le marquage au sol",
         "B": "Le regard du conducteur"
@@ -80,10 +80,10 @@
       "id": "G06",
       "theme": "R",
       "fiche": "depassement",
-      "enonce": "Je peux dépasser :",
+      "eNONce": "Je peux dépasser :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "B"
@@ -94,12 +94,12 @@
       "id": "G07",
       "theme": "L",
       "fiche": "infractions",
-      "enonce": "Conduire avec une consommation de stupéfiants, associée à un taux d'alcool, est passible :",
+      "eNONce": "Conduire avec une consommation de stupéfiants, associée à un taux d'alcool, est passible :",
       "options": {
-        "A": "oui",
-        "B": "non",
-        "C": "oui",
-        "D": "non"
+        "A": "OUI",
+        "B": "NON",
+        "C": "OUI",
+        "D": "NON"
       },
       "reponses": [
         "A",
@@ -111,7 +111,7 @@
       "id": "G08",
       "theme": "L",
       "fiche": "signalisation",
-      "enonce": "La signalisation annonce qu'à 1700 mètres je rencontrerai :",
+      "eNONce": "La signalisation anNONce qu'à 1700 mètres je rencontrerai :",
       "options": {
         "A": "une route à accès réglementé",
         "B": "un créneau de dépassement",
@@ -126,7 +126,7 @@
       "id": "G09",
       "theme": "E",
       "fiche": "ecomobilite",
-      "enonce": "Pour un trajet occasionnel et court, le service éco-mobile le plus adapté est :",
+      "eNONce": "Pour un trajet occasionnel et court, le service éco-mobile le plus adapté est :",
       "options": {
         "A": "l'auto partage",
         "B": "le covoiturage",
@@ -141,10 +141,10 @@
       "id": "G10",
       "theme": "L",
       "fiche": "infractions",
-      "enonce": "J'ai prêté mon véhicule à un ami. S'il commet un excès de vitesse constaté par un radar fixe automatique, je devrai payer l'amende :",
+      "eNONce": "J'ai prêté mon véhicule à un ami. S'il commet un excès de vitesse constaté par un radar fixe automatique, je devrai payer l'amende :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "A"
@@ -155,10 +155,10 @@
       "id": "G11",
       "theme": "R",
       "fiche": "depassement",
-      "enonce": "Je peux dépasser :",
+      "eNONce": "Je peux dépasser :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "B"
@@ -169,12 +169,12 @@
       "id": "G12",
       "theme": "M",
       "fiche": "equipements",
-      "enonce": "Mon véhicule est équipé de l'appel d'urgence eCall : - Il est géolocalisé : / Les secours sont automatiquement appelés en cas d'accident :",
+      "eNONce": "Mon véhicule est équipé de l'appel d'urgence eCall ...",
       "options": {
-        "A": "oui",
-        "B": "non",
-        "C": "oui",
-        "D": "non"
+        "A": "Il est géolocalisé : OUI",
+        "B": "Il est géolocalisé : NON",
+        "C": "Les secours sont automatiquement appelés en cas d'accident : OUI",
+        "D": "Les secours sont automatiquement appelés en cas d'accident : NON"
       },
       "reponses": [
         "A",
@@ -186,12 +186,12 @@
       "id": "G13",
       "theme": "L",
       "fiche": "chargement",
-      "enonce": "Le chargement sur le toit peut dépasser : - à l'avant / - à l'arrière",
+      "eNONce": "Le chargement sur le toit peut dépasser : - à l'avant / - à l'arrière",
       "options": {
-        "A": "oui",
-        "B": "non",
-        "C": "oui",
-        "D": "non"
+        "A": "OUI",
+        "B": "NON",
+        "C": "OUI",
+        "D": "NON"
       },
       "reponses": [
         "B",
@@ -203,10 +203,10 @@
       "id": "G14",
       "theme": "L",
       "fiche": "circulation",
-      "enonce": "Je circule à 65 km/h. Je suis bien placé :",
+      "eNONce": "Je circule à 65 km/h. Je suis bien placé :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "B"
@@ -217,12 +217,12 @@
       "id": "G15",
       "theme": "L",
       "fiche": "vitesse",
-      "enonce": "Je suis jeune conducteur, après ce panneau, je pourrai rouler à 90km/h, par beau temps : / par temps de pluie :",
+      "eNONce": "Je suis jeune conducteur, après ce panneau, je pourrai rouler à 90km/h ...",
       "options": {
-        "A": "oui",
-        "B": "non",
-        "C": "oui",
-        "D": "non"
+        "A": "par beau temps : OUI",
+        "B": "par beau temps : NON",
+        "C": "par temps de pluie : OUI",
+        "D": "par temps de pluie : NON"
       },
       "reponses": [
         "B",
@@ -234,10 +234,10 @@
       "id": "G16",
       "theme": "C",
       "fiche": "substances",
-      "enonce": "Je peux être contrôlé positif à l'usage du cannabis plusieurs jours après consommation :",
+      "eNONce": "Je peux être contrôlé positif à l'usage du cannabis plusieurs jours après consommation :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "A"
@@ -248,7 +248,7 @@
       "id": "G17",
       "theme": "E",
       "fiche": "ecomobilite",
-      "enonce": "En ville, pour faire un trajet de 2 kilomètres le transport le moins polluant est :",
+      "eNONce": "En ville, pour faire un trajet de 2 kilomètres le transport le moins polluant est :",
       "options": {
         "A": "la voiture",
         "B": "le bus",
@@ -263,7 +263,7 @@
       "id": "G18",
       "theme": "L",
       "fiche": "signalisation",
-      "enonce": "La limitation de vitesse prend effet :",
+      "eNONce": "La limitation de vitesse prend effet :",
       "options": {
         "A": "à partir du panneau",
         "B": "au premier virage"
@@ -271,32 +271,32 @@
       "reponses": [
         "A"
       ],
-      "explication": "En l'absence de panonceau de distance sous le panneau, la limitation s'applique immédiatement à hauteur de celui-ci."
+      "explication": "En l'absence de paNONceau de distance sous le panneau, la limitation s'applique immédiatement à hauteur de celui-ci."
     },
     {
       "id": "G19",
       "theme": "L",
       "fiche": "vitesse",
-      "enonce": "Je ne dois pas dépasser 50 km/h :",
+      "eNONce": "Je ne dois pas dépasser 50 km/h :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "B"
       ],
-      "explication": "Le panneau à 50 km/h est complété par un panonceau concernant uniquement les véhicules de transport de marchandises, ce qui ne vous concerne pas."
+      "explication": "Le panneau à 50 km/h est complété par un paNONceau concernant uniquement les véhicules de transport de marchandises, ce qui ne vous concerne pas."
     },
     {
       "id": "G20",
       "theme": "S",
       "fiche": "anticipation",
-      "enonce": "Les zones d'incertitude de ces usagers vulnérable me concernent : / Je m'arrête :",
+      "eNONce": "Les zones d'incertitude de ces usagers vulnérable ... ",
       "options": {
-        "A": "oui",
-        "B": "non",
-        "C": "oui",
-        "D": "non"
+        "A": "me concernent : OUI",
+        "B": "me concernent : NON",
+        "C": "Je m'arrête : OUI",
+        "D": "Je m'arrête : NON"
       },
       "reponses": [
         "A",
@@ -308,24 +308,24 @@
       "id": "G21",
       "theme": "R",
       "fiche": "depassement",
-      "enonce": "Je peux dépasser ce camion :",
+      "eNONce": "Je peux dépasser ce camion :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "B"
       ],
-      "explication": "Un véhicule est déjà engagé pour vous dépasser dans le rétroviseur, il faut donc renoncer."
+      "explication": "Un véhicule est déjà engagé pour vous dépasser dans le rétroviseur, il faut donc reNONcer."
     },
     {
       "id": "G22",
       "theme": "A",
       "fiche": "premiers-secours",
-      "enonce": "De nuit, pour sécuriser les lieux d'un accident, je peux signaler la position des véhicules accidentés, en les éclairant avec une lampe torche :",
+      "eNONce": "De nuit, pour sécuriser les lieux d'un accident, je peux signaler la position des véhicules accidentés, en les éclairant avec une lampe torche :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "A"
@@ -336,10 +336,10 @@
       "id": "G23",
       "theme": "L",
       "fiche": "priorites",
-      "enonce": "A la prochaine intersection, je devrai céder le passage à droite :",
+      "eNONce": "A la prochaine intersection, je devrai céder le passage à droite :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "B"
@@ -350,7 +350,7 @@
       "id": "G24",
       "theme": "C",
       "fiche": "vigilance",
-      "enonce": "Je dois effectuer un long trajet. Pour limiter les risques d'accidents liés à la fatigue :",
+      "eNONce": "Je dois effectuer un long trajet. Pour limiter les risques d'accidents liés à la fatigue :",
       "options": {
         "A": "je prépare mon itinéraire",
         "B": "je fixe une heure d'arrivée",
@@ -366,21 +366,21 @@
       "id": "G25",
       "theme": "L",
       "fiche": "stationnement",
-      "enonce": "Je vais entrer dans une zone de stationnement par disque :",
+      "eNONce": "Je vais entrer dans une zone de stationnement par disque :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "B"
       ],
-      "explication": "Le panneau barré indique la sortie d'une zone de stationnement réglementé par disque et non l'entrée."
+      "explication": "Le panneau barré indique la sortie d'une zone de stationnement réglementé par disque et NON l'entrée."
     },
     {
       "id": "G26",
       "theme": "M",
       "fiche": "vision",
-      "enonce": "J'ai une acuité visuelle à un œil inférieure ou égale à 1/10ème. Pour conduire, je dois avoir une acuité visuelle à l'autre œil de :",
+      "eNONce": "J'ai une acuité visuelle à un œil inférieure ou égale à 1/10ème. Pour conduire, je dois avoir une acuité visuelle à l'autre œil de :",
       "options": {
         "A": "3/10ème",
         "B": "4/10ème",
@@ -396,7 +396,7 @@
       "id": "G27",
       "theme": "L",
       "fiche": "priorites",
-      "enonce": "Je vais tout droit :",
+      "eNONce": "Je vais tout droit :",
       "options": {
         "A": "je cède le passage au véhicule gris",
         "B": "je cède le passage au véhicule noir",
@@ -413,10 +413,10 @@
       "id": "G28",
       "theme": "L",
       "fiche": "circulation",
-      "enonce": "Je suis bien placé pour dépasser le véhicule noir :",
+      "eNONce": "Je suis bien placé pour dépasser le véhicule noir :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "B"
@@ -427,24 +427,24 @@
       "id": "G29",
       "theme": "M",
       "fiche": "feux",
-      "enonce": "Conducteur du véhicule blanc : - Je reste en feux de croisement / - je regarde vers l'accotement droit",
+      "eNONce": "Conducteur du véhicule blanc :",
       "options": {
-        "A": "feux de croisement : OUI",
-        "B": "feux de croisement : NON",
-        "C": "regard vers l'accotement : OUI",
-        "D": "regard vers l'accotement : NON"
+        "A": "Je reste en feux de croisement : OUI",
+        "B": "Je reste en feux de croisement : NON",
+        "C": "Je regarde vers l'accotement droit : OUI",
+        "D": "Je regarde vers l'accotement droit : NON"
       },
       "reponses": [
         "A",
         "C"
       ],
-      "explication": "Face à un usager en sens inverse de nuit, il faut rester en feux de croisement et porter son regard vers l'accotement droit pour ne pas être ébloui."
+      "explication": "Face à un usager en sens inverse de nuit, il faut rester en feux de croisement et porter son regard vers l'accotement droit pour ne pas être éblOUI."
     },
     {
       "id": "G30",
       "theme": "L",
       "fiche": "stationnement",
-      "enonce": "Entre les 2 véhicules à droite, le stationnement est :",
+      "eNONce": "Entre les 2 véhicules à droite, le stationnement est :",
       "options": {
         "A": "gratuit",
         "B": "payant",
@@ -460,7 +460,7 @@
       "id": "G31",
       "theme": "U",
       "fiche": "partage-espace",
-      "enonce": "Je tourne à droite à l'intersection :",
+      "eNONce": "Je tourne à droite à l'intersection :",
       "options": {
         "A": "je dépasse le cycliste",
         "B": "je lui fais signe de passer"
@@ -474,7 +474,7 @@
       "id": "G32",
       "theme": "R",
       "fiche": "distances",
-      "enonce": "A 130 km/h, la distance de sécurité équivaut à :",
+      "eNONce": "A 130 km/h, la distance de sécurité équivaut à :",
       "options": {
         "A": "1 trait de la bande d'arrêt d'urgence",
         "B": "2 traits de la bande d'arrêt d'urgence"
@@ -488,10 +488,10 @@
       "id": "G33",
       "theme": "L",
       "fiche": "intersections",
-      "enonce": "Je peux tourner à droite :",
+      "eNONce": "Je peux tourner à droite :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "B"
@@ -502,10 +502,10 @@
       "id": "G34",
       "theme": "E",
       "fiche": "ecomobilite",
-      "enonce": "L'auto partage permet de limiter la pollution :",
+      "eNONce": "L'auto partage permet de limiter la pollution :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "A"
@@ -516,10 +516,10 @@
       "id": "G35",
       "theme": "L",
       "fiche": "stationnement",
-      "enonce": "Le stationnement est unilatéral à alternance semi mensuelle dans toutes les rues de l'agglomération :",
+      "eNONce": "Le stationnement est unilatéral à alternance semi mensuelle dans toutes les rues de l'agglomération :",
       "options": {
-        "A": "oui",
-        "B": "non"
+        "A": "OUI",
+        "B": "NON"
       },
       "reponses": [
         "A"
@@ -530,7 +530,7 @@
       "id": "G36",
       "theme": "L",
       "fiche": "circulation",
-      "enonce": "Je circule sur une voie à sens unique : / Je peux dépasser :",
+      "eNONce": "Je circule sur une voie à sens unique : / Je peux dépasser :",
       "options": {
         "A": "voie à sens unique : OUI",
         "B": "voie à sens unique : NON",
@@ -547,7 +547,7 @@
       "id": "G37",
       "theme": "S",
       "fiche": "physique-conduite",
-      "enonce": "Le temps de réaction d'un conducteur en forme est d'environ 1 seconde, par temps sec : / par temps de pluie :",
+      "eNONce": "Le temps de réaction d'un conducteur en forme est d'environ 1 seconde, par temps sec : / par temps de pluie :",
       "options": {
         "A": "par temps sec : OUI",
         "B": "par temps sec : NON",
@@ -564,12 +564,12 @@
       "id": "G38",
       "theme": "L",
       "fiche": "signalisation",
-      "enonce": "Ce panneau signale le passage d'animaux sauvages : / Il s'agit d'un risque permanent :",
+      "eNONce": "Ce panneau signale ...",
       "options": {
-        "A": "passage d'animaux sauvages : OUI",
-        "B": "passage d'animaux sauvages : NON",
-        "C": "risque permanent : OUI",
-        "D": "risque permanent : NON"
+        "A": "le passage d'animaux sauvages : OUI",
+        "B": "le passage d'animaux sauvages : NON",
+        "C": "Il s'agit d'un risque permanent : OUI",
+        "D": "Il s'agit d'un risque permanent : NON"
       },
       "reponses": [
         "A",
@@ -581,25 +581,25 @@
       "id": "G39",
       "theme": "C",
       "fiche": "alcool",
-      "enonce": "L'alcool peut provoquer :",
+      "eNONce": "L'alcool peut provoquer :",
       "options": {
         "A": "une réduction du champ visuel",
         "B": "une diminution de la perception du risque",
         "C": "une diminution du temps de réaction",
-        "D": "une plus grande sensibilité aux éblouissements"
+        "D": "une plus grande sensibilité aux éblOUIssements"
       },
       "reponses": [
         "A",
         "B",
         "D"
       ],
-      "explication": "L'alcool entraîne une réduction du champ visuel, une diminution de la perception du risque, une augmentation (et non diminution) du temps de réaction, ainsi qu'une plus grande sensibilité aux éblouissements."
+      "explication": "L'alcool entraîne une réduction du champ visuel, une diminution de la perception du risque, une augmentation (et NON diminution) du temps de réaction, ainsi qu'une plus grande sensibilité aux éblOUIssements."
     },
     {
       "id": "G40",
       "theme": "L",
       "fiche": "signalisation",
-      "enonce": "Je vais rencontrer :",
+      "eNONce": "Je vais rencontrer :",
       "options": {
         "A": "une traversée de tramways",
         "B": "une traversée de bus",
@@ -608,7 +608,7 @@
       "reponses": [
         "A"
       ],
-      "explication": "Le panneau triangulaire de danger annonce une traversée de tramways, distinct du panneau bleu d'indication qui signale un arrêt."
+      "explication": "Le panneau triangulaire de danger anNONce une traversée de tramways, distinct du panneau bleu d'indication qui signale un arrêt."
     }
   ]
 }
