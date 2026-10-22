@@ -467,12 +467,12 @@
       "id": "E31",
       "theme": "R",
       "fiche": "distances",
-      "enonce": "L'intervalle de sécurité est suffisant à cette allure : / J'indique immédiatement mon dépassement :",
+      "enonce": "L'intervalle de sécurité ...",
       "options": {
-        "A": "l'intervalle est suffisant : OUI",
-        "B": "l'intervalle est suffisant : NON",
-        "C": "j'indique immédiatement : OUI",
-        "D": "j'indique immédiatement : NON"
+        "A": "est suffisant à cette allure : OUI",
+        "B": "est suffisant à cette allure : NON",
+        "C": "J'indique immédiatement mon dépassement : OUI",
+        "D": "J'indique immédiatement mon dépassement : NON"
       },
       "reponses": [
         "B",
