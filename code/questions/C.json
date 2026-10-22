@@ -438,10 +438,13 @@
       "enonce": "Pour amplifier le freinage, l'ABS peut être complété par :",
       "options": {
         "A": "l'AFU",
-        "B": "l'ESP"
+        "B": "l'ESP",
+        "C": "Ce système réduit les distances de freinage : OUI",
+        "D": "Ce système réduit les distances de freinage : NON"
       },
       "reponses": [
-        "A"
+        "A",
+        "D"
       ],
       "explication": "L'AFU (Assistance au Freinage d'Urgence) complète l'ABS en déclenchant un freinage à pleine puissance en cas d'urgence, tandis que l'ESP gère la stabilité de trajectoire."
     },
