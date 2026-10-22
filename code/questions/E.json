@@ -168,6 +168,7 @@
         "C": "une jonction d'autoroute"
       },
       "reponses": [
+        "A",
         "B"
       ],
       "explication": "Le panneau bleu annonce une bifurcation d'autoroute pour rejoindre l'A 61 en direction de Toulouse, et non une simple sortie d'autoroute."
@@ -282,16 +283,16 @@
       "id": "E19",
       "theme": "C",
       "fiche": "vigilance",
-      "enonce": "Je dois effectuer un long trajet. Il est recommandé :",
+      "enonce": "Je dois effectuer un long trajet. Il est recommandé d'éviter :",
       "options": {
-        "A": "d'éviter de prendre la route entre 13h et 16h : OUI",
-        "B": "d'éviter de prendre la route entre 13h et 16h : NON",
+        "A": "de prendre la route entre 13h et 16h : OUI",
+        "B": "de prendre la route entre 13h et 16h : NON",
         "C": "de conduire plus de 6 à 8 heures par jour : OUI",
         "D": "de conduire plus de 6 à 8 heures par jour : NON"
       },
       "reponses": [
         "A",
-        "D"
+        "C"
       ],
       "explication": "Pour lutter contre la baisse de vigilance, il est conseillé d'éviter de rouler aux heures les plus chaudes/favorables à la somnolence (13h-16h) et de ne pas dépasser 6 à 8 heures de conduite par jour."
     },
