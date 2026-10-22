@@ -247,10 +247,9 @@
         "C": "une perte de caractère prioritaire"
       },
       "reponses": [
-        "A",
         "C"
       ],
-      "explication": "Ce panneau met fin au caractère prioritaire de la route sur laquelle je circule. Le panonceau de distance précise que la perte du caractère prioritaire sera à 200 mètres. Aux prochaines intersections, je devrai donc me préparer à respecter les règles de priorité qui me seront indiquées par la signalisation en place. "
+      "explication": "Ce panneau met fin au caractère prioritaire de la route sur laquelle je circule. Le panonceau de distance précise que la perte du caractère prioritaire sera à 200 mètres."
     },
     {
       "id": "B17",
