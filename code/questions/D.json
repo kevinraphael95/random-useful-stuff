@@ -404,7 +404,7 @@
       "id": "D28",
       "theme": "M",
       "fiche": "voyants",
-      "enonce": "Ce voyant s'allume, il s'agit : d'une alerte sur un problème urgent : / d'un témoin servant d'aide mémoire :",
+      "enonce": "Ce voyant s'allume, il s'agit ...",
       "options": {
         "A": "d'une alerte sur un problème urgent : OUI",
         "B": "d'une alerte sur un problème urgent : NON",
