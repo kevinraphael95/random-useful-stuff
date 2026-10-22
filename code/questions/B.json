@@ -219,7 +219,7 @@
       "reponses": [
         "A"
       ],
-      "explication":"Un niveau d'huile inadapté peut entraîner une usure prématurée voire même une casse du moteur. Il est donc important de vérifier régulièrement le niveau d'huile. Pour ce faire, il suffit de tirer la jauge dont l'anneau dépasse du réservoir d'huile, de l'essuyer avec un chiffon et de la replonger. Ensuite, il faut retirer à nouveau la jauge et vous assurer que le niveau d'huile se situe bien entre le minimum et le maximum. Cette opération doit être effectuée toujours avec le moteur à froid. Pour compléter le niveau d'huile du moteur, il faut dévisser le bouchon A, qui correspond au réservoir d'huile. Le bouchon B permet d'accéder au liquide de frein, le bouchon C concerne le liquide de refroidissement et le bouchon D correspond au liquide lave-glace."
+      "explication": "Un niveau d'huile inadapté peut entraîner une usure prématurée voire même une casse du moteur. Il est donc important de vérifier régulièrement le niveau d'huile. Pour ce faire, il suffit de tirer la jauge dont l'anneau dépasse du réservoir d'huile, de l'essuyer avec un chiffon et de la replonger. Ensuite, il faut retirer à nouveau la jauge et vous assurer que le niveau d'huile se situe bien entre le minimum et le maximum. Cette opération doit être effectuée toujours avec le moteur à froid. Pour compléter le niveau d'huile du moteur, il faut dévisser le bouchon A, qui correspond au réservoir d'huile. Le bouchon B permet d'accéder au liquide de frein, le bouchon C concerne le liquide de refroidissement et le bouchon D correspond au liquide lave-glace."
     },
     {
       "id": "B15",
@@ -249,7 +249,7 @@
       "reponses": [
         "C"
       ],
-      "explication": "Ce panneau met fin au caractère prioritaire de la route sur laquelle je circule. Le panonceau de distance précise que la perte du caractère prioritaire sera à 200 mètres."
+      "explication": "Ce panneau met fin au caractère prioritaire de la route sur laquelle je circule. Le panonceau de distance précise que la perte du caractère prioritaire sera à 200 mètres. Aux prochaines intersections, je devrai donc me préparer à respecter les règles de priorité qui me seront indiquées par la signalisation en place. "
     },
     {
       "id": "B17",
@@ -545,7 +545,7 @@
         "B",
         "C"
       ],
-      "explication":"Le panneau indique une entrée de zone dans laquelle la vitesse est limitée à 30 km/h. Cette limitation débute à hauteur du panneau, elle s'applique dans toutes les rues adjacentes et prend fin avec le signal fin de zone. Ma vitesse sera donc limitée à 30km/h dans cette rue et dans les rues adjacentes."
+      "explication": "Le panneau indique une entrée de zone dans laquelle la vitesse est limitée à 30 km/h. Cette limitation débute à hauteur du panneau, elle s'applique dans toutes les rues adjacentes et prend fin avec le signal fin de zone. Ma vitesse sera donc limitée à 30km/h dans cette rue et dans les rues adjacentes."
     },
     {
       "id": "B37",
@@ -561,7 +561,7 @@
         "A",
         "B"
       ],
-      "explication":"Ce panneau annonce une priorité à droite. A la prochaine intersection, je devrai céder le passage aux usagers venant de droite. De plus, pour tourner à gauche, je devrai traverser la voie des usagers arrivant en face. Je ne dois pas gêner leur progression. Je serai donc dans l'obligation de leur laisser la priorité. "
+      "explication": "Ce panneau annonce une priorité à droite. A la prochaine intersection, je devrai céder le passage aux usagers venant de droite. De plus, pour tourner à gauche, je devrai traverser la voie des usagers arrivant en face. Je ne dois pas gêner leur progression. Je serai donc dans l'obligation de leur laisser la priorité. "
     },
     {
       "id": "B38",
