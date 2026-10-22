@@ -49,7 +49,7 @@
       "id": "G04",
       "theme": "L",
       "fiche": "vitesse",
-      "enonce": "Je peux rouler à 50 km/h / 70 km/h :",
+      "enonce": "Je peux rouler à ...",
       "options": {
         "A": "OUI",
         "B": "NON",
@@ -186,12 +186,12 @@
       "id": "G13",
       "theme": "L",
       "fiche": "chargement",
-      "enonce": "Le chargement sur le toit peut dépasser : - à l'avant / - à l'arrière",
+      "enonce": "Le chargement sur le toit peut dépasser ...",
       "options": {
-        "A": "OUI",
-        "B": "NON",
-        "C": "OUI",
-        "D": "NON"
+        "A": "à l'avant : OUI",
+        "B": "à l'avant : NON",
+        "C": "à l'arrière : OUI",
+        "D": "à l'arrière : NON"
       },
       "reponses": [
         "B",
@@ -530,12 +530,12 @@
       "id": "G36",
       "theme": "L",
       "fiche": "circulation",
-      "enonce": "Je circule sur une voie à sens unique : / Je peux dépasser :",
+      "enonce": "Je circule sur une voie à sens unique ?",
       "options": {
         "A": "voie à sens unique : OUI",
         "B": "voie à sens unique : NON",
-        "C": "je peux dépasser : OUI",
-        "D": "je peux dépasser : NON"
+        "C": "Je peux dépasser : OUI",
+        "D": "Je peux dépasser : NON"
       },
       "reponses": [
         "B",
