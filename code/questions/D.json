@@ -156,11 +156,14 @@
       "fiche": "physique-conduite",
       "enonce": "Sur une chaussée mouillée la distance de freinage est 2 fois plus importante :",
       "options": {
-        "A": "OUI",
-        "B": "NON"
+        "A": "La distance de freinage est 2 fois plus importante : OUI",
+        "B": "La distance de freinage est 2 fois plus importante : NON",
+        "C": "La distance d'arrêt augmente : OUI",
+        "D": "La distance d'arrêt augmente : NON"
       },
       "reponses": [
-        "A"
+        "A",
+        "C"
       ],
       "explication": "Sur route mouillée, l'adhérence diminue de moitié, ce qui multiplie par deux la distance de freinage nécessaire et augmente par conséquent la distance d'arrêt totale."
     },
@@ -507,9 +510,9 @@
         "B": "NON"
       },
       "reponses": [
-        "B"
+        "A"
       ],
-      "explication": "Sur autoroute, la distance de sécurité minimale obligatoire est d'au moins deux traits de la bande d'arrêt d'urgence. Si cette distance n'est pas respectée, elle est insuffisante."
+      "explication": "Le temps de réaction moyen est d'environ 1 seconde ; il faut laisser un intervalle de deux secondes avec le véhicule qui précède. Sur autoroute, cela correspond à environ deux traits de la bande d'arrêt d'urgence. Ici, cette distance est respectée."
     },
     {
       "id": "D35",
