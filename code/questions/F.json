@@ -211,7 +211,7 @@
         "D": "si je roule à 70km/h : NON"
       },
       "reponses": [
-        "B",
+        "A",
         "C"
       ],
       "explication": "Un panneau de signalisation spécifique peut imposer un intervalle minimal obligatoire (ici 100 mètres), qui s'applique quelle que soit la vitesse inférieure ou égale à la limite indiquée."
