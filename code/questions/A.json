@@ -1,7 +1,7 @@
 {
   "test": "Série A",
   "questions": [
-    {
+      {
       "id": "A01",
       "theme": "L",
       "fiche": "stationnement",
@@ -12,9 +12,10 @@
         "C": "à durée limitée"
       },
       "reponses": [
-        "A"
+        "B",
+        "C"
       ],
-      "explication": "La signalisation du parking (panneaux, marquage, horodateur) indique les conditions de stationnement : ici, il est gratuit."
+      "explication": "La signalisation du parking indique que le stationnement est à la fois payant et à durée limitée."
     },
     {
       "id": "A02",
