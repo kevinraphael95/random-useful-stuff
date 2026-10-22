@@ -1,7 +1,7 @@
 {
   "test": "Série A",
   "questions": [
-      {
+    {
       "id": "A01",
       "theme": "L",
       "fiche": "stationnement",
@@ -119,10 +119,9 @@
         "C": "une fois sur la bande d'arrêt d'urgence"
       },
       "reponses": [
-        "B",
-        "C"
+        "A"
       ],
-      "explication": "Quand un témoin impose l'arrêt, on ralentit d'abord, puis on allume les feux de détresse et on s'arrête en sécurité (sur autoroute, sur la bande d'arrêt d'urgence)."
+      "explication": "Quand un témoin rouge impose l'arrêt, j'allume immédiatement les feux de détresse, puis je m'arrête en sécurité."
     },
     {
       "id": "A09",
@@ -132,14 +131,15 @@
       "options": {
         "A": "Ce virage représente une zone de danger potentiel : OUI",
         "B": "Ce virage représente une zone de danger potentiel : NON",
-        "C": "Je peux y découvrir un usager vulnérable : OUI",
-        "D": "Je peux y découvrir un usager vulnérable : NON"
+        "C": "Je peux y découvrir : un usager vulnérable",
+        "D": "Je peux y découvrir : une intersection"
       },
       "reponses": [
         "A",
-        "C"
+        "C",
+        "D"
       ],
-      "explication": "Un virage sans visibilité est une zone de danger potentiel : on ralentit, car on peut y découvrir un usager vulnérable (piéton, cycliste)."
+      "explication": "Un virage sans visibilité est une zone de danger potentiel : on ralentit, car on peut y découvrir un usager vulnérable (piéton, cycliste) ou une intersection."
     },
     {
       "id": "A10",
@@ -154,9 +154,9 @@
       },
       "reponses": [
         "A",
-        "D"
+        "C"
       ],
-      "explication": "Le panneau signale une voie réservée à certains usagers (bus, cyclistes). Le covoiturage ne donne pas le droit de l'emprunter."
+      "explication": "Le panneau signale une voie réservée (bus, vélos, covoiturage) : si je covoiture, je peux l'emprunter."
     },
     {
       "id": "A11",
@@ -211,13 +211,14 @@
       "fiche": "circuler-communication",
       "enonce": "Une allure anormalement réduite :",
       "options": {
-        "A": "peut surprendre les autres usagers et risque de provoquer un accident : OUI",
-        "B": "peut surprendre les autres usagers et risque de provoquer un accident : NON",
-        "C": "justifie d'actionner les feux de détresse : OUI",
-        "D": "justifie d'actionner les feux de détresse : NON"
+        "A": "Une allure anormalement réduite peut surprendre les autres usagers",
+        "B": "Une allure anormalement réduite risque de provoquer un accident",
+        "C": "J'actionne les feux de détresse : OUI",
+        "D": "J'actionne les feux de détresse : NON"
       },
       "reponses": [
         "A",
+        "B",
         "C"
       ],
       "explication": "Une allure anormalement réduite surprend les autres usagers et peut provoquer un accident : on la signale en allumant les feux de détresse."
@@ -279,10 +280,10 @@
         "D": "Je me décale le plus à droite possible : NON"
       },
       "reponses": [
-        "B",
+        "A",
         "C"
       ],
-      "explication": "L'allure doit toujours être adaptée à la situation : ici, il faut ralentir et se décaler le plus à droite possible."
+      "explication": "Mon allure est adaptée à la situation et je me décale le plus à droite possible."
     },
     {
       "id": "A19",
