@@ -190,7 +190,7 @@
       "options": {
         "A": "les rétroviseurs, le siège, le volant",
         "B": "le siège, le volant, les rétroviseurs",
-        "C": "les rétroviseurs, le siège, le volant"
+        "C": "les rétroviseurs, le volant, le siège"
       },
       "reponses": [
         "B"
