@@ -51,10 +51,10 @@
       "fiche": "vitesse",
       "enonce": "Je peux rouler à ...",
       "options": {
-        "A": "OUI",
-        "B": "NON",
-        "C": "OUI",
-        "D": "NON"
+        "A": "50km/h : OUI",
+        "B": "50km/h : NON",
+        "C": "70km/h : OUI",
+        "D": "70km/h : NON"
       },
       "reponses": [
         "A",
@@ -96,10 +96,10 @@
       "fiche": "infractions",
       "enonce": "Conduire avec une consommation de stupéfiants, associée à un taux d'alcool, est passible :",
       "options": {
-        "A": "OUI",
-        "B": "NON",
-        "C": "OUI",
-        "D": "NON"
+        "A": "retrait de 6 points : OUI",
+        "B": "retrait de 6 points : NON",
+        "C": "suspension ou annulation de 3 ans : OUI",
+        "D": "suspension ou annulation de 3 ans : NON"
       },
       "reponses": [
         "A",
