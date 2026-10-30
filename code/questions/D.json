@@ -4,7 +4,7 @@
     {
       "id": "D01",
       "theme": "L",
-      "fiche": "signalisation",
+      "fiche": "placeholder",
       "enonce": "L'arrêt est obligatoire à hauteur du panneau :",
       "options": {
         "A": "OUI",
@@ -18,7 +18,7 @@
     {
       "id": "D02",
       "theme": "C",
-      "fiche": "vigilance",
+      "fiche": "placeholder",
       "enonce": "Chez le conducteur, une baisse de la vigilance peut provoquer :",
       "options": {
         "A": "une difficulté à maintenir une vitesse constante",
@@ -36,7 +36,7 @@
     {
       "id": "D03",
       "theme": "S",
-      "fiche": "passagers",
+      "fiche": "placeholder",
       "enonce": "Un siège bébé installé à l'avant du véhicule, doit être placé :",
       "options": {
         "A": "face à la route",
@@ -50,7 +50,7 @@
     {
       "id": "D04",
       "theme": "L",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je peux dépasser le camion :",
       "options": {
         "A": "OUI",
@@ -64,7 +64,7 @@
     {
       "id": "D05",
       "theme": "L",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je peux dépasser :",
       "options": {
         "A": "OUI",
@@ -78,7 +78,7 @@
     {
       "id": "D06",
       "theme": "D",
-      "fiche": "documents",
+      "fiche": "placeholder",
       "enonce": "Le premier contrôle technique d'un véhicule neuf s'effectue :",
       "options": {
         "A": "au cours des 6 mois avant le 2ème anniversaire",
@@ -93,7 +93,7 @@
     {
       "id": "D07",
       "theme": "C",
-      "fiche": "installation",
+      "fiche": "placeholder",
       "enonce": "Pour une bonne installation au poste de conduite, mes jambes doivent être :",
       "options": {
         "A": "tendues",
@@ -108,7 +108,7 @@
     {
       "id": "D08",
       "theme": "M",
-      "fiche": "voyants",
+      "fiche": "placeholder",
       "enonce": "Ce témoin s'est allumé depuis 30 secondes. Je peux utiliser cet emplacement pour m'arrêter :",
       "options": {
         "A": "OUI",
@@ -122,7 +122,7 @@
     {
       "id": "D09",
       "theme": "S",
-      "fiche": "equipements",
+      "fiche": "placeholder",
       "enonce": "L'airbag remplace la ceinture de sécurité :",
       "options": {
         "A": "OUI",
@@ -136,7 +136,7 @@
     {
       "id": "D10",
       "theme": "C",
-      "fiche": "distraction",
+      "fiche": "placeholder",
       "enonce": "Lorsque je téléphone au volant, je suis passible :",
       "options": {
         "A": "d'un retrait de points sur mon permis : OUI",
@@ -153,7 +153,7 @@
     {
       "id": "D11",
       "theme": "S",
-      "fiche": "physique-conduite",
+      "fiche": "placeholder",
       "enonce": "Sur une chaussée mouillée la distance de freinage est 2 fois plus importante :",
       "options": {
         "A": "La distance de freinage est 2 fois plus importante : OUI",
@@ -170,7 +170,7 @@
     {
       "id": "D12",
       "theme": "U",
-      "fiche": "partage-espace",
+      "fiche": "placeholder",
       "enonce": "Un piéton est plus en sécurité dans un lieu correspondant :",
       "options": {
         "A": "au panneau 1",
@@ -185,7 +185,7 @@
     {
       "id": "D13",
       "theme": "D",
-      "fiche": "documents",
+      "fiche": "placeholder",
       "enonce": "Le taux d'émission de CO2, est indiqué sur les cartes grises des véhicules récents :",
       "options": {
         "A": "OUI",
@@ -199,7 +199,7 @@
     {
       "id": "D14",
       "theme": "M",
-      "fiche": "equipements",
+      "fiche": "placeholder",
       "enonce": "Ce voyant indique, que le dégivrage de la lunette arrière est en fonctionnement :",
       "options": {
         "A": "OUI",
@@ -213,7 +213,7 @@
     {
       "id": "D15",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "Pendant la période de permis probatoire, la vitesse maximum autorisée sur autoroute est de :",
       "options": {
         "A": "130 km/h",
@@ -229,7 +229,7 @@
     {
       "id": "D16",
       "theme": "A",
-      "fiche": "premiers-secours",
+      "fiche": "placeholder",
       "enonce": "Pour sécuriser les lieux d'un accident, je positionne mon véhicule à hauteur des véhicules accidentés :",
       "options": {
         "A": "OUI",
@@ -243,7 +243,7 @@
     {
       "id": "D17",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Nous sommes le 4 du mois, dans cette agglomération, je devrai stationner :",
       "options": {
         "A": "du côté des immeubles portant les numéros pairs",
@@ -257,7 +257,7 @@
     {
       "id": "D18",
       "theme": "U",
-      "fiche": "pietons",
+      "fiche": "placeholder",
       "enonce": "Pour parcourir 1 km à pied, il faut environ :",
       "options": {
         "A": "8 minutes",
@@ -272,7 +272,7 @@
     {
       "id": "D19",
       "theme": "L",
-      "fiche": "priorites",
+      "fiche": "placeholder",
       "enonce": "Je vais tout droit :",
       "options": {
         "A": "je ralentis et je passe",
@@ -287,7 +287,7 @@
     {
       "id": "D20",
       "theme": "S",
-      "fiche": "equipements",
+      "fiche": "placeholder",
       "enonce": "Avant d'ouvrir ma portière pour quitter le véhicule, un coup d'œil dans le rétroviseur est suffisant :",
       "options": {
         "A": "OUI",
@@ -301,7 +301,7 @@
     {
       "id": "D21",
       "theme": "M",
-      "fiche": "commandes",
+      "fiche": "placeholder",
       "enonce": "Je m'arrête le long du trottoir à droite, pour faire descendre mon passager :",
       "options": {
         "A": "OUI",
@@ -315,7 +315,7 @@
     {
       "id": "D22",
       "theme": "L",
-      "fiche": "priorites",
+      "fiche": "placeholder",
       "enonce": "Les feux ne fonctionnent pas, je devrai céder le passage à la voiture grise :",
       "options": {
         "A": "OUI",
@@ -329,7 +329,7 @@
     {
       "id": "D23",
       "theme": "S",
-      "fiche": "freinage",
+      "fiche": "placeholder",
       "enonce": "En cas de freinage violent, l'ABS réduit les distances de freinage :",
       "options": {
         "A": "OUI",
@@ -343,7 +343,7 @@
     {
       "id": "D24",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Après ce panneau, le stationnement sera :",
       "options": {
         "A": "payant",
@@ -359,7 +359,7 @@
     {
       "id": "D25",
       "theme": "C",
-      "fiche": "statistiques",
+      "fiche": "placeholder",
       "enonce": "La majorité des accidents mortels, se produit à proximité de son lieu de vie :",
       "options": {
         "A": "OUI",
@@ -373,7 +373,7 @@
     {
       "id": "D26",
       "theme": "U",
-      "fiche": "pietons",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation, je laisse passer les piétons :",
       "options": {
         "A": "OUI",
@@ -387,7 +387,7 @@
     {
       "id": "D27",
       "theme": "C",
-      "fiche": "sante",
+      "fiche": "placeholder",
       "enonce": "J'ai une acuité visuelle à un œil inférieure ou égal à 1/10ème. Pour conduire, je dois avoir une acuité visuelle à l'autre œil de :",
       "options": {
         "A": "3/10ème",
@@ -403,7 +403,7 @@
     {
       "id": "D28",
       "theme": "M",
-      "fiche": "voyants",
+      "fiche": "placeholder",
       "enonce": "Ce voyant s'allume, il s'agit ...",
       "options": {
         "A": "d'une alerte sur un problème urgent : OUI",
@@ -420,7 +420,7 @@
     {
       "id": "D29",
       "theme": "E",
-      "fiche": "ecomobilite",
+      "fiche": "placeholder",
       "enonce": "Une conduite nerveuse peut augmenter la consommation de carburant de :",
       "options": {
         "A": "10%",
@@ -435,7 +435,7 @@
     {
       "id": "D30",
       "theme": "S",
-      "fiche": "physique-conduite",
+      "fiche": "placeholder",
       "enonce": "La distance d'arrêt est modifiée en fonction :",
       "options": {
         "A": "de la vigilance du conducteur",
@@ -453,7 +453,7 @@
     {
       "id": "D31",
       "theme": "M",
-      "fiche": "entretien",
+      "fiche": "placeholder",
       "enonce": "Rouler avec des pneus sous gonflés entraîne ...",
       "options": {
         "A": "une surconsommation de carburant : OUI",
@@ -470,7 +470,7 @@
     {
       "id": "D32",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "La limitation de vitesse à 30 km/h s'applique ...",
       "options": {
         "A": "jusqu'à la prochaine intersection : OUI",
@@ -487,7 +487,7 @@
     {
       "id": "D33",
       "theme": "M",
-      "fiche": "securite",
+      "fiche": "placeholder",
       "enonce": "Quels véhicules transportent des matières dangereuses :",
       "options": {
         "A": "le véhicule 1",
@@ -503,7 +503,7 @@
     {
       "id": "D34",
       "theme": "R",
-      "fiche": "autoroute",
+      "fiche": "placeholder",
       "enonce": "L'intervalle de sécurité entre mon véhicule et celui qui me précède est suffisant :",
       "options": {
         "A": "OUI",
@@ -517,7 +517,7 @@
     {
       "id": "D35",
       "theme": "S",
-      "fiche": "physique-conduite",
+      "fiche": "placeholder",
       "enonce": "La distance de freinage varie, avec la vitesse : / l'état de la chaussée :",
       "options": {
         "A": "avec la vitesse : OUI",
@@ -534,7 +534,7 @@
     {
       "id": "D36",
       "theme": "S",
-      "fiche": "equipements",
+      "fiche": "placeholder",
       "enonce": "Retirer l'appui-tête n'a pas d'impact sur la sécurité du conducteur :",
       "options": {
         "A": "OUI",
@@ -548,7 +548,7 @@
     {
       "id": "D37",
       "theme": "D",
-      "fiche": "permis",
+      "fiche": "placeholder",
       "enonce": "J'ai obtenu mon permis sur un véhicule à boîte de vitesse automatique, pour pouvoir conduire un véhicule à boîte de vitesse manuelle, je devrai :",
       "options": {
         "A": "repasser l'épreuve du permis de conduire sur une boîte manuelle : OUI",
@@ -565,7 +565,7 @@
     {
       "id": "D38",
       "theme": "D",
-      "fiche": "infractions",
+      "fiche": "placeholder",
       "enonce": "Conduire sous l'emprise de stupéfiant est passible :",
       "options": {
         "A": "d'une amende",
@@ -583,7 +583,7 @@
     {
       "id": "D39",
       "theme": "L",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je continue le dépassement :",
       "options": {
         "A": "OUI",
@@ -597,7 +597,7 @@
     {
       "id": "D40",
       "theme": "U",
-      "fiche": "pietons",
+      "fiche": "placeholder",
       "enonce": "Je circule hors agglomération. Pour croiser ce piéton je dois laisser un intervalle latéral d'au moins :",
       "options": {
         "A": "0,50 mètre",

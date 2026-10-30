@@ -4,7 +4,7 @@
     {
       "id": "B01",
       "theme": "D",
-      "fiche": "infractions",
+      "fiche": "placeholder",
       "enonce": "L'utilisation d'un téléphone portable en conduisant est passible :",
       "options": {
         "A": "d'une amende de 135 euros",
@@ -21,7 +21,7 @@
     {
       "id": "B02",
       "theme": "R",
-      "fiche": "zones-dangereuses",
+      "fiche": "placeholder",
       "enonce": "En cas d'incendie dans le tunnel, je serai à l'abri dans :",
       "options": {
         "A": "L'issue de secours : OUI",
@@ -38,7 +38,7 @@
     {
       "id": "B03",
       "theme": "R",
-      "fiche": "conditions-difficiles",
+      "fiche": "placeholder",
       "enonce": "Lorsque la chaussée est mouillée :",
       "options": {
         "A": "le temps de réaction augmente",
@@ -54,7 +54,7 @@
     {
       "id": "B04",
       "theme": "R",
-      "fiche": "conditions-difficiles",
+      "fiche": "placeholder",
       "enonce": "La nuit, les accidents corporels sont :",
       "options": {
         "A": "plus nombreux : OUI",
@@ -71,7 +71,7 @@
     {
       "id": "B05",
       "theme": "L",
-      "fiche": "croiser-depasser",
+      "fiche": "placeholder",
       "enonce": "Je circule hors agglomération, pour dépasser ce piéton je dois laisser un intervalle latéral d'au moins :",
       "options": {
         "A": "0,50 mètre",
@@ -86,7 +86,7 @@
     {
       "id": "B06",
       "theme": "R",
-      "fiche": "zones-dangereuses",
+      "fiche": "placeholder",
       "enonce": "A ce passage à niveau, si aucun train n'arrive je marque l'arrêt avant de passer :",
       "options": {
         "A": "OUI",
@@ -100,7 +100,7 @@
     {
       "id": "B07",
       "theme": "C",
-      "fiche": "alcool",
+      "fiche": "placeholder",
       "enonce": "Pendant la période du permis probatoire, un jeune conducteur est en infraction si son taux d'alcool dans le sang atteint :",
       "options": {
         "A": "0,10 grammes par litre de sang",
@@ -116,7 +116,7 @@
     {
       "id": "B08",
       "theme": "A",
-      "fiche": "premiers-secours",
+      "fiche": "placeholder",
       "enonce": "L'utilisation d'un défibrillateur automatique :",
       "options": {
         "A": "nécessite une formation",
@@ -133,7 +133,7 @@
     {
       "id": "B09",
       "theme": "L",
-      "fiche": "vitesse-consequences",
+      "fiche": "placeholder",
       "enonce": "Le temps de réaction augmente avec la vitesse :",
       "options": {
         "A": "OUI",
@@ -147,7 +147,7 @@
     {
       "id": "B10",
       "theme": "E",
-      "fiche": "choisir-vehicule",
+      "fiche": "placeholder",
       "enonce": "A puissance égale, un véhicule équipé d'un moteur essence consomme moins qu'un véhicule équipé d'un moteur diesel :",
       "options": {
         "A": "OUI",
@@ -161,7 +161,7 @@
     {
       "id": "B11",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "L'interdiction de stationner :",
       "options": {
         "A": "commence à hauteur du panneau",
@@ -178,7 +178,7 @@
     {
       "id": "B12",
       "theme": "C",
-      "fiche": "etat-physique",
+      "fiche": "placeholder",
       "enonce": "Une perte de la vigilance peut être causée par :",
       "options": {
         "A": "la prise de certains médicaments",
@@ -194,7 +194,7 @@
     {
       "id": "B13",
       "theme": "M",
-      "fiche": "entretien",
+      "fiche": "placeholder",
       "enonce": "Dans les stations essence, un code couleur définit le type de carburant :",
       "options": {
         "A": "OUI",
@@ -208,7 +208,7 @@
     {
       "id": "B14",
       "theme": "M",
-      "fiche": "entretien",
+      "fiche": "placeholder",
       "enonce": "Il manque de l'huile moteur. Pour en ajouter, je dévisse le bouchon :",
       "options": {
         "A": "A",
@@ -224,7 +224,7 @@
     {
       "id": "B15",
       "theme": "C",
-      "fiche": "etat-physique",
+      "fiche": "placeholder",
       "enonce": "J'effectue un long trajet, il est conseillé de faire une pause toutes les :",
       "options": {
         "A": "2 heures",
@@ -239,7 +239,7 @@
     {
       "id": "B16",
       "theme": "L",
-      "fiche": "panneaux-priorite",
+      "fiche": "placeholder",
       "enonce": "La signalisation indique :",
       "options": {
         "A": "une route à caractère prioritaire",
@@ -254,7 +254,7 @@
     {
       "id": "B17",
       "theme": "C",
-      "fiche": "circuler-communication",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation, je peux utiliser l'avertisseur sonore :",
       "options": {
         "A": "OUI",
@@ -268,7 +268,7 @@
     {
       "id": "B18",
       "theme": "L",
-      "fiche": "intersections-complexes",
+      "fiche": "placeholder",
       "enonce": "Après ce panneau :",
       "options": {
         "A": "la vitesse est limitée à 50 km/h : OUI",
@@ -285,7 +285,7 @@
     {
       "id": "B19",
       "theme": "L",
-      "fiche": "croiser-depasser",
+      "fiche": "placeholder",
       "enonce": "Je peux dépasser :",
       "options": {
         "A": "OUI",
@@ -299,7 +299,7 @@
     {
       "id": "B20",
       "theme": "M",
-      "fiche": "eclairage",
+      "fiche": "placeholder",
       "enonce": "Je suis dans l'obligation de posséder une boîte d'ampoules de rechange dans mon véhicule :",
       "options": {
         "A": "OUI",
@@ -313,7 +313,7 @@
     {
       "id": "B21",
       "theme": "U",
-      "fiche": "autres-usagers",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "je ralentis, et je m'arrête",
@@ -327,7 +327,7 @@
     {
       "id": "B22",
       "theme": "S",
-      "fiche": "securite",
+      "fiche": "placeholder",
       "enonce": "L'ESP, ou correcteur électronique de trajectoire, améliore la tenue de route :",
       "options": {
         "A": "OUI",
@@ -341,7 +341,7 @@
     {
       "id": "B23",
       "theme": "L",
-      "fiche": "signalisation-panneaux",
+      "fiche": "placeholder",
       "enonce": "Ce panneau indique :",
       "options": {
         "A": "une succession de virages : OUI",
@@ -358,7 +358,7 @@
     {
       "id": "B24",
       "theme": "L",
-      "fiche": "croiser-depasser",
+      "fiche": "placeholder",
       "enonce": "Je continue le dépassement :",
       "options": {
         "A": "OUI",
@@ -372,7 +372,7 @@
     {
       "id": "B25",
       "theme": "E",
-      "fiche": "ecoconduite",
+      "fiche": "placeholder",
       "enonce": "Le système « Stop and Start » permet :",
       "options": {
         "A": "d'économiser du carburant : OUI",
@@ -389,7 +389,7 @@
     {
       "id": "B26",
       "theme": "L",
-      "fiche": "se-croiser",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation, le croisement est impossible. Je dois reculer pour laisser passer le bus :",
       "options": {
         "A": "OUI",
@@ -403,7 +403,7 @@
     {
       "id": "B27",
       "theme": "C",
-      "fiche": "alcool",
+      "fiche": "placeholder",
       "enonce": "L'emballage des médicaments potentiellement dangereux pour la conduite comporte un logo triangulaire :",
       "options": {
         "A": "OUI",
@@ -417,7 +417,7 @@
     {
       "id": "B28",
       "theme": "L",
-      "fiche": "croiser-depasser",
+      "fiche": "placeholder",
       "enonce": "Pour dépasser ce cycliste, je dois laisser un intervalle minimum de :",
       "options": {
         "A": "0,50 mètre",
@@ -432,7 +432,7 @@
     {
       "id": "B29",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Pour stationner dans une descente, il est préférable de tourner les roues du côté du trottoir :",
       "options": {
         "A": "OUI",
@@ -446,7 +446,7 @@
     {
       "id": "B30",
       "theme": "E",
-      "fiche": "ecoconduite",
+      "fiche": "placeholder",
       "enonce": "Dans une descente, pour économiser du carburant, je peux rouler au point mort :",
       "options": {
         "A": "OUI",
@@ -460,7 +460,7 @@
     {
       "id": "B31",
       "theme": "D",
-      "fiche": "documents",
+      "fiche": "placeholder",
       "enonce": "Lors d'un contrôle de police, je dois présenter :",
       "options": {
         "A": "mon permis de conduire",
@@ -477,7 +477,7 @@
     {
       "id": "B32",
       "theme": "M",
-      "fiche": "entretien",
+      "fiche": "placeholder",
       "enonce": "Sur un pneu, ce témoin permet de mesurer l'usure de la bande de roulement :",
       "options": {
         "A": "OUI",
@@ -491,7 +491,7 @@
     {
       "id": "B33",
       "theme": "S",
-      "fiche": "securite",
+      "fiche": "placeholder",
       "enonce": "L'aide au freinage d'urgence, est obligatoirement liée à la présence d'un système d'anti blocage de roues :",
       "options": {
         "A": "OUI",
@@ -505,7 +505,7 @@
     {
       "id": "B34",
       "theme": "S",
-      "fiche": "securite-passager",
+      "fiche": "placeholder",
       "enonce": "A 50 km/h, en cas de choc frontal, si je ne porte pas ma ceinture, je peux me cramponner au volant pour éviter de heurter le pare-brise :",
       "options": {
         "A": "OUI",
@@ -519,7 +519,7 @@
     {
       "id": "B35",
       "theme": "D",
-      "fiche": "documents",
+      "fiche": "placeholder",
       "enonce": "Je suis propriétaire d'un véhicule en état de circuler. J'ai l'obligation de souscrire une assurance automobile :",
       "options": {
         "A": "OUI",
@@ -533,7 +533,7 @@
     {
       "id": "B36",
       "theme": "U",
-      "fiche": "partage-rue",
+      "fiche": "placeholder",
       "enonce": "La vitesse est limitée à 30 km/h :",
       "options": {
         "A": "dans cette rue uniquement : OUI",
@@ -550,7 +550,7 @@
     {
       "id": "B37",
       "theme": "L",
-      "fiche": "priorites",
+      "fiche": "placeholder",
       "enonce": "A la prochaine intersection, je tournerai à gauche. Je me prépare à céder le passage aux usagers venant :",
       "options": {
         "A": "de droite",
@@ -566,7 +566,7 @@
     {
       "id": "B38",
       "theme": "P",
-      "fiche": "entrer-sortir",
+      "fiche": "placeholder",
       "enonce": "Je peux ouvrir la portière pour quitter mon véhicule :",
       "options": {
         "A": "OUI",
@@ -580,7 +580,7 @@
     {
       "id": "B39",
       "theme": "M",
-      "fiche": "mecanique",
+      "fiche": "placeholder",
       "enonce": "Dans un véhicule équipé d'une boîte automatique, le mode D correspond à la marche avant :",
       "options": {
         "A": "OUI",
@@ -594,7 +594,7 @@
     {
       "id": "B40",
       "theme": "D",
-      "fiche": "permis-points",
+      "fiche": "placeholder",
       "enonce": "Un stage de sensibilisation à la sécurité routière, me permet de récupérer au maximum :",
       "options": {
         "A": "3 points",

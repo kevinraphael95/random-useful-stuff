@@ -4,7 +4,7 @@
     {
       "id": "A01",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Dans ce parking, le stationnement est :",
       "options": {
         "A": "gratuit",
@@ -20,7 +20,7 @@
     {
       "id": "A02",
       "theme": "C",
-      "fiche": "conducteur",
+      "fiche": "placeholder",
       "enonce": "La lecture d'un SMS ou d'une notification en conduisant multiplie le risque d'accident par :",
       "options": {
         "A": "5",
@@ -35,7 +35,7 @@
     {
       "id": "A03",
       "theme": "R",
-      "fiche": "zones-dangereuses",
+      "fiche": "placeholder",
       "enonce": "La barrière du passage à niveau est endommagée, j'utilise ce téléphone :",
       "options": {
         "A": "OUI",
@@ -49,7 +49,7 @@
     {
       "id": "A04",
       "theme": "E",
-      "fiche": "ecoconduite",
+      "fiche": "placeholder",
       "enonce": "L'autonomie d'un véhicule électrique varie en fonction :",
       "options": {
         "A": "du style de conduite : OUI",
@@ -66,7 +66,7 @@
     {
       "id": "A05",
       "theme": "U",
-      "fiche": "autres-usagers",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "En dépassant, le conducteur risque de ne pas détecter le piéton : OUI",
@@ -83,7 +83,7 @@
     {
       "id": "A06",
       "theme": "R",
-      "fiche": "conditions-difficiles",
+      "fiche": "placeholder",
       "enonce": "Afin de dégivrer le pare-brise, il est préférable :",
       "options": {
         "A": "d'enclencher le désembuage et d'utiliser un grattoir",
@@ -97,7 +97,7 @@
     {
       "id": "A07",
       "theme": "C",
-      "fiche": "circuler-communication",
+      "fiche": "placeholder",
       "enonce": "Souhaitant s'engager dans la circulation, l'automobiliste a actionné son clignotant gauche au bon moment :",
       "options": {
         "A": "OUI",
@@ -111,7 +111,7 @@
     {
       "id": "A08",
       "theme": "M",
-      "fiche": "voyants",
+      "fiche": "placeholder",
       "enonce": "L'allumage de ce témoin m'impose l'arrêt. J'allume les feux de détresse :",
       "options": {
         "A": "immédiatement",
@@ -126,7 +126,7 @@
     {
       "id": "A09",
       "theme": "C",
-      "fiche": "conducteur",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "Ce virage représente une zone de danger potentiel : OUI",
@@ -144,7 +144,7 @@
     {
       "id": "A10",
       "theme": "U",
-      "fiche": "autres-usagers",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "Ce panneau indique une voie réservée : OUI",
@@ -161,7 +161,7 @@
     {
       "id": "A11",
       "theme": "E",
-      "fiche": "choisir-vehicule",
+      "fiche": "placeholder",
       "enonce": "À l'achat d'un véhicule neuf, une étiquette énergie m'informe :",
       "options": {
         "A": "de la consommation moyenne en énergie",
@@ -177,7 +177,7 @@
     {
       "id": "A12",
       "theme": "D",
-      "fiche": "permis-points",
+      "fiche": "placeholder",
       "enonce": "La formation complémentaire post permis permet :",
       "options": {
         "A": "de récupérer des points perdus : OUI",
@@ -194,7 +194,7 @@
     {
       "id": "A13",
       "theme": "L",
-      "fiche": "circuler-regles",
+      "fiche": "placeholder",
       "enonce": "Le conducteur de ce véhicule désire se garer. Il a la priorité sur le motard :",
       "options": {
         "A": "OUI",
@@ -208,7 +208,7 @@
     {
       "id": "A14",
       "theme": "C",
-      "fiche": "circuler-communication",
+      "fiche": "placeholder",
       "enonce": "Une allure anormalement réduite :",
       "options": {
         "A": "Une allure anormalement réduite peut surprendre les autres usagers",
@@ -226,7 +226,7 @@
     {
       "id": "A15",
       "theme": "L",
-      "fiche": "priorites",
+      "fiche": "placeholder",
       "enonce": "Pour tourner à gauche à cette intersection, je passe :",
       "options": {
         "A": "avant ce véhicule",
@@ -240,7 +240,7 @@
     {
       "id": "A16",
       "theme": "R",
-      "fiche": "conditions-difficiles",
+      "fiche": "placeholder",
       "enonce": "En période hivernale, si mon véhicule n'est pas équipé de 4 pneus neige, j'ai l'obligation d'avoir des chaînes à neige à bord :",
       "options": {
         "A": "OUI",
@@ -254,7 +254,7 @@
     {
       "id": "A17",
       "theme": "S",
-      "fiche": "securite",
+      "fiche": "placeholder",
       "enonce": "L'ESP permet :",
       "options": {
         "A": "de passer plus vite en virage : OUI",
@@ -271,7 +271,7 @@
     {
       "id": "A18",
       "theme": "L",
-      "fiche": "vitesse-consequences",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "Mon allure est adaptée à la situation : OUI",
@@ -288,7 +288,7 @@
     {
       "id": "A19",
       "theme": "M",
-      "fiche": "mecanique",
+      "fiche": "placeholder",
       "enonce": "La trappe à carburant est toujours située à droite :",
       "options": {
         "A": "OUI",
@@ -302,7 +302,7 @@
     {
       "id": "A20",
       "theme": "L",
-      "fiche": "vitesse-consequences",
+      "fiche": "placeholder",
       "enonce": "Pour évaluer la distance parcourue pendant le temps de réaction à 50 km/h, il faut multiplier 5 par :",
       "options": {
         "A": "3",
@@ -317,7 +317,7 @@
     {
       "id": "A21",
       "theme": "S",
-      "fiche": "securite",
+      "fiche": "placeholder",
       "enonce": "Selon la distance avec l'obstacle, les signaux sonores et visuels varient :",
       "options": {
         "A": "OUI",
@@ -331,7 +331,7 @@
     {
       "id": "A22",
       "theme": "R",
-      "fiche": "zones-dangereuses",
+      "fiche": "placeholder",
       "enonce": "Le tramway venant de passer, le conducteur de cette voiture :",
       "options": {
         "A": "peut s'engager même si le feu est toujours clignotant",
@@ -345,7 +345,7 @@
     {
       "id": "A23",
       "theme": "C",
-      "fiche": "circuler-communication",
+      "fiche": "placeholder",
       "enonce": "Klaxonner en ville est autorisé :",
       "options": {
         "A": "pour inciter un conducteur à démarrer plus vite",
@@ -361,7 +361,7 @@
     {
       "id": "A24",
       "theme": "L",
-      "fiche": "feux-agents",
+      "fiche": "placeholder",
       "enonce": "Les cyclistes peuvent tourner à droite :",
       "options": {
         "A": "uniquement lorsque le feu est vert",
@@ -375,7 +375,7 @@
     {
       "id": "A25",
       "theme": "L",
-      "fiche": "signalisation-panneaux",
+      "fiche": "placeholder",
       "enonce": "Le danger annoncé :",
       "options": {
         "A": "commence à 150 m",
@@ -392,7 +392,7 @@
     {
       "id": "A26",
       "theme": "U",
-      "fiche": "autres-usagers",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "L'allumage des feux de recul est un indicateur du risque de manoeuvre de ce véhicule : OUI",
@@ -409,7 +409,7 @@
     {
       "id": "A27",
       "theme": "S",
-      "fiche": "securite",
+      "fiche": "placeholder",
       "enonce": "L'aide au maintien dans la voie :",
       "options": {
         "A": "fonctionne dans toutes les situations : OUI",
@@ -426,7 +426,7 @@
     {
       "id": "A28",
       "theme": "R",
-      "fiche": "autoroute",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation, ce véhicule est bien placé :",
       "options": {
         "A": "OUI",
@@ -439,7 +439,7 @@
     {
       "id": "A29",
       "theme": "U",
-      "fiche": "autres-usagers",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation :",
       "options": {
         "A": "Cet enfant, utilisateur d'une trottinette non motorisée, est assimilé à un piéton : OUI",
@@ -456,7 +456,7 @@
     {
       "id": "A30",
       "theme": "L",
-      "fiche": "priorites",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation, le véhicule A cède le passage au véhicule B :",
       "options": {
         "A": "OUI",
@@ -470,7 +470,7 @@
     {
       "id": "A31",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Un disque de stationnement est obligatoire pour stationner sur l'emplacement :",
       "options": {
         "A": "A",
@@ -483,7 +483,7 @@
     {
       "id": "A32",
       "theme": "C",
-      "fiche": "conducteur",
+      "fiche": "placeholder",
       "enonce": "Pour passer un appel, j'utilise de préférence :",
       "options": {
         "A": "la numérotation manuelle sur l'écran",
@@ -497,7 +497,7 @@
     {
       "id": "A33",
       "theme": "R",
-      "fiche": "autoroute",
+      "fiche": "placeholder",
       "enonce": "À 130 km/h, sur autoroute, un intervalle de sécurité de 2 secondes correspond à :",
       "options": {
         "A": "1 trait de la bande d'arrêt d'urgence",
@@ -512,7 +512,7 @@
     {
       "id": "A34",
       "theme": "U",
-      "fiche": "autres-usagers",
+      "fiche": "placeholder",
       "enonce": "Pour être vu du conducteur du camion je dois :",
       "options": {
         "A": "me rapprocher du poids lourd",
@@ -528,7 +528,7 @@
     {
       "id": "A35",
       "theme": "L",
-      "fiche": "signalisation-panneaux",
+      "fiche": "placeholder",
       "enonce": "Cette signalisation concerne les véhicules affectés au transport de marchandises :",
       "options": {
         "A": "de plus de 3,5 tonnes seulement",
@@ -542,7 +542,7 @@
     {
       "id": "A36",
       "theme": "M",
-      "fiche": "entretien",
+      "fiche": "placeholder",
       "enonce": "Il est préférable que le niveau de liquide de refroidissement se situe :",
       "options": {
         "A": "légèrement en-dessous du repère maximum",
@@ -556,7 +556,7 @@
     {
       "id": "A37",
       "theme": "R",
-      "fiche": "autoroute",
+      "fiche": "placeholder",
       "enonce": "Sur autoroute, en cas de panne, j'emmène les passagers :",
       "options": {
         "A": "derrière la glissière de sécurité",
@@ -570,7 +570,7 @@
     {
       "id": "A38",
       "theme": "C",
-      "fiche": "etat-physique",
+      "fiche": "placeholder",
       "enonce": "Lors d'un long trajet, je limite la fatigue :",
       "options": {
         "A": "en évitant de consommer un médicament comportant un pictogramme",
@@ -587,7 +587,7 @@
     {
       "id": "A39",
       "theme": "E",
-      "fiche": "ecomobilite",
+      "fiche": "placeholder",
       "enonce": "Avant de faire un long trajet en véhicule électrique, je vérifie la charge de la batterie :",
       "options": {
         "A": "OUI",
@@ -601,7 +601,7 @@
     {
       "id": "A40",
       "theme": "U",
-      "fiche": "autres-usagers",
+      "fiche": "placeholder",
       "enonce": "Un arrêt sur une bande cyclable :",
       "options": {
         "A": "peut mettre ce cycliste en danger",

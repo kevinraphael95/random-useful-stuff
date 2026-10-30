@@ -4,7 +4,7 @@
     {
       "id": "C01",
       "theme": "M",
-      "fiche": "entretien",
+      "fiche": "placeholder",
       "enonce": "Des pneus sous-gonflés entraînent :",
       "options": {
         "A": "une surconsommation de carburant",
@@ -22,7 +22,7 @@
     {
       "id": "C02",
       "theme": "C",
-      "fiche": "conducteur",
+      "fiche": "placeholder",
       "enonce": "Le facteur humain apparaît dans 90 % des accidents de la route :",
       "options": {
         "A": "OUI",
@@ -36,7 +36,7 @@
     {
       "id": "C03",
       "theme": "M",
-      "fiche": "entretien",
+      "fiche": "placeholder",
       "enonce": "Une surconsommation de carburant peut être causée par :",
       "options": {
         "A": "un filtre à air encrassé",
@@ -52,7 +52,7 @@
     {
       "id": "C04",
       "theme": "S",
-      "fiche": "securite",
+      "fiche": "placeholder",
       "enonce": "La ceinture de sécurité de cette conductrice est bouclée correctement :",
       "options": {
         "A": "OUI",
@@ -66,7 +66,7 @@
     {
       "id": "C05",
       "theme": "M",
-      "fiche": "voyants",
+      "fiche": "placeholder",
       "enonce": "Ce voyant concerne l'usure des plaquettes de frein :",
       "options": {
         "A": "OUI",
@@ -80,7 +80,7 @@
     {
       "id": "C06",
       "theme": "S",
-      "fiche": "physique-conduite",
+      "fiche": "placeholder",
       "enonce": "Circuler sur une chaussée mouillée allonge :",
       "options": {
         "A": "mon temps de réaction",
@@ -97,7 +97,7 @@
     {
       "id": "C07",
       "theme": "R",
-      "fiche": "autoroute",
+      "fiche": "placeholder",
       "enonce": "Les lumières bleues annoncent un refuge :",
       "options": {
         "A": "OUI",
@@ -111,7 +111,7 @@
     {
       "id": "C08",
       "theme": "L",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je peux dépasser le cycliste :",
       "options": {
         "A": "OUI",
@@ -125,7 +125,7 @@
     {
       "id": "C09",
       "theme": "U",
-      "fiche": "pietons",
+      "fiche": "placeholder",
       "enonce": "Chez les piétons, la classe d'âge la plus touchée par les accidents mortels est :",
       "options": {
         "A": "les 0-14 ans",
@@ -141,7 +141,7 @@
     {
       "id": "C10",
       "theme": "U",
-      "fiche": "cyclistes",
+      "fiche": "placeholder",
       "enonce": "Pour dépasser ces cyclistes, l'intervalle latéral minimum doit être égal à :",
       "options": {
         "A": "0,50 mètre",
@@ -156,7 +156,7 @@
     {
       "id": "C11",
       "theme": "S",
-      "fiche": "equipements",
+      "fiche": "placeholder",
       "enonce": "Certains régulateurs de vitesse aident au maintien des distances de sécurité à l'avant :",
       "options": {
         "A": "OUI",
@@ -170,7 +170,7 @@
     {
       "id": "C12",
       "theme": "E",
-      "fiche": "ecomobilite",
+      "fiche": "placeholder",
       "enonce": "2 kilomètres à vélo sont parcourus en moyenne :",
       "options": {
         "A": "en 8 minutes",
@@ -185,7 +185,7 @@
     {
       "id": "C13",
       "theme": "C",
-      "fiche": "installation",
+      "fiche": "placeholder",
       "enonce": "Pour être bien installé au poste de conduite, je dois régler dans l'ordre :",
       "options": {
         "A": "les rétroviseurs, le siège, le volant",
@@ -200,7 +200,7 @@
     {
       "id": "C14",
       "theme": "L",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "La signalisation autorise le dépassement d'un cycliste :",
       "options": {
         "A": "OUI",
@@ -214,7 +214,7 @@
     {
       "id": "C15",
       "theme": "A",
-      "fiche": "premiers-secours",
+      "fiche": "placeholder",
       "enonce": "Le triangle de présignalisation doit être placé :",
       "options": {
         "A": "à 10 mètres environ",
@@ -228,7 +228,7 @@
     {
       "id": "C16",
       "theme": "A",
-      "fiche": "premiers-secours",
+      "fiche": "placeholder",
       "enonce": "Pour protéger les lieux d'un accident du risque d'incendie, je peux :",
       "options": {
         "A": "recouvrir de terre les produits inflammables répandus sur le sol : OUI",
@@ -245,7 +245,7 @@
     {
       "id": "C17",
       "theme": "S",
-      "fiche": "passagers",
+      "fiche": "placeholder",
       "enonce": "Un enfant peut s'installer à l'avant du véhicule à partir de :",
       "options": {
         "A": "6 ans",
@@ -261,7 +261,7 @@
     {
       "id": "C18",
       "theme": "C",
-      "fiche": "communication",
+      "fiche": "placeholder",
       "enonce": "Hors agglomération, pour signaler ma présence, je peux faire usage de l'avertisseur sonore :",
       "options": {
         "A": "de jour : OUI",
@@ -278,7 +278,7 @@
     {
       "id": "C19",
       "theme": "C",
-      "fiche": "conducteur",
+      "fiche": "placeholder",
       "enonce": "Une mauvaise installation au poste de conduite :",
       "options": {
         "A": "augmente la fatigue du conducteur : OUI",
@@ -295,7 +295,7 @@
     {
       "id": "C20",
       "theme": "E",
-      "fiche": "environnement",
+      "fiche": "placeholder",
       "enonce": "Ne pas respecter les interdictions en cas de pic de pollution :",
       "options": {
         "A": "est passible d'une amende : OUI",
@@ -312,7 +312,7 @@
     {
       "id": "C21",
       "theme": "L",
-      "fiche": "priorites",
+      "fiche": "placeholder",
       "enonce": "Je dois céder le passage à la voiture bleue :",
       "options": {
         "A": "OUI",
@@ -326,7 +326,7 @@
     {
       "id": "C22",
       "theme": "L",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je peux dépasser ce véhicule :",
       "options": {
         "A": "OUI",
@@ -340,7 +340,7 @@
     {
       "id": "C23",
       "theme": "L",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je peux dépasser ce cycliste :",
       "options": {
         "A": "OUI",
@@ -354,7 +354,7 @@
     {
       "id": "C24",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "Après les panneaux, je pourrai rouler à :",
       "options": {
         "A": "20 km/h",
@@ -371,7 +371,7 @@
     {
       "id": "C25",
       "theme": "D",
-      "fiche": "infractions",
+      "fiche": "placeholder",
       "enonce": "Si je n'obéis pas à cet agent qui me fait signe de m'arrêter, j'encours :",
       "options": {
         "A": "une amende pouvant aller jusqu'à 15 000 euros : OUI",
@@ -388,7 +388,7 @@
     {
       "id": "C26",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "La limitation de vitesse à 30 km/h s'applique :",
       "options": {
         "A": "à partir du panneau : OUI",
@@ -405,7 +405,7 @@
     {
       "id": "C27",
       "theme": "S",
-      "fiche": "securite",
+      "fiche": "placeholder",
       "enonce": "Par temps de brouillard, lorsque la visibilité est inférieure à 50 mètres, je dois laisser un intervalle de sécurité minimum de :",
       "options": {
         "A": "50 mètres",
@@ -420,7 +420,7 @@
     {
       "id": "C28",
       "theme": "R",
-      "fiche": "autoroute",
+      "fiche": "placeholder",
       "enonce": "Je suis bien placé pour prendre l'autoroute d'en face :",
       "options": {
         "A": "OUI",
@@ -434,7 +434,7 @@
     {
       "id": "C29",
       "theme": "S",
-      "fiche": "freinage",
+      "fiche": "placeholder",
       "enonce": "Pour amplifier le freinage, l'ABS peut être complété par :",
       "options": {
         "A": "l'AFU",
@@ -451,7 +451,7 @@
     {
       "id": "C30",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "L'interdiction de stationner débute :",
       "options": {
         "A": "à hauteur du panneau",
@@ -466,7 +466,7 @@
     {
       "id": "C31",
       "theme": "U",
-      "fiche": "pietons",
+      "fiche": "placeholder",
       "enonce": "Je roule à 20 km/h, dans cette situation :",
       "options": {
         "A": "je freine et je m'arrête",
@@ -481,7 +481,7 @@
     {
       "id": "C32",
       "theme": "R",
-      "fiche": "autoroute",
+      "fiche": "placeholder",
       "enonce": "Je roule à 130 km/h. La distance de sécurité avec le véhicule qui me précède doit être équivalente à :",
       "options": {
         "A": "un trait de la bande d'arrêt d'urgence",
@@ -495,7 +495,7 @@
     {
       "id": "C33",
       "theme": "S",
-      "fiche": "physique-conduite",
+      "fiche": "placeholder",
       "enonce": "L'augmentation du temps de réaction allonge :",
       "options": {
         "A": "la distance de freinage : OUI",
@@ -512,7 +512,7 @@
     {
       "id": "C34",
       "theme": "D",
-      "fiche": "documents",
+      "fiche": "placeholder",
       "enonce": "En cas de contrôle de police, je dois obligatoirement présenter l'attestation d'assurance de mon véhicule :",
       "options": {
         "A": "OUI",
@@ -526,7 +526,7 @@
     {
       "id": "C35",
       "theme": "R",
-      "fiche": "autoroute",
+      "fiche": "placeholder",
       "enonce": "La distance avec le véhicule qui me précède est suffisante :",
       "options": {
         "A": "OUI",
@@ -540,7 +540,7 @@
     {
       "id": "C36",
       "theme": "L",
-      "fiche": "priorites",
+      "fiche": "placeholder",
       "enonce": "À l'approche de cette intersection, je m'apprête à céder le passage :",
       "options": {
         "A": "à droite : OUI",
@@ -557,7 +557,7 @@
     {
       "id": "C37",
       "theme": "L",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je continue le dépassement :",
       "options": {
         "A": "OUI",
@@ -571,7 +571,7 @@
     {
       "id": "C38",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "En roulant à 90 km/h, je parcours environ :",
       "options": {
         "A": "18 mètres par seconde",
@@ -586,7 +586,7 @@
     {
       "id": "C39",
       "theme": "M",
-      "fiche": "freinage",
+      "fiche": "placeholder",
       "enonce": "L'humidité peut entraîner une perte d'efficacité du système de freinage :",
       "options": {
         "A": "OUI",
@@ -600,7 +600,7 @@
     {
       "id": "C40",
       "theme": "M",
-      "fiche": "equipements",
+      "fiche": "placeholder",
       "enonce": "Il est conseillé de changer les balais d'essuie-glaces tous les ans :",
       "options": {
         "A": "OUI",

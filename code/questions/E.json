@@ -4,7 +4,7 @@
     {
       "id": "E01",
       "theme": "L",
-      "fiche": "apprentissage",
+      "fiche": "placeholder",
       "enonce": "Pour s'inscrire à l'apprentissage anticipé de la conduite, il faut être au minimum âgé de :",
       "options": {
         "A": "15 ans",
@@ -19,7 +19,7 @@
     {
       "id": "E02",
       "theme": "M",
-      "fiche": "feux",
+      "fiche": "placeholder",
       "enonce": "Pour croiser ce véhicule en toute sécurité, je suis obligé d'éteindre :",
       "options": {
         "A": "les feux de croisement : OUI",
@@ -36,7 +36,7 @@
     {
       "id": "E03",
       "theme": "S",
-      "fiche": "temps-reaction",
+      "fiche": "placeholder",
       "enonce": "Le temps de réaction d'un conducteur augmente :",
       "options": {
         "A": "quand le conducteur est fatigué : OUI",
@@ -53,7 +53,7 @@
     {
       "id": "E04",
       "theme": "S",
-      "fiche": "equipements",
+      "fiche": "placeholder",
       "enonce": "Si mon véhicule est équipé d'un airbag, je suis dispensé du port de la ceinture :",
       "options": {
         "A": "OUI",
@@ -67,7 +67,7 @@
     {
       "id": "E05",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "La limitation de vitesse s'applique :",
       "options": {
         "A": "à partir du panneau : OUI",
@@ -84,7 +84,7 @@
     {
       "id": "E06",
       "theme": "C",
-      "fiche": "vigilance",
+      "fiche": "placeholder",
       "enonce": "Je conduis depuis environ 4 heures :",
       "options": {
         "A": "je ralentis et je continue",
@@ -98,7 +98,7 @@
     {
       "id": "E07",
       "theme": "M",
-      "fiche": "voyants",
+      "fiche": "placeholder",
       "enonce": "Ce voyant concerne le fonctionnement :",
       "options": {
         "A": "des feux de brouillard arrière",
@@ -113,7 +113,7 @@
     {
       "id": "E08",
       "theme": "L",
-      "fiche": "infractions",
+      "fiche": "placeholder",
       "enonce": "Téléphoner en conduisant peut être sanctionné par :",
       "options": {
         "A": "une amende",
@@ -129,7 +129,7 @@
     {
       "id": "E09",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Pour stationner dans une pente, il est préférable d'enclencher une vitesse :",
       "options": {
         "A": "OUI",
@@ -143,7 +143,7 @@
     {
       "id": "E10",
       "theme": "M",
-      "fiche": "entretien",
+      "fiche": "placeholder",
       "enonce": "Un filtre à air encrassé peut augmenter :",
       "options": {
         "A": "la consommation de carburant : OUI",
@@ -160,7 +160,7 @@
     {
       "id": "E11",
       "theme": "L",
-      "fiche": "signalisation",
+      "fiche": "placeholder",
       "enonce": "Je vais rencontrer :",
       "options": {
         "A": "une sortie d'autoroute",
@@ -176,7 +176,7 @@
     {
       "id": "E12",
       "theme": "M",
-      "fiche": "voyants",
+      "fiche": "placeholder",
       "enonce": "Le tunnel fait 6 kilomètres. Ce voyant vient de s'allumer, je m'arrête au prochain refuge :",
       "options": {
         "A": "OUI",
@@ -190,7 +190,7 @@
     {
       "id": "E13",
       "theme": "L",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Le véhicule gris roule à 70 km/h, je continue mon dépassement :",
       "options": {
         "A": "OUI",
@@ -204,7 +204,7 @@
     {
       "id": "E14",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "La signalisation indique :",
       "options": {
         "A": "une fin de limitation de vitesse à 70 km/h : OUI",
@@ -221,7 +221,7 @@
     {
       "id": "E15",
       "theme": "C",
-      "fiche": "installation",
+      "fiche": "placeholder",
       "enonce": "Pour une bonne installation au poste de conduite :",
       "options": {
         "A": "les bras doivent être tendus : OUI",
@@ -238,7 +238,7 @@
     {
       "id": "E16",
       "theme": "M",
-      "fiche": "entretien",
+      "fiche": "placeholder",
       "enonce": "Si mon véhicule pollue trop, je risque :",
       "options": {
         "A": "une amende",
@@ -254,7 +254,7 @@
     {
       "id": "E17",
       "theme": "U",
-      "fiche": "partage-espace",
+      "fiche": "placeholder",
       "enonce": "Pour dépasser ce cycliste, je manifeste ma présence en utilisant l'avertisseur sonore :",
       "options": {
         "A": "OUI",
@@ -268,7 +268,7 @@
     {
       "id": "E18",
       "theme": "L",
-      "fiche": "priorites",
+      "fiche": "placeholder",
       "enonce": "L'arrêt est obligatoire à hauteur du panneau :",
       "options": {
         "A": "OUI",
@@ -282,7 +282,7 @@
     {
       "id": "E19",
       "theme": "C",
-      "fiche": "vigilance",
+      "fiche": "placeholder",
       "enonce": "Je dois effectuer un long trajet. Il est recommandé d'éviter :",
       "options": {
         "A": "de prendre la route entre 13h et 16h : OUI",
@@ -299,7 +299,7 @@
     {
       "id": "E20",
       "theme": "C",
-      "fiche": "installation",
+      "fiche": "placeholder",
       "enonce": "Le siège conducteur est réglable :",
       "options": {
         "A": "en hauteur : OUI",
@@ -316,7 +316,7 @@
     {
       "id": "E21",
       "theme": "C",
-      "fiche": "statistiques",
+      "fiche": "placeholder",
       "enonce": "Les accidents de la route sont la première cause de mortalité chez les jeunes :",
       "options": {
         "A": "OUI",
@@ -330,7 +330,7 @@
     {
       "id": "E22",
       "theme": "M",
-      "fiche": "entretien",
+      "fiche": "placeholder",
       "enonce": "Il est recommandé de changer les balais d'essuie-glaces tous les 2 ans :",
       "options": {
         "A": "OUI",
@@ -344,7 +344,7 @@
     {
       "id": "E23",
       "theme": "L",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Le tracteur roule doucement, je peux le dépasser :",
       "options": {
         "A": "OUI",
@@ -358,7 +358,7 @@
     {
       "id": "E24",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "À partir du panneau, la vitesse est limitée à :",
       "options": {
         "A": "30 km/h",
@@ -373,7 +373,7 @@
     {
       "id": "E25",
       "theme": "M",
-      "fiche": "voyants",
+      "fiche": "placeholder",
       "enonce": "Ce témoin concerne :",
       "options": {
         "A": "L'usure des plaquettes de frein",
@@ -388,7 +388,7 @@
     {
       "id": "E26",
       "theme": "L",
-      "fiche": "infractions",
+      "fiche": "placeholder",
       "enonce": "Si Je commets un excès de vitesse de 40 km/h, J'encours :",
       "options": {
         "A": "une amende",
@@ -406,7 +406,7 @@
     {
       "id": "E27",
       "theme": "M",
-      "fiche": "pneumatiques",
+      "fiche": "placeholder",
       "enonce": "La profondeur des sculptures d'un pneumatique ne doit pas être inférieure à :",
       "options": {
         "A": "1,6 millimètres",
@@ -421,7 +421,7 @@
     {
       "id": "E28",
       "theme": "C",
-      "fiche": "distraction",
+      "fiche": "placeholder",
       "enonce": "Je suis passible d'un retrait de points :",
       "options": {
         "A": "dans la situation 1 (téléphone tenu en main) : OUI",
@@ -438,7 +438,7 @@
     {
       "id": "E29",
       "theme": "A",
-      "fiche": "premiers-secours",
+      "fiche": "placeholder",
       "enonce": "En cas de non assistance à personne en danger, je suis passible d'une peine de prison :",
       "options": {
         "A": "OUI",
@@ -452,7 +452,7 @@
     {
       "id": "E30",
       "theme": "L",
-      "fiche": "infractions",
+      "fiche": "placeholder",
       "enonce": "Le défaut d'assurance automobile constitue un délit :",
       "options": {
         "A": "OUI",
@@ -466,7 +466,7 @@
     {
       "id": "E31",
       "theme": "R",
-      "fiche": "distances",
+      "fiche": "placeholder",
       "enonce": "L'intervalle de sécurité ...",
       "options": {
         "A": "est suffisant à cette allure : OUI",
@@ -483,7 +483,7 @@
     {
       "id": "E32",
       "theme": "M",
-      "fiche": "pneumatiques",
+      "fiche": "placeholder",
       "enonce": "Un pneu sous-gonflé :",
       "options": {
         "A": "adhère moins à la route : OUI",
@@ -500,7 +500,7 @@
     {
       "id": "E33",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Après le panneau, je pourrai stationner :",
       "options": {
         "A": "OUI",
@@ -514,7 +514,7 @@
     {
       "id": "E34",
       "theme": "M",
-      "fiche": "pneumatiques",
+      "fiche": "placeholder",
       "enonce": "Des pneus sous-gonflés entraînent :",
       "options": {
         "A": "une surconsommation de carburant",
@@ -532,7 +532,7 @@
     {
       "id": "E35",
       "theme": "S",
-      "fiche": "physique-conduite",
+      "fiche": "placeholder",
       "enonce": "Je roule à 50 km/h, la distance d'arrêt sur route sèche sera de :",
       "options": {
         "A": "10 mètres",
@@ -548,7 +548,7 @@
     {
       "id": "E36",
       "theme": "U",
-      "fiche": "pietons",
+      "fiche": "placeholder",
       "enonce": "Hors agglomération, pour dépasser un cycliste, l'intervalle latéral de sécurité doit être au moins égal à :",
       "options": {
         "A": "0,50 mètre",
@@ -563,7 +563,7 @@
     {
       "id": "E37",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Sur cet emplacement, seuls les titulaires de cette carte peuvent :",
       "options": {
         "A": "stationner : OUI",
@@ -580,7 +580,7 @@
     {
       "id": "E38",
       "theme": "C",
-      "fiche": "sante",
+      "fiche": "placeholder",
       "enonce": "Pour dépasser le seuil légal d'alcoolémie, il suffit de boire :",
       "options": {
         "A": "1 verre d'alcool",
@@ -595,7 +595,7 @@
     {
       "id": "E39",
       "theme": "L",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je peux dépasser le véhicule blanc :",
       "options": {
         "A": "par la droite : OUI",
@@ -612,7 +612,7 @@
     {
       "id": "E40",
       "theme": "E",
-      "fiche": "ecomobilite",
+      "fiche": "placeholder",
       "enonce": "Afin d'éviter la surconsommation avec un véhicule essence, le changement de vitesse se fait :",
       "options": {
         "A": "entre 500 et 1000 tours",

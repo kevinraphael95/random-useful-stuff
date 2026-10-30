@@ -4,7 +4,7 @@
     {
       "id": "G01",
       "theme": "L",
-      "fiche": "signalisation",
+      "fiche": "placeholder",
       "enonce": "Dans un tunnel, une issue de secours est indiquée par le panneau :",
       "options": {
         "A": "N°1",
@@ -20,7 +20,7 @@
     {
       "id": "G02",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "La limitation de vitesse à 70 km/h concerne toutes les rues de « le Comte » :",
       "options": {
         "A": "OUI",
@@ -34,7 +34,7 @@
     {
       "id": "G03",
       "theme": "R",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je dépasse :",
       "options": {
         "A": "OUI",
@@ -48,7 +48,7 @@
     {
       "id": "G04",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "Je peux rouler à ...",
       "options": {
         "A": "50km/h : OUI",
@@ -65,7 +65,7 @@
     {
       "id": "G05",
       "theme": "C",
-      "fiche": "vigilance",
+      "fiche": "placeholder",
       "enonce": "L'indice le plus important est :",
       "options": {
         "A": "Le marquage au sol",
@@ -79,7 +79,7 @@
     {
       "id": "G06",
       "theme": "R",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je peux dépasser :",
       "options": {
         "A": "OUI",
@@ -93,7 +93,7 @@
     {
       "id": "G07",
       "theme": "L",
-      "fiche": "infractions",
+      "fiche": "placeholder",
       "enonce": "Conduire avec une consommation de stupéfiants, associée à un taux d'alcool, est passible :",
       "options": {
         "A": "retrait de 6 points : OUI",
@@ -110,7 +110,7 @@
     {
       "id": "G08",
       "theme": "L",
-      "fiche": "signalisation",
+      "fiche": "placeholder",
       "enonce": "La signalisation annonce qu'à 1700 mètres je rencontrerai :",
       "options": {
         "A": "une route à accès réglementé",
@@ -125,7 +125,7 @@
     {
       "id": "G09",
       "theme": "E",
-      "fiche": "ecomobilite",
+      "fiche": "placeholder",
       "enonce": "Pour un trajet occasionnel et court, le service éco-mobile le plus adapté est :",
       "options": {
         "A": "l'auto partage",
@@ -140,7 +140,7 @@
     {
       "id": "G10",
       "theme": "L",
-      "fiche": "infractions",
+      "fiche": "placeholder",
       "enonce": "J'ai prêté mon véhicule à un ami. S'il commet un excès de vitesse constaté par un radar fixe automatique, je devrai payer l'amende :",
       "options": {
         "A": "OUI",
@@ -154,7 +154,7 @@
     {
       "id": "G11",
       "theme": "R",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je peux dépasser :",
       "options": {
         "A": "OUI",
@@ -168,7 +168,7 @@
     {
       "id": "G12",
       "theme": "M",
-      "fiche": "equipements",
+      "fiche": "placeholder",
       "enonce": "Mon véhicule est équipé de l'appel d'urgence eCall ...",
       "options": {
         "A": "Il est géolocalisé : OUI",
@@ -185,7 +185,7 @@
     {
       "id": "G13",
       "theme": "L",
-      "fiche": "chargement",
+      "fiche": "placeholder",
       "enonce": "Le chargement sur le toit peut dépasser ...",
       "options": {
         "A": "à l'avant : OUI",
@@ -202,7 +202,7 @@
     {
       "id": "G14",
       "theme": "L",
-      "fiche": "circulation",
+      "fiche": "placeholder",
       "enonce": "Je circule à 65 km/h. Je suis bien placé :",
       "options": {
         "A": "OUI",
@@ -216,7 +216,7 @@
     {
       "id": "G15",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "Je suis jeune conducteur, après ce panneau, je pourrai rouler à 90km/h ...",
       "options": {
         "A": "par beau temps : OUI",
@@ -233,7 +233,7 @@
     {
       "id": "G16",
       "theme": "C",
-      "fiche": "substances",
+      "fiche": "placeholder",
       "enonce": "Je peux être contrôlé positif à l'usage du cannabis plusieurs jours après consommation :",
       "options": {
         "A": "OUI",
@@ -247,7 +247,7 @@
     {
       "id": "G17",
       "theme": "E",
-      "fiche": "ecomobilite",
+      "fiche": "placeholder",
       "enonce": "En ville, pour faire un trajet de 2 kilomètres le transport le moins polluant est :",
       "options": {
         "A": "la voiture",
@@ -262,7 +262,7 @@
     {
       "id": "G18",
       "theme": "L",
-      "fiche": "signalisation",
+      "fiche": "placeholder",
       "enonce": "La limitation de vitesse prend effet :",
       "options": {
         "A": "à partir du panneau",
@@ -276,7 +276,7 @@
     {
       "id": "G19",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "Je ne dois pas dépasser 50 km/h :",
       "options": {
         "A": "OUI",
@@ -290,7 +290,7 @@
     {
       "id": "G20",
       "theme": "S",
-      "fiche": "anticipation",
+      "fiche": "placeholder",
       "enonce": "Les zones d'incertitude de ces usagers vulnérable ... ",
       "options": {
         "A": "me concernent : OUI",
@@ -307,7 +307,7 @@
     {
       "id": "G21",
       "theme": "R",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je peux dépasser ce camion :",
       "options": {
         "A": "OUI",
@@ -321,7 +321,7 @@
     {
       "id": "G22",
       "theme": "A",
-      "fiche": "premiers-secours",
+      "fiche": "placeholder",
       "enonce": "De nuit, pour sécuriser les lieux d'un accident, je peux signaler la position des véhicules accidentés, en les éclairant avec une lampe torche :",
       "options": {
         "A": "OUI",
@@ -335,7 +335,7 @@
     {
       "id": "G23",
       "theme": "L",
-      "fiche": "priorites",
+      "fiche": "placeholder",
       "enonce": "A la prochaine intersection, je devrai céder le passage à droite :",
       "options": {
         "A": "OUI",
@@ -349,7 +349,7 @@
     {
       "id": "G24",
       "theme": "C",
-      "fiche": "vigilance",
+      "fiche": "placeholder",
       "enonce": "Je dois effectuer un long trajet. Pour limiter les risques d'accidents liés à la fatigue :",
       "options": {
         "A": "je prépare mon itinéraire",
@@ -365,7 +365,7 @@
     {
       "id": "G25",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Je vais entrer dans une zone de stationnement par disque :",
       "options": {
         "A": "OUI",
@@ -379,7 +379,7 @@
     {
       "id": "G26",
       "theme": "M",
-      "fiche": "vision",
+      "fiche": "placeholder",
       "enonce": "J'ai une acuité visuelle à un œil inférieure ou égale à 1/10ème. Pour conduire, je dois avoir une acuité visuelle à l'autre œil de :",
       "options": {
         "A": "3/10ème",
@@ -395,7 +395,7 @@
     {
       "id": "G27",
       "theme": "L",
-      "fiche": "priorites",
+      "fiche": "placeholder",
       "enonce": "Je vais tout droit :",
       "options": {
         "A": "je cède le passage au véhicule gris",
@@ -412,7 +412,7 @@
     {
       "id": "G28",
       "theme": "L",
-      "fiche": "circulation",
+      "fiche": "placeholder",
       "enonce": "Je suis bien placé pour dépasser le véhicule noir :",
       "options": {
         "A": "OUI",
@@ -426,7 +426,7 @@
     {
       "id": "G29",
       "theme": "M",
-      "fiche": "feux",
+      "fiche": "placeholder",
       "enonce": "Conducteur du véhicule blanc :",
       "options": {
         "A": "Je reste en feux de croisement : OUI",
@@ -443,7 +443,7 @@
     {
       "id": "G30",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Entre les 2 véhicules à droite, le stationnement est :",
       "options": {
         "A": "gratuit",
@@ -459,7 +459,7 @@
     {
       "id": "G31",
       "theme": "U",
-      "fiche": "partage-espace",
+      "fiche": "placeholder",
       "enonce": "Je tourne à droite à l'intersection :",
       "options": {
         "A": "je dépasse le cycliste",
@@ -473,7 +473,7 @@
     {
       "id": "G32",
       "theme": "R",
-      "fiche": "distances",
+      "fiche": "placeholder",
       "enonce": "A 130 km/h, la distance de sécurité équivaut à :",
       "options": {
         "A": "1 trait de la bande d'arrêt d'urgence",
@@ -487,7 +487,7 @@
     {
       "id": "G33",
       "theme": "L",
-      "fiche": "intersections",
+      "fiche": "placeholder",
       "enonce": "Je peux tourner à droite :",
       "options": {
         "A": "OUI",
@@ -501,7 +501,7 @@
     {
       "id": "G34",
       "theme": "E",
-      "fiche": "ecomobilite",
+      "fiche": "placeholder",
       "enonce": "L'auto partage permet de limiter la pollution :",
       "options": {
         "A": "OUI",
@@ -515,7 +515,7 @@
     {
       "id": "G35",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Le stationnement est unilatéral à alternance semi mensuelle dans toutes les rues de l'agglomération :",
       "options": {
         "A": "OUI",
@@ -529,7 +529,7 @@
     {
       "id": "G36",
       "theme": "L",
-      "fiche": "circulation",
+      "fiche": "placeholder",
       "enonce": "Je circule sur une voie à sens unique ?",
       "options": {
         "A": "voie à sens unique : OUI",
@@ -546,7 +546,7 @@
     {
       "id": "G37",
       "theme": "S",
-      "fiche": "physique-conduite",
+      "fiche": "placeholder",
       "enonce": "Le temps de réaction d'un conducteur en forme est d'environ 1 seconde ...",
       "options": {
         "A": "par temps sec : OUI",
@@ -563,7 +563,7 @@
     {
       "id": "G38",
       "theme": "L",
-      "fiche": "signalisation",
+      "fiche": "placeholder",
       "enonce": "Ce panneau signale ...",
       "options": {
         "A": "le passage d'animaux sauvages : OUI",
@@ -580,7 +580,7 @@
     {
       "id": "G39",
       "theme": "C",
-      "fiche": "alcool",
+      "fiche": "placeholder",
       "enonce": "L'alcool peut provoquer :",
       "options": {
         "A": "une réduction du champ visuel",
@@ -598,7 +598,7 @@
     {
       "id": "G40",
       "theme": "L",
-      "fiche": "signalisation",
+      "fiche": "placeholder",
       "enonce": "Je vais rencontrer :",
       "options": {
         "A": "une traversée de tramways",

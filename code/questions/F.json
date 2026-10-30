@@ -4,7 +4,7 @@
     {
       "id": "F01",
       "theme": "M",
-      "fiche": "feux",
+      "fiche": "placeholder",
       "enonce": "Les feux de croisement éclairent davantage à droite qu'à gauche :",
       "options": {
         "A": "OUI",
@@ -18,7 +18,7 @@
     {
       "id": "F02",
       "theme": "R",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je roule à 90 km/h. Je continue mon dépassement :",
       "options": {
         "A": "OUI",
@@ -32,7 +32,7 @@
     {
       "id": "F03",
       "theme": "E",
-      "fiche": "pollution",
+      "fiche": "placeholder",
       "enonce": "Les équipements automobiles qui permettent la réduction de la pollution atmosphérique sont ...",
       "options": {
         "A": "le pot catalytique : OUI",
@@ -49,7 +49,7 @@
     {
       "id": "F04",
       "theme": "L",
-      "fiche": "assurance",
+      "fiche": "placeholder",
       "enonce": "Je suis responsable d'un accident avec des dégâts matériels. La garantie responsabilité civile rembourse les réparations :",
       "options": {
         "A": "sur mon véhicule : OUI",
@@ -66,7 +66,7 @@
     {
       "id": "F05",
       "theme": "S",
-      "fiche": "ceinture",
+      "fiche": "placeholder",
       "enonce": "Le port de la ceinture de sécurité est obligatoire :",
       "options": {
         "A": "à l'avant : OUI",
@@ -83,7 +83,7 @@
     {
       "id": "F06",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Nous sommes le 28 du mois, je peux stationner après le panneau :",
       "options": {
         "A": "OUI",
@@ -97,7 +97,7 @@
     {
       "id": "F07",
       "theme": "A",
-      "fiche": "premiers-secours",
+      "fiche": "placeholder",
       "enonce": "J'arrive le premier sur le lieu d'un accident. Je dois obligatoirement m'arrêter :",
       "options": {
         "A": "Oui",
@@ -111,7 +111,7 @@
     {
       "id": "F08",
       "theme": "C",
-      "fiche": "gps",
+      "fiche": "placeholder",
       "enonce": "L'utilisation du GPS peut permettre de réduire la distance parcourue :",
       "options": {
         "A": "Oui",
@@ -125,7 +125,7 @@
     {
       "id": "F09",
       "theme": "L",
-      "fiche": "signalisation",
+      "fiche": "placeholder",
       "enonce": "Je vais rencontrer des feux tricolores :",
       "options": {
         "A": "à 50 mètres",
@@ -139,7 +139,7 @@
     {
       "id": "F10",
       "theme": "L",
-      "fiche": "signalisation",
+      "fiche": "placeholder",
       "enonce": "Je vais rencontrer un arrêt de bus ou un arrêt de tramway :",
       "options": {
         "A": "un arrêt de bus : OUI",
@@ -156,7 +156,7 @@
     {
       "id": "F11",
       "theme": "C",
-      "fiche": "alcool",
+      "fiche": "placeholder",
       "enonce": "Environ 30 % des accidents mortels sont associés à une alcoolémie positive :",
       "options": {
         "A": "Oui",
@@ -170,7 +170,7 @@
     {
       "id": "F12",
       "theme": "U",
-      "fiche": "partage-espace",
+      "fiche": "placeholder",
       "enonce": "Le long du trottoir de droite, je peux :",
       "options": {
         "A": "m'arrêter : OUI",
@@ -187,7 +187,7 @@
     {
       "id": "F13",
       "theme": "S",
-      "fiche": "physique-conduite",
+      "fiche": "placeholder",
       "enonce": "Sur autoroute, si je roule à 90 km/h au lieu de 130 km/h, la résistance à l'air est :",
       "options": {
         "A": "constante",
@@ -202,7 +202,7 @@
     {
       "id": "F14",
       "theme": "R",
-      "fiche": "distances",
+      "fiche": "placeholder",
       "enonce": "Je dois laisser un intervalle de 100 mètres entre mon véhicule et celui qui me précède :",
       "options": {
         "A": "si je roule à 80km/h : OUI",
@@ -219,7 +219,7 @@
     {
       "id": "F15",
       "theme": "U",
-      "fiche": "partage-espace",
+      "fiche": "placeholder",
       "enonce": "La signalisation...",
       "options": {
         "A": "... interdit le dépassement : OUI",
@@ -236,7 +236,7 @@
     {
       "id": "F16",
       "theme": "C",
-      "fiche": "statistiques",
+      "fiche": "placeholder",
       "enonce": "Les 18-24 ans représentent...",
       "options": {
         "A": "8 % de la population française : OUI",
@@ -253,7 +253,7 @@
     {
       "id": "F17",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Je peux m'arrêter à gauche le long du trottoir pour déposer un passager :",
       "options": {
         "A": "Oui",
@@ -267,7 +267,7 @@
     {
       "id": "F18",
       "theme": "R",
-      "fiche": "depassement",
+      "fiche": "placeholder",
       "enonce": "Je continue le dépassement :",
       "options": {
         "A": "Oui",
@@ -281,7 +281,7 @@
     {
       "id": "F19",
       "theme": "U",
-      "fiche": "partage-espace",
+      "fiche": "placeholder",
       "enonce": "Je peux dépasser ce cycliste :",
       "options": {
         "A": "Oui",
@@ -295,7 +295,7 @@
     {
       "id": "F20",
       "theme": "R",
-      "fiche": "distances",
+      "fiche": "placeholder",
       "enonce": "Je circule à 110 km/h, je dois laisser avec le véhicule qui me précède une distance de sécurité d'environ :",
       "options": {
         "A": "42 mètres",
@@ -310,7 +310,7 @@
     {
       "id": "F21",
       "theme": "L",
-      "fiche": "infractions",
+      "fiche": "placeholder",
       "enonce": "Pendant la période du permis probatoire, un jeune conducteur contrôlé avec un taux d'alcoolémie, supérieur ou égal à 0,20g/ litre de sang, encourt :",
       "options": {
         "A": "un retrait de 6 points sur son permis de conduire : OUI",
@@ -328,7 +328,7 @@
     {
       "id": "F22",
       "theme": "C",
-      "fiche": "gps",
+      "fiche": "placeholder",
       "enonce": "L'utilisation du GPS peut permettre de réduire le temps de trajet :",
       "options": {
         "A": "Oui",
@@ -342,7 +342,7 @@
     {
       "id": "F23",
       "theme": "U",
-      "fiche": "partage-espace",
+      "fiche": "placeholder",
       "enonce": "Je circule hors agglomération. Pour dépasser ce cycliste, je devrai laisser un intervalle latéral d'au moins ...",
       "options": {
         "A": "1 mètre",
@@ -359,7 +359,7 @@
     {
       "id": "F24",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "Après le panneau, je peux rouler à :",
       "options": {
         "A": "30 km/h",
@@ -375,7 +375,7 @@
     {
       "id": "F25",
       "theme": "R",
-      "fiche": "distances",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation, pour éviter la projection de gravillons sur mon pare-brise ...",
       "options": {
         "A": "je ralenti : OUI",
@@ -392,7 +392,7 @@
     {
       "id": "F26",
       "theme": "M",
-      "fiche": "adherence",
+      "fiche": "placeholder",
       "enonce": "Dans cette situation ...",
       "options": {
         "A": "il y a risque d'aquaplanage : OUI",
@@ -409,7 +409,7 @@
     {
       "id": "F27",
       "theme": "M",
-      "fiche": "feux",
+      "fiche": "placeholder",
       "enonce": "Je peux rouler :",
       "options": {
         "A": "en feux de position seuls",
@@ -424,7 +424,7 @@
     {
       "id": "F28",
       "theme": "C",
-      "fiche": "alcool",
+      "fiche": "placeholder",
       "enonce": "À jeun, si je bois de l'alcool, l'alcoolémie atteindra son maximum dans à peu près :",
       "options": {
         "A": "30 minutes",
@@ -440,7 +440,7 @@
     {
       "id": "F29",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Du 1er au 15 du mois je stationnerai du côté des numéros :",
       "options": {
         "A": "Impairs des immeubles",
@@ -454,7 +454,7 @@
     {
       "id": "F30",
       "theme": "R",
-      "fiche": "distances",
+      "fiche": "placeholder",
       "enonce": "À 50 km/h, la distance de sécurité doit être égale à :",
       "options": {
         "A": "10 mètres",
@@ -469,7 +469,7 @@
     {
       "id": "F31",
       "theme": "M",
-      "fiche": "vision",
+      "fiche": "placeholder",
       "enonce": "Lors de croisements la nuit, je m'oblige à diriger le regard vers la zone :",
       "options": {
         "A": "vers le centre de la chaussée",
@@ -483,7 +483,7 @@
     {
       "id": "F32",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "Je suis bien placé si je roule à :",
       "options": {
         "A": "50 km/h",
@@ -498,7 +498,7 @@
     {
       "id": "F33",
       "theme": "L",
-      "fiche": "assurance",
+      "fiche": "placeholder",
       "enonce": "Propriétaire d'un véhicule en état de circuler, je dois obligatoirement souscrire une assurance comportant, au minimum, la garantie :",
       "options": {
         "A": "Dommage tous accidents",
@@ -513,7 +513,7 @@
     {
       "id": "F34",
       "theme": "E",
-      "fiche": "ecomobilite",
+      "fiche": "placeholder",
       "enonce": "Adopter une conduite apaisée permet ...",
       "options": {
         "A": "une économie de carburant : OUI",
@@ -530,7 +530,7 @@
     {
       "id": "F35",
       "theme": "C",
-      "fiche": "alcool",
+      "fiche": "placeholder",
       "enonce": "Le taux d'alcool maximal est atteint ...",
       "options": {
         "A": "1/2 heure après absorption à jeun : OUI",
@@ -547,7 +547,7 @@
     {
       "id": "F36",
       "theme": "R",
-      "fiche": "distances",
+      "fiche": "placeholder",
       "enonce": "J'augmente la distance de sécurité avec le véhicule qui me précède en fonction de ...",
       "options": {
         "A": "ma vitesse : OUI",
@@ -564,7 +564,7 @@
     {
       "id": "F37",
       "theme": "L",
-      "fiche": "vitesse",
+      "fiche": "placeholder",
       "enonce": "La vitesse est limitée à :",
       "options": {
         "A": "70 km/h",
@@ -580,7 +580,7 @@
     {
       "id": "F38",
       "theme": "M",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Pour stationner à cet endroit je dois laisser mes feux de position allumés :",
       "options": {
         "A": "Oui",
@@ -594,7 +594,7 @@
     {
       "id": "F39",
       "theme": "L",
-      "fiche": "stationnement",
+      "fiche": "placeholder",
       "enonce": "Après ce signal, le stationnement sera ...",
       "options": {
         "A": "payant : OUI",
@@ -611,7 +611,7 @@
     {
       "id": "F40",
       "theme": "L",
-      "fiche": "infractions",
+      "fiche": "placeholder",
       "enonce": "Je commets un excès de vitesse de 45 km/h au dessus de la vitesse autorisée, je risque ...",
       "options": {
         "A": "une amende : OUI",
